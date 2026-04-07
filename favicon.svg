@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Bread top bumps -->
+  <circle cx="18" cy="22" r="12" fill="#d4903e"/>
+  <circle cx="32" cy="18" r="13" fill="#e0a050"/>
+  <circle cx="46" cy="22" r="12" fill="#d4903e"/>
+  <!-- Bread body -->
+  <rect x="10" y="28" width="44" height="22" rx="4" fill="#c8884a"/>
+  <!-- Shine -->
+  <circle cx="28" cy="20" r="5" fill="#ecc080" opacity="0.5"/>
+</svg>
