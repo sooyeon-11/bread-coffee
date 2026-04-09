@@ -166,7 +166,7 @@ body {
 }
 
 .sub-tabs.collapsed {
-  max-height: 72px;
+  max-height: 32px;
   overflow: hidden;
   position: relative;
 }
@@ -1207,7 +1207,7 @@ body {
   .tab-cat { padding: 6px 10px; font-size: 11px; }
   .tab-sub { padding: 4px 9px; font-size: 10px; }
   .sub-tabs { overflow-x: visible; overflow-y: hidden; flex-wrap: wrap; }
-  .sub-tabs.collapsed { max-height: 30px; }
+  .sub-tabs.collapsed { max-height: 28px; }
   .sub-tabs-toggle { display: inline-flex; align-items: center; }
   .cards-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
   .cards-header h2 { font-size: 16px; }
