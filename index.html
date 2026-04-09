@@ -4,6 +4,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>빵굽는 지도, 커피 한 잔</title>
+  <!-- OpenGraph -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="빵굽는 지도, 커피 한 잔">
+  <meta property="og:description" content="내가 체크한 부산/울산/대구/경북 카페와 빵집 모음">
+  <meta property="og:url" content="https://sooyeon-11.github.io/bread-coffee/">
+  <meta property="og:image" content="https://sooyeon-11.github.io/bread-coffee/images/og_img.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
@@ -82,10 +91,35 @@
       <h2 class="map-title">지도에서 보기</h2>
       <div id="map" class="map-container"></div>
     </section>
+
+    <!-- Instagram Section -->
+    <section class="insta-section">
+      <h2 class="insta-section-title">주인장의 카페 후기</h2>
+      <p class="insta-section-desc">직접 다녀온 카페와 빵집 후기를 인스타그램에서 확인하세요</p>
+      <a class="insta-profile-card" href="https://www.instagram.com/xujji_/" target="_blank" rel="noopener">
+        <div class="insta-profile-icon">
+          <svg width="32" height="32" viewBox="0 0 24 24" fill="none"><rect x="2" y="2" width="20" height="20" rx="5" stroke="#e6683c" stroke-width="2"/><circle cx="12" cy="12" r="5" stroke="#e6683c" stroke-width="2"/><circle cx="17.5" cy="6.5" r="1.5" fill="#e6683c"/></svg>
+        </div>
+        <div class="insta-profile-info">
+          <span class="insta-profile-id">@xujji_</span>
+          <span class="insta-profile-label">카페 & 빵집 후기 보러가기 &rarr;</span>
+        </div>
+      </a>
+    </section>
   </main>
 
   <!-- Footer -->
   <footer class="footer">
+    <div class="footer-insta">
+      <a href="https://www.instagram.com/xujji_/" target="_blank" rel="noopener" class="footer-insta-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none"><rect x="2" y="2" width="20" height="20" rx="5" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="12" r="5" stroke="currentColor" stroke-width="2"/><circle cx="17.5" cy="6.5" r="1.5" fill="currentColor"/></svg>
+        @xujji_
+      </a>
+      <a href="https://www.instagram.com/xuvea2/" target="_blank" rel="noopener" class="footer-insta-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none"><rect x="2" y="2" width="20" height="20" rx="5" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="12" r="5" stroke="currentColor" stroke-width="2"/><circle cx="17.5" cy="6.5" r="1.5" fill="currentColor"/></svg>
+        @xuvea2
+      </a>
+    </div>
     <p>&copy; youn.so</p>
   </footer>
 
