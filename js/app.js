@@ -29,8 +29,9 @@
   const sliderNext = document.getElementById('sliderNext');
   const sliderDots = document.getElementById('sliderDots');
 
-  const BUSAN_OTHER_SUBS = ['강서구', '동구', '동래', '북구', '사하구', '남구', '사상구'];
   const TAB_IDS = ['tabHome', 'tabMenu', 'tabReview', 'tabInfo'];
+  // Minimum count to show as separate sub-tab (otherwise goes to 기타)
+  const SUB_TAB_MIN = 3;
 
   // ========== Helpers ==========
   function formatPrice(price) {
@@ -40,12 +41,18 @@
     return num.toLocaleString('ko-KR') + '원';
   }
 
+  function getStores() { return typeof STORES_DATA !== 'undefined' ? STORES_DATA : []; }
+
   function getFilteredStores() {
-    let stores = typeof STORES_DATA !== 'undefined' ? STORES_DATA : [];
+    let stores = getStores();
     if (currentRegion !== 'all') stores = stores.filter(s => s.region === currentRegion);
-    if (currentRegion === '부산' && currentSubRegion !== 'all') {
-      if (currentSubRegion === '기타') stores = stores.filter(s => BUSAN_OTHER_SUBS.includes(s.subRegion));
-      else stores = stores.filter(s => s.subRegion === currentSubRegion);
+    if (currentSubRegion !== 'all') {
+      if (currentSubRegion === '기타') {
+        const mainSubs = getSubRegions(currentRegion).map(s => s.name);
+        stores = stores.filter(s => !mainSubs.includes(s.subRegion || s.district));
+      } else {
+        stores = stores.filter(s => (s.subRegion || s.district) === currentSubRegion);
+      }
     }
     if (currentCategory !== 'all') stores = stores.filter(s => s.category === currentCategory);
     if (searchQuery) {
@@ -58,28 +65,73 @@
     return stores;
   }
 
-  function updateTabCounts() {
-    const stores = typeof STORES_DATA !== 'undefined' ? STORES_DATA : [];
-    const regions = { '부산': 0, '울산': 0, '대구': 0, '경북': 0 };
-    stores.forEach(s => { if (regions[s.region] !== undefined) regions[s.region]++; });
-    regionTabs.querySelectorAll('.tab-main').forEach(tab => {
-      const region = tab.dataset.region;
-      tab.innerHTML = `${region} <span class="tab-count">(${regions[region] || 0})</span>`;
+  // Get unique regions from data, sorted by count descending
+  function getRegions() {
+    const stores = getStores();
+    const counts = {};
+    stores.forEach(s => { counts[s.region] = (counts[s.region] || 0) + 1; });
+    return Object.entries(counts).sort((a, b) => b[1] - a[1]).map(([name, count]) => ({ name, count }));
+  }
+
+  // Get sub-regions for a given region (district or subRegion)
+  function getSubRegions(region) {
+    const stores = getStores().filter(s => s.region === region);
+    const counts = {};
+    stores.forEach(s => {
+      const sub = s.subRegion || s.district;
+      if (sub) counts[sub] = (counts[sub] || 0) + 1;
     });
-    if (currentRegion === '부산') {
-      const busanStores = stores.filter(s => s.region === '부산');
-      subTabs.querySelectorAll('.tab-sub').forEach(tab => {
-        const sub = tab.dataset.sub;
-        let count;
-        if (sub === 'all') count = busanStores.length;
-        else if (sub === '기타') count = busanStores.filter(s => BUSAN_OTHER_SUBS.includes(s.subRegion)).length;
-        else count = busanStores.filter(s => s.subRegion === sub).length;
-        tab.innerHTML = `${sub === 'all' ? '전체' : sub} <span class="tab-count">(${count})</span>`;
-      });
+    const entries = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+    const main = entries.filter(([, c]) => c >= SUB_TAB_MIN);
+    const etcCount = entries.filter(([, c]) => c < SUB_TAB_MIN).reduce((sum, [, c]) => sum + c, 0);
+    const result = main.map(([name, count]) => ({ name, count }));
+    if (etcCount > 0) result.push({ name: '기타', count: etcCount });
+    return result;
+  }
+
+  // Build region tabs dynamically
+  function buildRegionTabs() {
+    const regions = getRegions();
+    regionTabs.innerHTML = '';
+    regions.forEach((r, i) => {
+      const btn = document.createElement('button');
+      btn.className = `tab tab-main${i === 0 ? ' active' : ''}`;
+      btn.dataset.region = r.name;
+      btn.innerHTML = `${r.name} <span class="tab-count">(${r.count})</span>`;
+      regionTabs.appendChild(btn);
+    });
+    if (regions.length > 0 && !regions.find(r => r.name === currentRegion)) {
+      currentRegion = regions[0].name;
     }
   }
 
-  function updateSubTabsVisibility() { subTabs.hidden = currentRegion !== '부산'; }
+  // Build sub-region tabs dynamically
+  function buildSubTabs() {
+    const subs = getSubRegions(currentRegion);
+    subTabs.innerHTML = '';
+    if (subs.length <= 1) { subTabs.hidden = true; return; }
+
+    const totalCount = getStores().filter(s => s.region === currentRegion).length;
+    // 전체 button
+    const allBtn = document.createElement('button');
+    allBtn.className = 'tab tab-sub active';
+    allBtn.dataset.sub = 'all';
+    allBtn.innerHTML = `전체 <span class="tab-count">(${totalCount})</span>`;
+    subTabs.appendChild(allBtn);
+
+    subs.forEach(s => {
+      const btn = document.createElement('button');
+      btn.className = 'tab tab-sub';
+      btn.dataset.sub = s.name;
+      btn.innerHTML = `${s.name} <span class="tab-count">(${s.count})</span>`;
+      subTabs.appendChild(btn);
+    });
+
+    subTabs.hidden = false;
+    currentSubRegion = 'all';
+  }
+
+  function updateSubTabsVisibility() { buildSubTabs(); }
 
   function createCard(store) {
     const card = document.createElement('div');
@@ -352,9 +404,9 @@
     currentRegion = mainTab.dataset.region;
     currentSubRegion = 'all';
     displayCount = getPageSize();
-    subTabs.querySelectorAll('.tab-sub').forEach(t => t.classList.remove('active'));
-    subTabs.querySelector('[data-sub="all"]').classList.add('active');
-    updateSubTabsVisibility(); updateTabCounts(); renderCards();
+    buildSubTabs();
+    initSubTabsCollapse();
+    renderCards();
   });
 
   catTabs.addEventListener('click', (e) => {
@@ -430,18 +482,15 @@
   initSubTabsCollapse();
 
   // Load data from JSON
+  function initWithData() {
+    buildRegionTabs();
+    buildSubTabs();
+    initSubTabsCollapse();
+    renderCards();
+  }
+
   fetch('data/stores.json')
     .then(res => res.json())
-    .then(data => {
-      window.STORES_DATA = data;
-      updateTabCounts();
-      renderCards();
-    })
-    .catch(() => {
-      // Fallback: try stores.js global
-      if (typeof STORES_DATA !== 'undefined') {
-        updateTabCounts();
-        renderCards();
-      }
-    });
+    .then(data => { window.STORES_DATA = data; initWithData(); })
+    .catch(() => { if (typeof STORES_DATA !== 'undefined') initWithData(); });
 })();

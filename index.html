@@ -38,29 +38,10 @@
   <!-- Region Tabs -->
   <nav class="tabs-section">
     <div class="tabs-scroll-wrapper" id="tabsWrapper">
-      <!-- 1줄: 지역 -->
-      <div class="tabs-row" id="regionTabs">
-        <button class="tab tab-main active" data-region="부산" data-type="main">부산</button>
-        <button class="tab tab-main" data-region="울산" data-type="main">울산</button>
-        <button class="tab tab-main" data-region="대구" data-type="main">대구</button>
-        <button class="tab tab-main" data-region="경북" data-type="main">경북</button>
-      </div>
-      <!-- 2줄: 동네 (부산일 때만) -->
-      <div class="tabs-row sub-tabs" id="subTabs">
-        <button class="tab tab-sub active" data-sub="all">전체</button>
-        <button class="tab tab-sub" data-sub="전포">전포</button>
-        <button class="tab tab-sub" data-sub="서면">서면</button>
-        <button class="tab tab-sub" data-sub="광안리">광안리</button>
-        <button class="tab tab-sub" data-sub="해운대">해운대</button>
-        <button class="tab tab-sub" data-sub="연제구">연제구</button>
-        <button class="tab tab-sub" data-sub="수영">수영</button>
-        <button class="tab tab-sub" data-sub="영도">영도</button>
-        <button class="tab tab-sub" data-sub="기장">기장</button>
-        <button class="tab tab-sub" data-sub="금정구">금정구</button>
-        <button class="tab tab-sub" data-sub="남포/중구">남포/중구</button>
-        <button class="tab tab-sub" data-sub="동래">동래</button>
-        <button class="tab tab-sub" data-sub="기타">기타</button>
-      </div>
+      <!-- 1줄: 지역 (JS에서 동적 생성) -->
+      <div class="tabs-row" id="regionTabs"></div>
+      <!-- 2줄: 동네 (부산일 때만, JS에서 동적 생성) -->
+      <div class="tabs-row sub-tabs" id="subTabs"></div>
       <button class="sub-tabs-toggle" id="subTabsToggle">더보기 ▾</button>
       <!-- 3줄: 카테고리 -->
       <div class="tabs-row cat-tabs" id="catTabs">

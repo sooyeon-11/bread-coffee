@@ -225,7 +225,7 @@ async function collectStoreData(sid, bookmark) {
     id: sid, name: b.name, address: b.address,
     roadAddress: pd?.address?.roadAddress || b.address,
     region, district,
-    subRegion: region === '부산' ? getBusanSubRegion(b.address, district) : '',
+    subRegion: region === '부산' ? getBusanSubRegion(b.address, district) : district,
     lat: b.py, lng: b.px,
     category: classifyCategory(naverCategory), mcid: b.mcid, naverCategory,
     phone: pd?.tel || '', virtualPhone,
