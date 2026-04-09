@@ -1,0 +1,11 @@
+node_modules/
+.claude/
+scripts/test-*.js
+scripts/check-*.js
+scripts/extract-*.js
+scripts/fetch-data.js
+scripts/fill-*.js
+scripts/update-*.js
+scripts/enrich-*.js
+scripts/add-*.js
+js/stores.js
