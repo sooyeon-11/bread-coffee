@@ -554,6 +554,39 @@ body {
   margin-top: 2px;
 }
 
+/* ========== Cross Link ========== */
+.cross-link-section {
+  text-align: center;
+  margin-top: 40px;
+  padding: 32px 20px;
+  background: #fff;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+.cross-link-text {
+  font-size: 15px;
+  color: var(--text-light);
+  margin-bottom: 14px;
+}
+
+.cross-link-btn {
+  display: inline-block;
+  font-family: 'Cafe24Surround', sans-serif;
+  font-size: 17px;
+  color: var(--primary-dark);
+  text-decoration: none;
+  padding: 12px 28px;
+  border: 2px solid var(--primary);
+  border-radius: 30px;
+  transition: all 0.2s;
+}
+
+.cross-link-btn:hover {
+  background: var(--primary);
+  color: #fff;
+}
+
 /* ========== Footer ========== */
 .footer {
   text-align: center;
