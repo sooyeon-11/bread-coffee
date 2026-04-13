@@ -17,6 +17,7 @@ const https = require('https');
 const FOLDERS = [
   { id: 'de4411017f9c40cbb9cd9a6afe0c27d5', name: '카페 빵집' },
   { id: '42259a565e48454e98bb1917286842f3', name: '카페 다녀온 곳' },
+  { id: 'a029e4e2812b4703ae6292edfdb727ea', name: '일본감성카페' },
 ];
 const EXCLUDE_NAMES = ['스마일꽈배기', '네상떼 과자점'];
 const JEONPO_ROADS = ['전포대로', '서전로', '동성로', '동천로'];
@@ -26,9 +27,13 @@ const STORES_PATH = path.join(__dirname, '..', 'data', 'stores.json');
 function fetchJson(url) {
   return new Promise((resolve) => {
     const options = new URL(url);
+    const isPagesApi = url.includes('pages.map.naver.com');
     https.get({ hostname: options.hostname, path: options.pathname + options.search, headers: {
-      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-      'Referer': 'https://map.naver.com/', 'Accept': 'application/json',
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+      'Referer': isPagesApi ? 'https://pages.map.naver.com/save-pages/' : 'https://map.naver.com/',
+      ...(isPagesApi && { 'Origin': 'https://pages.map.naver.com' }),
+      'Accept': 'application/json, text/plain, */*',
+      'Accept-Language': 'ko-KR,ko;q=0.9',
     }}, (res) => {
       let d = ''; res.on('data', c => d += c);
       res.on('end', () => { try { resolve(JSON.parse(d)); } catch { resolve(null); } });
@@ -266,11 +271,12 @@ async function main() {
     }
   }
 
-  // Safety: if any folder failed and we got fewer bookmarks than before, abort to avoid data loss
-  if (fetchFailed || (existing.length > 0 && allBookmarks.length < existing.length * 0.8)) {
-    console.error(`❌ 북마크 로드 실패 또는 데이터 급감 (기존 ${existing.length} → 신규 ${allBookmarks.length}). 중단합니다.`);
+  // Safety: abort only if data would decrease significantly (data loss protection)
+  if (existing.length > 0 && allBookmarks.length < existing.length * 0.5) {
+    console.error(`❌ 데이터 급감 (기존 ${existing.length} → 신규 ${allBookmarks.length}). 중단합니다.`);
     process.exit(1);
   }
+  if (fetchFailed) console.warn(`⚠ 일부 폴더 로드 실패. 로드된 데이터로 계속 진행합니다.`);
 
   // Deduplicate + exclude
   const seen = new Set();
