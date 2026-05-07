@@ -531,6 +531,10 @@ body {
   display: block;
 }
 
+.insta-card-img-top {
+  object-position: top;
+}
+
 .insta-card-overlay {
   position: absolute;
   inset: 0;
