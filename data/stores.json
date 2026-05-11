@@ -50340,5 +50340,182 @@
       }
     ],
     "folderName": "카페 빵집"
+  },
+  {
+    "id": "1516439720",
+    "name": "바게트제작소",
+    "address": "부산 부산진구 전포동 690-5 ",
+    "roadAddress": "부산 부산진구 전포대로199번길 19",
+    "region": "부산",
+    "district": "부산진구",
+    "subRegion": "서면",
+    "lat": 35.1542158,
+    "lng": 129.0639758,
+    "category": "베이커리",
+    "mcid": "CAFE",
+    "naverCategory": "베이커리",
+    "phone": "",
+    "virtualPhone": "",
+    "hours": "10:00에 영업 시작",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20240426_209/1714097079362ummMO_JPEG/IMG_1359%BC%F6%C1%A4.JPG",
+      "https://ldb-phinf.pstatic.net/20240626_288/1719391679621LOXvJ_JPEG/KakaoTalk_20240626_174420532_01.jpg",
+      "https://ldb-phinf.pstatic.net/20240426_206/17140970783271v77v_JPEG/IMG_6405%BC%F6%C1%A4.JPG",
+      "https://ldb-phinf.pstatic.net/20240426_147/1714097078937HflHK_JPEG/IMG_6458%BC%F6%C1%A4.JPG",
+      "https://ldb-phinf.pstatic.net/20240426_260/1714097078610jTY8b_JPEG/IMG_1399%BC%F6%C1%A4.JPG",
+      "https://ldb-phinf.pstatic.net/20240426_124/1714097080318Da3NL_JPEG/IMG_1372.jpg",
+      "https://ldb-phinf.pstatic.net/20240426_59/17140970792720JnxL_JPEG/IMG_1447%BC%F6%C1%A4.JPG",
+      "https://ldb-phinf.pstatic.net/20240426_231/1714097079272F7X9d_JPEG/IMG_1442%BC%F6%C1%A4.JPG",
+      "https://ldb-phinf.pstatic.net/20240426_102/1714097078995sEakN_JPEG/IMG_1383%BC%F6%C1%A4.JPG",
+      "https://ldb-phinf.pstatic.net/20240426_120/17140970786535vRmw_JPEG/IMG_1381%BC%F6%C1%A4.JPG",
+      "https://ldb-phinf.pstatic.net/20240426_256/1714097078654NAJHA_JPEG/IMG_1378%BC%F6%C1%A4.JPG",
+      "https://ldb-phinf.pstatic.net/20240426_6/1714097078712n51Rr_JPEG/IMG_1369%BC%F6%C1%A4_1.JPG",
+      "https://ldb-phinf.pstatic.net/20240426_135/1714097078724OagrC_JPEG/IMG_1369%BC%F6%C1%A4.JPG",
+      "https://ldb-phinf.pstatic.net/20240426_171/1714097078681bw2xJ_JPEG/IMG_1367%BC%F6%C1%A4.JPG",
+      "https://ldb-phinf.pstatic.net/20180213_236/1518487677679gHUBx_JPEG/NHqc2apC_1X6MSAICgvfKi3a.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20240426_209/1714097079362ummMO_JPEG/IMG_1359%BC%F6%C1%A4.JPG",
+    "reviews": "방문자 리뷰 2,358",
+    "naverPlaceUrl": "https://m.place.naver.com/place/1516439720",
+    "instagramUrl": "https://www.instagram.com/baguette_factory",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "🥖한정판매🥖 전통 바게트",
+        "price": "5000",
+        "image": "https://ldb-phinf.pstatic.net/20250730_64/1753839188140VgkUF_JPEG/%C0%FC%C5%EB%B9%D9%B0%D4%C6%AE.jpg"
+      },
+      {
+        "name": "🥖한정판매🥖유기농 통밀 바게트",
+        "price": "5500",
+        "image": "https://ldb-phinf.pstatic.net/20250429_132/1745917131791F2XfD_JPEG/KakaoTalk_20250429_133913305_01.jpg"
+      },
+      {
+        "name": "초코바게트",
+        "price": "6500",
+        "image": "https://ldb-phinf.pstatic.net/20260323_251/1774227291008A2jff_JPEG/KakaoTalk_20260323_094815886.jpg"
+      },
+      {
+        "name": "다크초코피칸",
+        "price": "4500",
+        "image": "https://ldb-phinf.pstatic.net/20260108_125/1767845983902EePYL_JPEG/KakaoTalk_20260108_124830798_04.jpg"
+      },
+      {
+        "name": "버터바",
+        "price": "4000",
+        "image": "https://ldb-phinf.pstatic.net/20260108_230/1767846020494XNuJx_JPEG/KakaoTalk_20260108_124830798_05.jpg"
+      },
+      {
+        "name": "👍인기최고👍 시그니처 에그타르트",
+        "price": "3000",
+        "image": "https://ldb-phinf.pstatic.net/20250429_97/1745917147753vIsCT_JPEG/KakaoTalk_20250429_133913305.jpg"
+      },
+      {
+        "name": "앙버터 크로와상",
+        "price": "6200",
+        "image": "https://ldb-phinf.pstatic.net/20250710_25/1752128845695jW9vr_JPEG/KakaoTalk_20250710_123113540.jpg"
+      },
+      {
+        "name": "소금빵",
+        "price": "3000",
+        "image": "https://ldb-phinf.pstatic.net/20250710_176/1752128826287lRXUd_JPEG/KakaoTalk_20250710_123051266.jpg"
+      },
+      {
+        "name": "몽블랑",
+        "price": "6000",
+        "image": "https://ldb-phinf.pstatic.net/20250710_39/1752128808181Jad0x_JPEG/KakaoTalk_20250710_123020890.jpg"
+      },
+      {
+        "name": "현미바게트",
+        "price": "4500",
+        "image": "https://ldb-phinf.pstatic.net/20250710_248/1752128792056dm2UA_JPEG/KakaoTalk_20250710_122943366.jpg"
+      }
+    ],
+    "microReview": "서면의 빵지순례 필수 방문지",
+    "conveniences": [
+      "포장",
+      "무선 인터넷",
+      "남/녀 화장실 구분"
+    ],
+    "roadGuide": "서면베이커리 바게트제작소 찾아오시는 길\n\n<자차 이용 시>\n주차 불가능하니, 인근 주차장 이용 부탁드립니다 :)\n주차장은 따로 없지만 가게 바로 옆 유료 주차장이 있습니다.\n\n<지하철 이용 시>\n지하철 전포역7번출구에서 서면방향115m\n에드윌학원건물 cu전포합격점 바로 옆\n전포역에서 도보 2분 거리에 위치하고 있습니다.\n\n<도보 이용 시>\n스타벅스 전포역점 바로 위 cu편의점 옆에 위치하고 있습니다.",
+    "nearestSubway": {
+      "name": "전포역",
+      "exit": "7",
+      "walkTime": 2
+    },
+    "seatInfo": [],
+    "blogReviews": [
+      {
+        "title": "서면 베이커리 바게트제작소 잠봉샌드위치, 에그타르트, 크로와상 솔직리뷰 빵지순례 맛집",
+        "url": "https://m.blog.naver.com/jiddumiss/224212723209",
+        "name": "부산댁, 육아일상"
+      },
+      {
+        "title": "(정보통)전포동 빵 맛집 바게트제작소",
+        "url": "https://m.cafe.naver.com/busanmam/621747?query=%EB%B6%80%EC%82%B0%EB%A7%98%EC%B9%B4%ED%8E%98%E3%85%A3%EB%B6%80%EC%82%B0%EB%A7%98%20%EB%B6%81%EA%B5%AC%EA%B0%95%EC%84%9C%EB%A7%98%20%EA%B9%80%ED%95%B4%EB%A7%98%EC%96%91%EC%82%B0%EB%A7%98%20%ED%9C%B4%EB%8C%80%ED%8F%B0%EC%84%B1%EC%A7%80%20%EB%A7%98%EC%B9%B4%ED%8E%98",
+        "name": "부산맘카페ㅣ부산맘 북구강서맘 김해맘양산맘 휴대폰성지 맘카페"
+      },
+      {
+        "title": "[부산/부산진구] 지나가다가 빵 냄새에 홀려서 들어간 맛있는 빵집 &quot;바게트제작소&quot;",
+        "url": "https://m.blog.naver.com/sheep0722/224190088978",
+        "name": "소소한 일상의 기록"
+      }
+    ],
+    "reviewTotal": 2358,
+    "imageReviewCount": 661,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "서비스",
+      "메뉴",
+      "가격"
+    ],
+    "visitorReviews": [
+      {
+        "body": "서면에 요즘 핫플 베이커리로 뜨고 있는 바게트제작소에 다녀왔어요. 빵을 좋아하는 사람들이라면 부산서면 빵지순례로 꼭 들러봐야 하는곳이라 궁금했는데 바게트로 샌드위치메뉴가 있어 한끼 식사로도 너무 좋더라구요. 특히 아보카도샌드위치와 잠봉뵈르 샌드위치는 점심식사대용으로 사봤어요! 에그타르트도 너무 맛있더라구요.그 외에 다양한 빵종류들 다양하고 프랑스 황실조리학",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA0MTZfMTgy/MDAxNzc2MzI5MjIwMTY1.9w1n6nPnInkrUDifeCXXFOoS_fvwEuUeUIf-SEa3SRAg._O0op7gYWXPrw-yQ97UXIKS96OXO9IlgKA4u0TBiDx8g.JPEG/1000052650.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA0MTZfMjEg/MDAxNzc2MzI5MjIwNTIw.ig2TT1QdqkbDa5538gHYA355uQ0PEbeChsJvSF3jRa0g.qdGnW-SiXrUaZ6Lv-sjDLwkNyoj5Yr4lCNdtQLPdXBgg.JPEG/1000052649.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA0MTZfMjI5/MDAxNzc2MzI5MjIwMTY1.uhfMIY47M_wIRjKOnP1cY0Dxkuxl6t1DAejMjzU7kw0g.-N-FrOcazcl43f90i4mpx2CujMHTXseJmbKCYSkC5OYg.JPEG/1000052645.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "jh7021"
+      },
+      {
+        "body": "서면 베이커리 필수 코스 바게트제작소!!제과기능장님이 만드셔서 그런지 빵 퀄리티가 남다르고 곡물탕종 바게트라 식감이 정말 쫄깃하고 맛있어요ㅎㅎ요즘 날씨에 바게트 샌드위치 사서 피크닉 가기 딱 좋네요! 초코바게트도 소문대로 별미~ 천연 재료를 써서 그런지 먹고 나서 속도 편안해서 자주 올 것 같아요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MDZfMjAw/MDAxNzc4MDY1NDcxNjk0.EobHI1EAXCZpKPXtGzMzrnoE1Wrf7o5aiT5vhd9YJgog.ARHmdlPKtanxGi-YzlJYtR8lKxFBGYeK6rx7aU8ViUIg.JPEG/20260505_130947.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MDZfMTIw/MDAxNzc4MDY1NDcxNzk4.Ab1kclBGnnm5Cxd_nZw9MNMSTizzF2zzI9p4V-Qxyscg.qQ1Ejz8gL6U7I873wjtbjKVznfkgSGyyzBc4lfEKc8sg.JPEG/20260505_131735.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "친밍이"
+      },
+      {
+        "body": "서면 베이커리 바게트제작소 방문해서 잠봉뵈르 샌드위치랑 여러 빵 구매했어요. 바게트가 겉은 바삭하고 속은 쫄깃해서 식감이 정말 좋았고, 버터랑 햄 조합이 잘 어울려서 식사 대용으로 딱이었어요. 전체적으로 빵 퀄리티가 좋아서 또 방문하려구요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA0MTBfMTU0/MDAxNzc1ODEyNDgzOTY1.qfXnBaDDw-x-JuP7HaL7FVucSTUCH8WGEpzVpYG6W14g.kLg7cC5FfZhMKdAwVMrLv7BcaKc6Y6Y4PpWqI5T6fY0g.JPEG/20260407_113134.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA0MTBfMjEy/MDAxNzc1ODEyNDgzOTg0.0vNzUd0YEXoQJ3lBwejUy19ROF51kqfGQG-9MYelj0og.5M5UbhUF4boketYxXTLoYIQj927u1sgHe_JKRfbhdGkg.JPEG/20260407_113739.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA0MTBfMjQ3/MDAxNzc1ODEyNDgzOTk5.fGAbunbprQ7V0QYGMEn3w45xze4xbWhA6vJW9RYbJJEg.6TWmogMWv4ggLUBvVu3T5WbYiPYDNlNrYo5ExvEQMC8g.JPEG/20260407_113957.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "yjin07"
+      },
+      {
+        "body": "여긴왜유명한지알겠어요 바게트종류도진짜많고 바게트의정석같아요 너무맛있었고 샌드위치도최고! 바게트좋아하면꼭들리세요+",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MDlfMzAg/MDAxNzc4MzI0NDc3NDMw.msLFjuy7IVA_A_Cl74l20LrhJ5qKNgCVHCu9wSt5bx0g.4FfGon0S2xv3rOMpaYQ51QlUHl-rbarrF0fEZjKMWeMg.JPEG/20260508_124546.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MDlfMTA4/MDAxNzc4MzI0NDc3NzAz.-hhR-2xY7aCYceO_1Uh_fqZPohHslnMYQ8WHymMJbmIg.SmNXTx0WD9c4WTs3yWOAxOfPxEyvPbr5Hi_A9q31IzEg.JPEG/20260508_124141.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "아기단감"
+      },
+      {
+        "body": "기본에 충실한 베이커리예요.\n이가 약해서 바게트 별로안좋아하는데 여기 바게트는 많이 딱딱하지않고 쫄깃한 식감이 맛있어서 좋아해요:)\n크로와상 같이 겹겹이 하는 빵도 다 맛있었어요.\n에그타르트, 크로와상샌드위치 Goood♥︎\n다음엔 몽블랑이랑 소금빵 뿌시러가보려구용 ㅋㅋ\n빵지순례 제대로하고왔네요!*_*",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjAzMTFfMjEg/MDAxNzczMTg5MTcwMDM3.VTJvOVhXhK0Zcq3hB_BtNP6BYasrXdoNaA_9iNewa1Ug.fUPM-8rbk9W6QSncTJe2tF5EnbgQZZHlCNIRwDV0cFkg.JPEG/20260309_123259.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjAzMTFfMTA5/MDAxNzczMTg5MTcwMzI3.rqVQ78E5J5aApwtXDLgrFQtsiy-g9K6QDEES1AjUkM8g.j2BNANSMkXH0CNR97os3aYBk9qtu3dgYK9-GzkR9Ky8g.JPEG/20260309_124413.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjAzMTFfMzcg/MDAxNzczMTg5MTY5MjEx.udXwtx8sz2-wkV3sZNSK-K7WL4_SYywECcpilqk6tq8g.twl6Q9poz95uCgIpBC5967IdDilq_gNSZXzsXxntqkYg.JPEG/20260309_124942.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "Mejisu"
+      }
+    ],
+    "folderName": "카페 빵집"
   }
 ]
