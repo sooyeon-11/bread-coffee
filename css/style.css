@@ -501,9 +501,9 @@ body {
 
 .insta-cards-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   gap: 14px;
-  max-width: 1080px;
+  max-width: 340px;
   margin: 0 auto;
 }
 
@@ -511,7 +511,7 @@ body {
   display: block;
   position: relative;
   width: 100%;
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 1 / 1;
   border-radius: var(--radius);
   overflow: hidden;
   box-shadow: var(--shadow);
