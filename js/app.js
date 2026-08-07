@@ -43,6 +43,15 @@
 
   function getStores() { return typeof STORES_DATA !== 'undefined' ? STORES_DATA : []; }
 
+  // Assign a one-time random key per store so the card order is shuffled
+  // fresh on each page load, but stays stable during searching/paging.
+  let _shuffled = false;
+  function ensureShuffle() {
+    if (_shuffled) return;
+    getStores().forEach(s => { s._rand = Math.random(); });
+    _shuffled = true;
+  }
+
   function getFilteredStores() {
     let stores = getStores();
     if (currentRegion !== 'all') stores = stores.filter(s => s.region === currentRegion);
@@ -64,8 +73,15 @@
         (s.menus && s.menus.some(m => m.name && m.name.toLowerCase().includes(q)))
       );
     }
-    // Sort: stores with images first
-    stores.sort((a, b) => (b.images?.length || 0) - (a.images?.length || 0));
+    // Random order per visit: stores with images stay ahead of image-less
+    // ones (so the grid looks full), shuffled among themselves each load.
+    ensureShuffle();
+    stores.sort((a, b) => {
+      const ai = (a.images?.length || 0) > 0 ? 1 : 0;
+      const bi = (b.images?.length || 0) > 0 ? 1 : 0;
+      if (ai !== bi) return bi - ai;
+      return a._rand - b._rand;
+    });
     return stores;
   }
 
