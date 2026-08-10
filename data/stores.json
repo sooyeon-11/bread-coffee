@@ -71648,5 +71648,316 @@
       }
     ],
     "folderName": "카페 빵집"
+  },
+  {
+    "id": "1268577977",
+    "name": "아틀리에스미다",
+    "address": "부산 수영구 과정로41번길 20",
+    "roadAddress": "부산 수영구 과정로41번길 20 1층",
+    "region": "부산",
+    "district": "수영구",
+    "subRegion": "수영",
+    "lat": 35.1751905,
+    "lng": 129.1062959,
+    "category": "디저트",
+    "mcid": "CAFE",
+    "naverCategory": "카페,디저트",
+    "phone": "",
+    "virtualPhone": "0507-1306-4120",
+    "hours": "11:00에 영업 시작",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20260731_134/1785483448635Omkr0_JPEG/IMG_2187.jpg",
+      "https://ldb-phinf.pstatic.net/20260703_296/17830547590299cAbw_JPEG/%BA%B9%BC%FE%BE%C6%A4%B7%A4%B7%A4%B7%A4%B7%A4%B7.jpg",
+      "https://ldb-phinf.pstatic.net/20260514_19/177873812419169Tzj_JPEG/KakaoTalk_20240616_115535388_03.jpg",
+      "https://ldb-phinf.pstatic.net/20260703_236/17830566045593jVvi_JPEG/KakaoTalk_20260702_111748360_04.jpg",
+      "https://ldb-phinf.pstatic.net/20230520_171/1684566626186RlAQh_JPEG/KakaoTalk_20230520_160924287.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20260731_134/1785483448635Omkr0_JPEG/IMG_2187.jpg",
+    "reviews": "방문자 리뷰 2,227",
+    "naverPlaceUrl": "https://m.place.naver.com/place/1268577977",
+    "instagramUrl": "https://www.instagram.com/atelier.smida",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "사르르1호",
+        "price": "60000",
+        "image": "https://ldb-phinf.pstatic.net/20260619_72/17818612960839yeIS_JPEG/KakaoTalk_20240703_120147253.jpg"
+      },
+      {
+        "name": "4호2단케이크",
+        "price": "260000",
+        "image": "https://ldb-phinf.pstatic.net/20260619_203/1781861306648wbCUC_JPEG/KakaoTalk_20240711_131003877_18.jpg"
+      },
+      {
+        "name": "조각모둠케이크",
+        "price": "",
+        "image": "https://ldb-phinf.pstatic.net/20260531_51/1780207914970aBLly_JPEG/KakaoTalk_20240518_160606622_03.jpg"
+      },
+      {
+        "name": "BLOSSOM",
+        "price": "50000",
+        "image": "https://ldb-phinf.pstatic.net/20240706_125/1720260017550z6cEG_JPEG/KakaoTalk_20240706_171654616_03.jpg"
+      },
+      {
+        "name": "순수우유케이크1호",
+        "price": "38000",
+        "image": "https://ldb-phinf.pstatic.net/20250406_105/1743934288834W2Lz6_JPEG/KakaoTalk_20250325_145559876.jpg"
+      },
+      {
+        "name": "산도답례품",
+        "price": "16000",
+        "image": "https://ldb-phinf.pstatic.net/20240315_254/1710491861273Sl3dC_JPEG/KakaoTalk_20240308_130148636_11.jpg"
+      }
+    ],
+    "microReview": "드립커피와 어울리는 한 조각의 행복",
+    "conveniences": [
+      "주차"
+    ],
+    "roadGuide": "아틀리에 스미다 오시는 길\n\n[버스 이용 시]\n망미중앙시장 정류소 하차\n정차 버스: 210번, 42번, 49번, 54번, 57번\n하차 후 부산은행 골목으로 들어오세요.\n도보 약 3분 이내 도착\n\n[지하철 이용 시]\n부산 지하철 3호선 망미역 하차\n4번 출구로 나와 직진, 부산은행 골목으로 들어오시면 됩니다.\n도보 약 8분 소요\n\n[자차 이용 시]\n네비게이션 주소: 부산 수영구 과정로41번길 20\n예상 소요 시간:\n광안리 해수욕장 - 약 15분 이내\n해운대 해수욕장 - 약 25분 이내\n서면 - 약 30분 이내\n\n[주차 안내]\n픽업 시: 매장 앞 10분 이내 정차 가능\n카페 이용 시: 건물 내 타워 주차장 1시간 무료 이용 가능",
+    "nearestSubway": {
+      "name": "망미역",
+      "exit": "4",
+      "walkTime": 8
+    },
+    "seatInfo": [
+      {
+        "name": "단체석",
+        "description": "최소 4명 ~ 최대 6명"
+      }
+    ],
+    "blogReviews": [
+      {
+        "title": "부산 광안리 인근 카페 로컬 과일 케이크 전문 아틀리에스미다",
+        "url": "https://m.blog.naver.com/new_naeun/224247572924",
+        "name": "함께 신나베리⭐️"
+      },
+      {
+        "title": "부산 대표 케이크 맛집 부산3대 딸기케이크맛집 아틀리에스미다 배송택배 후기",
+        "url": "https://m.blog.naver.com/aprilsong19/224255479714",
+        "name": "좌충우돌 민둥민둥"
+      },
+      {
+        "title": "부산 식도락 여행 DAY 4 (굿바이 부산)",
+        "url": "https://m.cafe.naver.com/yeringainu/54331?query=%EC%98%88%EB%9E%91%EA%B0%80%EB%9E%91%EB%84%88%EB%9E%91",
+        "name": "예랑가랑너랑"
+      }
+    ],
+    "reviewTotal": 2227,
+    "imageReviewCount": 993,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "목적",
+      "서비스",
+      "예약"
+    ],
+    "visitorReviews": [
+      {
+        "body": "망미동사람은 미포로 옮겨서 웁니다🥹 미포점 오픈했다고 해서 와봤는데 너무너무 예쁘네요!! 뷰도 너무 좋고, 디저트도 역시 맛있고 😌🤍 바다보면서 예쁜 디저트 먹으니까 더 기분이 좋아지는 것 같아요!!!!! 또 와야지",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDdfMjM1/MDAxNzg2MDg0NDUwNTk5.LiLafNulnYq1c1fBXvMSkzL-PESRUOd9qtFlahsuqzEg.xOGaHg18SztG-MChSoDybP-cSK4mQCVbUsfW3TuwoP4g.JPEG/2527FB9F-9282-444E-B5E0-550A68F35EEA.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDdfMTg4/MDAxNzg2MDg0NDUwMzc4.fTZEFN8J6X9J7NtB6uBoQNMuL7WF_0uMY3DzC9KHGtQg.JSLBjbVmWexM0-4zJsBuIIeU5-WCR6Jm8rLi22atsJUg.JPEG/43D6A634-6677-49CC-B2BC-95C7F75BBB62.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDdfMzIg/MDAxNzg2MDg0NDQ5OTMy.KCOZMjrZgbhWCgrbV_SlKZskWDd3V7cIKNPFVsBNhEgg.40fmGSw9Gy232DsSDh9lCEYqO0jCl8_CpO0qI6zPyRQg.JPEG/8C977FC9-55A9-4C40-A0F5-C11464EFAF90.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "요용용요요용"
+      },
+      {
+        "body": "스미다 미포점에 다녀왔습니다~ :) 구리 수택동 매장부터 다녔는데 망미동 다음 미포에 멋진 매장 오픈하셨네요! 보장된 디저트 맛에 해운대 뷰까지 더해져 미포 최고의 카페라고 생각합니다~! 해운대 미포에 오시면 꼭 들려서 맛있는 디저트와 바다뷰 즐기세요~^^",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDdfODkg/MDAxNzg2MDcxNzE4NTgw.4ee-tP9g4NXgYwzcE0mv5G0-2_bmWiYd1tbbryS4AP8g._pKt5TWjHJL67wGvGtHk4aGFQbN6yfzVBgUFhycmiDwg.JPEG/20260807_111004.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDdfNDcg/MDAxNzg2MDcxNzE3NzQ2.VWU3wdgQz8dPEAtqoBMCiGGNDUccMc_hE7YCBp8ILxgg.t8lf7CZ7SK6XLoftk_NoF59AY4illgbSYNZPZkqYHt4g.JPEG/20260807_111204.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDdfMTgz/MDAxNzg2MDcxNzE4OTQx.hwmlq13u08c0_gLu7sEqHQxO0JGqoeTbyl9kkTF7DHkg.fqE985UvgTqMllaAsl7KpWZsT1zLd7NECAp0yf7VbE0g.JPEG/20260807_111245.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "행복마을25"
+      },
+      {
+        "body": "스미다 미포점 뷰 너무 예뻐요! 망미점도 소담하니 좋지만 뷰가  시원해서 정말 좋네요😆💕 날씨좋으니 안녕모모 맛있는건 더 말해봐야 입아프죠 ㅋㅋ 따뜻하고 친절한 응대도 망미점과 같네요 ㅎㅎ 아틀리에 스미다의 새출발 함께할수있어 정말 기쁩니다 ㅎㅎㅎ 번창하세요!🥳",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDVfODMg/MDAxNzg1OTE1Nzk3NzIx.3k-SoyiLObmnocPiSr_iGYB3v5D6-nwMNipwF5y4BYsg.0tBVdG-5nxx6X-pJYrGgK75R3LkW7eCPIi9kxlP4crEg.JPEG/20260805_164114.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDVfMjY2/MDAxNzg1OTE1Nzk3NzA3.HYcfu0Q5RwtpBug8qYHDKFMulbrC02v9bVYiHuuMoPgg.Yw2Qu1iuN2H8pgWgjCCQEJk9PmiJCmbJT9mQa0qDxwgg.JPEG/20260805_163932.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDVfMjM0/MDAxNzg1OTE1Nzk3Njk2.RDuOHsbySFoDA_jvoWenSw6OpJU0zwKDwb4CeR9e-UQg.17r1Y2jvFu9fDXgYsSUPD8LEJCr2KN6fVu9zKwSNzKQg.JPEG/20260805_163939.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "boriboba"
+      },
+      {
+        "body": "스미다망미본점에서 시즌마다 맛있는\n케익 먹으면서🍰🧁🍫이렇게 맛있는 케익만드는일은\n얼마나 멋진일일까💯💯 사장님 흥하셨으면 좋겠다❤️‍🔥❤️‍🔥\n마음으로 응원하고있었던 소심한 팬이었어용 호호\n그런데! 해운대에 2호점이 오픈했다는 소식을 듣고\n너무 기뻤어용💗💞💗💞\n케익맛있는거야 두말하면 입아프고\n고급진비쥬얼은 세말할 필요도없고\n거를타선없이 다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTBfMzkg/MDAxNzg2MzYzNzgwNDQy.hwfcjuKjlEvbzY65Ah73woK4bRQJE65-tznq8_MThHQg.HkeJwZ7GAc1WeWnipKEBX0za2VPrrcDyS4pd5FpjIEQg.JPEG/20260807_170715.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTBfMjEx/MDAxNzg2MzYzNzgwMzUy.WwdvWa1JlaPCsYKqBi7xY85jy25Bv3aAQ5hHrKp-SK0g.u8mRwdigv5lHzrBfEdr9z_3HrYDuIl7_J00KaC0SF8cg.JPEG/20260807_170732.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTBfMTgz/MDAxNzg2MzYzNzgwMzc1.HOKYBV0A036z2E2WlPKp6EW49GkjTI9fq3o53cpvTWcg.XeTQcpuVAQQMBtR60feIuAGnXavGMmD12FoDynVQH_Mg.JPEG/20260807_170727.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "nkh****"
+      },
+      {
+        "body": "망미점에서 케이크 먹어보고 반해서 미포점까지\n찾아왔어요^^\n뷰도 넘 예쁘고 케잌이 많이 달지않고 넘 맛있어요.\n이제 앞으로 생일케이크는 여기서만 사야겠어요!!!\n아메리카노 디카페인도 있음 더 좋겠어요^^",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDlfMjA0/MDAxNzg2MjU1MjQ2MjU4.ir4N41Q9WB5M50IJcl9r1alPNLAEzr0KNne3gyqLdIEg.3lEq0bNVH02-xL1nqx3-bmEHu7Kxbj3NqWC5vDpTimog.JPEG/21CC881A-4033-40B3-BC90-303605C777A0.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDlfMjg4/MDAxNzg2MjU1MjQ3MzIy.y89CAsCG1PmDSuW5A85z1i5LVZbC97ds1d_rbwa_ySUg.sfA4qH6wE5b6Vr2NsFznl5B-1ixTb7iVS5RA5MI1TTAg.JPEG/F4361961-71BB-4B91-8EA6-784FB0DFB885.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "Sarah94"
+      }
+    ],
+    "folderName": "카페 빵집"
+  },
+  {
+    "id": "2088938446",
+    "name": "글라쇼 광안",
+    "address": "부산 수영구 민락수변로17번길 56",
+    "roadAddress": "부산 수영구 민락수변로17번길 56 2층 비-9호",
+    "region": "부산",
+    "district": "수영구",
+    "subRegion": "수영",
+    "lat": 35.1542203,
+    "lng": 129.1270394,
+    "category": "카페",
+    "mcid": "CAFE",
+    "naverCategory": "아이스크림",
+    "phone": "",
+    "virtualPhone": "0507-1325-0848",
+    "hours": "12:00에 영업 시작",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20260713_147/17839316576396NvqU_JPEG/%B5%F4%B8%AE%B9%F6%B8%AE_%B8%DE%C0%CE_%C0%CC%B9%CC%C1%F61.jpg",
+      "https://ldb-phinf.pstatic.net/20260713_27/1783931657139rEjGa_JPEG/%B5%F4%B8%AE%B9%F6%B8%AE_%B8%DE%C0%CE_%C0%CC%B9%CC%C1%F62.jpg",
+      "https://ldb-phinf.pstatic.net/20260713_274/1783931656919OHHGq_JPEG/%B5%F4%B8%AE%B9%F6%B8%AE_%B8%DE%C0%CE_%C0%CC%B9%CC%C1%F63_%281%29_-_%BA%B9%BB%E7%BA%BB.jpg",
+      "https://ldb-phinf.pstatic.net/20260713_172/17839316577578LgLr_JPEG/%B5%F4%B8%AE%B9%F6%B8%AE_%B8%DE%C0%CE_%C0%CC%B9%CC%C1%F65.jpg",
+      "https://ldb-phinf.pstatic.net/20260713_16/1783931707344alFl9_JPEG/%C8%AD%B0%EE%2C_%B3%AA%BC%BA%2C_%BE%EE%C1%F8%2C_%BE%E7%B4%F6.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20260713_147/17839316576396NvqU_JPEG/%B5%F4%B8%AE%B9%F6%B8%AE_%B8%DE%C0%CE_%C0%CC%B9%CC%C1%F61.jpg",
+    "reviews": "방문자 리뷰 182",
+    "naverPlaceUrl": "https://m.place.naver.com/place/2088938446",
+    "instagramUrl": "",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "바닐라",
+        "price": "4800",
+        "image": "https://ldb-phinf.pstatic.net/20260713_93/1783931949357AuJRe_JPEG/%B9%E8%B9%CE_%B9%D9%B4%D2%B6%F3.jpg"
+      },
+      {
+        "name": "쿠키앤크림",
+        "price": "4800",
+        "image": "https://ldb-phinf.pstatic.net/20260713_33/1783931932934XYwIQ_JPEG/%B9%E8%B9%CE_%C4%ED%BE%D8%C5%A9.jpg"
+      },
+      {
+        "name": "카라멜 바나나",
+        "price": "4800",
+        "image": "https://ldb-phinf.pstatic.net/20260713_58/178393191747203Seb_JPEG/%B9%E8%B9%CE_%C4%AB%B6%F3%B8%E1%B9%D9%B3%AA%B3%AA.jpg"
+      },
+      {
+        "name": "필라델피아 치즈케이크",
+        "price": "4800",
+        "image": "https://ldb-phinf.pstatic.net/20260713_154/1783931904997H80Lx_JPEG/%B9%E8%B9%CE_%C4%A1%C1%EE%C4%C9%C0%CC%C5%A9.jpg"
+      },
+      {
+        "name": "에쉬레 순우유",
+        "price": "4800",
+        "image": "https://ldb-phinf.pstatic.net/20260713_152/1783931825644NqS73_JPEG/%B9%E8%B9%CE_%BF%EC%C0%AF.jpg"
+      },
+      {
+        "name": "우지산 말차 브라우니",
+        "price": "4800",
+        "image": "https://ldb-phinf.pstatic.net/20260713_59/1783931806515Bg1TB_JPEG/%B9%E8%B9%CE_%B8%BB%C2%F7%BA%EA%B6%F3%BF%EC%B4%CF.jpg"
+      },
+      {
+        "name": "저당 요거트",
+        "price": "4800",
+        "image": "https://ldb-phinf.pstatic.net/20260713_171/1783931790225OCEaE_JPEG/%B9%E8%B9%CE_%BF%E4%B0%C5%C6%AE.jpg"
+      },
+      {
+        "name": "발로나 초콜릿",
+        "price": "4800",
+        "image": "https://ldb-phinf.pstatic.net/20260713_253/1783931778304IIFIc_JPEG/%B9%E8%B9%CE_%C3%CA%C4%DD%B8%B4.jpg"
+      },
+      {
+        "name": "스낵 믹스",
+        "price": "4800",
+        "image": "https://ldb-phinf.pstatic.net/20260713_181/1783931766541WVL9i_JPEG/%B9%E8%B9%CE_%BD%BA%B3%BC%B9%CD%BD%BA.jpg"
+      },
+      {
+        "name": "망고 소르베",
+        "price": "4800",
+        "image": "https://ldb-phinf.pstatic.net/20260713_281/1783931750626h0rgY_JPEG/%B9%E8%B9%CE_%B8%C1%B0%ED.jpg"
+      }
+    ],
+    "microReview": "",
+    "conveniences": [
+      "포장",
+      "배달"
+    ],
+    "roadGuide": "",
+    "nearestSubway": null,
+    "seatInfo": [],
+    "blogReviews": [
+      {
+        "title": "광안리 부산 밀락더마켓 아이스크림 가게 2곳 방문 후기, 수제 젤라또 <글라쇼> 바다소금아이스크림<리초야>",
+        "url": "https://m.blog.naver.com/esse2162/224363289938",
+        "name": "경아의 일상 블로그 :-)"
+      },
+      {
+        "title": "부산 광안리 아이스크림 맛집, 밀락더마켓 글라쇼 광안",
+        "url": "https://m.blog.naver.com/happy_bunny23/224340407827",
+        "name": "happy_bunny"
+      },
+      {
+        "title": "글라쇼 광안ㅣ밀락더마켓 카페 젤라또 아이스크림 맛집",
+        "url": "https://m.blog.naver.com/ajiningg/224324994298",
+        "name": "아징글징글한 일상"
+      }
+    ],
+    "reviewTotal": 182,
+    "imageReviewCount": 157,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "서비스",
+      "분위기",
+      "음식량"
+    ],
+    "visitorReviews": [
+      {
+        "body": "아이스크림 러버로서\n마싯다는 아이스크림은 엥간하면 다 접해보는데\n\n여기는 상당히 고퀄리티 젤라또였다\n너무더워서 하나먹어야지 싶어서 샀다가\n매우 반해버린맛!\n\n재료원물의 맛이 엄청 강하고\n많이 달지 않고\n꾸덕함의 정도도 딱 적당했다\n(아마도 몹쓸 첨가제가 덜 들어가서 그렇지 않을까라는 추측🧐)\n메뉴들의 종류도 다양하고\n아이스크림과 제빵제과의 조합이된 메뉴도",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MjBfMjI1/MDAxNzg0NDc1NjE2MDAx.yZ1rJe-mal2ccFid-HbGr77-Ks2Tg17EX5cgLJAvuHsg.oGmmqDUR-t1SqCBlWANSQgQXyrE3RXfRDVTR77vvaIwg.JPEG/44DD0D26-BD8F-4565-9802-2AE1581E35C6.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MjBfMjEw/MDAxNzg0NDc1NjE2MTk5.NdZBwjYajMHIf_UGl3NDPhqaRkE_iyQ6qGdOyBmJmusg.ZzutNRBaTpLyDGtb7ichjiF-W2KeazlFFkHDgd_h60kg.JPEG/CE1EC96F-2613-44BF-AF60-808B1D73E85C.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MjBfMjkz/MDAxNzg0NDc1NjE2MTU5.yV_jlH--3jbFTUAnOgd59r-1jD7R_sCCa92Gfnz_V24g.Kc-aIS0UGcVpVeInkX91e_M13nxCFTLrP84LN0kzxFkg.JPEG/0C697410-AC04-48BB-82EF-D3520239F91D.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "맛집탐방러 마이콜의 솔직한리뷰"
+      },
+      {
+        "body": "진하고 묵직한 우유 풍미와 쫀득하면서 부드러운 식감이 좋았어요.\n비주얼이 좋고 무드도 좋아 밀락더마켓의 오션뷰를 보며 즐기기 좋은 대표 디저트로 추천해요.\n다만 유지방 함량이 높아 금방 녹는 편이라 빠르게 먹는 것이 좋고, 일반 아이스크림보다 가격대가 다소 높다는 점은 아쉬워요.\n베라처럼 한입 맛보기도 가능합니다.\n광안리에서 깔끔하게 입가심하기에 충분히 만",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDlfMjEz/MDAxNzg2MjUyNjMyNzM0.R1pa2SzfgKXg7H4eJd1hIduOGzWraaitijCQKul9_y4g.dYuyXyNLv37aZVK4hBXp0yL0ztSnCwFN8V6JiGz6yyQg.JPEG/20260809_141421.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDlfMjAg/MDAxNzg2MjUyNjMwNzMx.RhD0Sm0U_UZCsWzi7HqocXwhsS0UekCq_HN-ozZkfRcg.qjM5f30BhhMg1eJN7bB-1gUxtD4gifH9oEVx2sKDp9Eg.JPEG/20260809_141425.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "남남이츠"
+      },
+      {
+        "body": "광안리 바다 보며 즐기는 감성 끝판왕 프리미엄 수제 젤라또 아이스크림 집이에요~~ 과하게 달지 않고 재료 본연의 풍미가 진하게 느껴지는 쫀득한 식감이 최고최고~~",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDdfMTA5/MDAxNzg2MDczNjExMTI4.Am9LxO1CtOkLJkKCeBBW0_-H0x7s1s-qkW7dGILGN6kg.xg9lUNwd4cK1yP87gWxf-qqHECM_bO2i5lMsjXLvvz4g.JPEG/8BE4FB9D-5871-4D93-9C4E-D1DD9A952C84.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDdfMjAg/MDAxNzg2MDczNjEzNDkz.jPoYoJNGko2vny9L1swQkL2-48zJ8zyOnlFvf3y94BEg.34qks_GItHUB0uwlpFQoaEKGJOLwmuYFgsH7amzhR40g.JPEG/6FC0F17D-6C1A-4209-B5CA-A257B65DAA9B.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "Roooll"
+      },
+      {
+        "body": "처음 밀락더마켓 왔는데 맛있어보이는 아이스크림에 사로잡혀서 바로 사먹었어요!\n근데 진~~짜 맛있습니다 딸기는 상큼한데 초콜렛은 진해서 먹자마자 반했어요!✨\n발로마 카카오 초콜렛은 완전 추천입니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDdfMjM1/MDAxNzgwODAxNzg4Njc3.PUd3quNn7F5x-dIhrpAMcW_wnyd0uwRIqteBileTLaog.LSnYR74jukWpBGimkGRWypK5ApZBHs-Cb_Tx8FVEpkgg.JPEG/171A7A06-034D-4859-8934-AACD082A97CE.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDdfMTA1/MDAxNzgwODAxNzkwMjg1.ZpSBS0n_nf7eH6ZyBHDXBkGaT901Twz83algg3JNH5og.H4IOt7or8OwAq2oq5mDW43kf1Gi40IgXdlQmjpCVdKEg.JPEG/4D660C16-80C7-491C-AE2C-EB5FDEA17BF4.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA2MDdfMTUw/MDAxNzgwODAxNzg3NDEz.v7P0DULWTvRsWiPAsnCk-Hu8w753xSUBiiPPoD-dLFEg.vr0QsZxq8awmdhjHiwS867f85dW02NEeRqbveb0hm2sg.JPEG/76861606-18D3-47CE-85BC-6A3B0EFE9049.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "힝8299"
+      },
+      {
+        "body": "우연히 들렀는데 아이스크림이 생각보다 너무 맛있어서 만족했어요! 🍦\n바닐라맛은 부드럽고 진해서 맛있었고, 망고맛은 상큼하고 달콤해서 특히 제 취향이었어요. 두 맛 다 맛있어서 순식간에 먹었네요ㅎㅎ 우연히 방문했는데 맛있는 곳 발견한 것 같아 기분 좋았어요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTBfMTMx/MDAxNzg2MzQyMDc4OTE3.XAtgX2B3MFOjzwG7IYXO6iQdAqVVebPeup2xZiapV8Ag.wfri_xOVWYQZjkm4k3UREVWGkHFSIULQ0wMLKe0W4zgg.JPEG/5F9EFF8B-3E27-4EA0-AE7B-4842167DB7C1.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "너구리8162"
+      }
+    ],
+    "folderName": "카페 빵집"
   }
 ]
