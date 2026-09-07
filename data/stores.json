@@ -73832,5 +73832,1244 @@
       }
     ],
     "folderName": "카페 빵집"
+  },
+  {
+    "id": "1562945792",
+    "name": "멜리초콜릿",
+    "address": "부산 동래구 사직동 75-6 1층 멜리",
+    "roadAddress": "부산 동래구 석사로18번길 20 1층 멜리",
+    "region": "부산",
+    "district": "동래구",
+    "subRegion": "동래",
+    "lat": 35.1979051,
+    "lng": 129.0625918,
+    "category": "디저트",
+    "mcid": "CAFE",
+    "naverCategory": "카페,디저트",
+    "phone": "",
+    "virtualPhone": "0507-1426-8239",
+    "hours": "11:00에 영업 시작",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230325_168/1679734913801kdi9J_JPEG/917F1CF4-BE39-4248-A688-184A9F6DA20D.jpeg",
+      "https://ldb-phinf.pstatic.net/20251124_118/17639602099176kW8I_JPEG/AIDrawing_251124_aa95831d-05dd-4279-9264-ce4bb134216e_0_MiriCanvas.png.jpg",
+      "https://ldb-phinf.pstatic.net/20260201_258/1769921818555FnFcl_PNG/AIDrawing_251203_892e0d32-1d01-4.png",
+      "https://ldb-phinf.pstatic.net/20251124_165/1763960238766ty0rc_JPEG/AIDrawing_251124_fe5fd48c-074e-490c-a174-6e7b7d49961d_0_MiriCanvas.png.jpg",
+      "https://ldb-phinf.pstatic.net/20260615_216/17815152634064NbOU_JPEG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4__%BA%B9%BB%E7%BA%BB-_5_-001_%2812%29.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20230325_168/1679734913801kdi9J_JPEG/917F1CF4-BE39-4248-A688-184A9F6DA20D.jpeg",
+    "reviews": "방문자 리뷰 3,893",
+    "naverPlaceUrl": "https://m.place.naver.com/place/1562945792",
+    "instagramUrl": "http://instagram.com/mellichocolate",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "초코 크림 라떼",
+        "price": "7800",
+        "image": "https://ldb-phinf.pstatic.net/20251124_142/1763959016520H8yJu_JPEG/AIDrawing_251124_aa95831d-05dd-4279-9264-ce4bb134216e_0_MiriCanvas.png.jpg"
+      },
+      {
+        "name": "수제다크초코우유",
+        "price": "7500",
+        "image": "https://ldb-phinf.pstatic.net/20260201_129/1769921694742d7jnp_PNG/AIDrawing_251203_892e0d32-1d01-4.png"
+      },
+      {
+        "name": "초코무스",
+        "price": "7000",
+        "image": "https://ldb-phinf.pstatic.net/20251124_54/17639590808316qFgU_JPEG/AIDrawing_251124_fe5fd48c-074e-490c-a174-6e7b7d49961d_0_MiriCanvas.png.jpg"
+      },
+      {
+        "name": "츄러스(초코소스&생크림)",
+        "price": "6800",
+        "image": "https://ldb-phinf.pstatic.net/20251124_233/17639582799924lUO1_PNG/AIDrawing_251118_9ac4fde2-929e-4.png"
+      },
+      {
+        "name": "브라우니",
+        "price": "7300",
+        "image": "https://ldb-phinf.pstatic.net/20251124_88/176395829563197fem_PNG/AIDrawing_251118_cc3c3808-76ed-4.png"
+      },
+      {
+        "name": "마리아쥬 프레르 (세계 3대 홍차)",
+        "price": "6500",
+        "image": "https://ldb-phinf.pstatic.net/20251124_300/1763960088339iuggL_JPEG/AIDrawing_251124_aeb83eeb-036a-441d-82d0-314c03c48654_0_MiriCanvas.png.jpg"
+      }
+    ],
+    "microReview": "특별한 날 선물하기 좋은 초콜릿 세트",
+    "conveniences": [
+      "포장",
+      "예약",
+      "무선 인터넷",
+      "배달",
+      "단체 이용 가능"
+    ],
+    "roadGuide": "※ 전용 주차장 없습니다!\n\n1.자가 이용 시\n네이버에서 멜리초콜릿을 검색하신 후 플레이스 방문하셔서 네이버 길찾기를 이용하시면 보다 쉽고 빠르게 방문 하실 수 있습니다.\n\n2.대중교통 이용 시\n지하철 - 사직역1번 또는 3번 출구에서 골목으로 들어오신 후 사직구장 방면으로 200m정도 걸어오시면 됩니다. gs사직자이 아파트 뒷편 골목에 위치해 있습니다.\n버스 - 사직1동주민센터 또는 사직사거리 정류장에서 내리 신 후 맞은 편 보이시는 골목에서 gs사직자이아파트 방향으로 50m 걸어오시면 됩니다.\n\n3. 주차는 따로 지원되지 않으며, 인근 사직야구장 공영주차장 이용해주시면 됩니다",
+    "nearestSubway": {
+      "name": "사직역",
+      "exit": "3",
+      "walkTime": 6
+    },
+    "seatInfo": [
+      {
+        "name": "테라스",
+        "description": ""
+      }
+    ],
+    "blogReviews": [
+      {
+        "title": "스승의날 선물 추천, 멜리초콜릿 봉봉 9구 초콜릿 세트",
+        "url": "https://m.blog.naver.com/sksms404/224264842139",
+        "name": "지은이가지은블로그"
+      },
+      {
+        "title": "부산 사직 카페 멜리초콜릿 사직점 츄러스부터 초콜렛까지",
+        "url": "https://m.blog.naver.com/limje100/224121984974",
+        "name": "임징징의 징징대는 블로그"
+      },
+      {
+        "title": "부산 가정의달 선물 추천 사직 카페 멜리초콜릿",
+        "url": "https://m.cafe.naver.com/zzangbusan/33675?query=%EB%B6%80%EC%82%B0%20%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EC%B2%B4%ED%97%98%EB%8B%A8%20%EB%A7%9B%EC%A7%91%20%EC%88%A0%EC%A7%91%20%EC%97%AC%ED%96%89%20%EC%B9%B4%ED%8E%98%20%EC%9A%B8%EC%82%B0%20%EA%B2%BD%EB%82%A8%20%EC%98%A4%ED%9E%88%EB%A0%A4%EC%A2%8B%EC%95%84",
+        "name": "부산 블로그 체험단 맛집 술집 여행 카페 울산 경남 오히려좋아"
+      }
+    ],
+    "reviewTotal": 3893,
+    "imageReviewCount": 3715,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "분위기",
+      "목적",
+      "서비스"
+    ],
+    "visitorReviews": [
+      {
+        "body": "사직동 카페 멜리 디저트 진짜 맛있어요!\n초코카페라떼 완전 제 스타일이라 홀릭했어요ㅎㅎ 달달하면서 커피랑 잘 어울려서 너무 맛있었고, 크로플도 겉바속촉으로 맛있었어요.\n디저트 좋아하시는 분들은 추천하고 싶은 카페예요. 다음에도 또 방문할 듯해요 :)",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTFfMzIg/MDAxNzg2NDE5NzQ3MjQw.2hBjiApt4UBlbTAEeLhsVmw_PVU98duQf-39NCmo6FUg.3TH1uo4bYM1joommV296QLGOToFqpQppfUarGZyekmcg.JPEG/1000068486.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTFfMjE3/MDAxNzg2NDE5NzQ3MjQy.v4F4tSZXLr-eSb260NOaiqnyrpuuyPrldMj3F-uD-jQg.k0kzy9KcBk7oKby17h3JDLonRn2-T7aOpUg9OFct1UUg.JPEG/1000068485.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "미니팡 무케어멍"
+      },
+      {
+        "body": "음료는 다 맛있었고 기대없이 시킨 츄러스가 엄청 바삭하고 특히 맛있었어요👍🏻 팥빙수는 얼음이 너무 얼어있어서 수저가 들어가질않고 먹으려니 토핑이 다 그릇 밖으로흘러버려서 먹기 불편해서 아쉬웠어요 ^^; 조금 녹고나서 먹으니 괜찮았네요 초콜릿맛집이라 처음먹은 초콜릿라떼가 많이 달지도 않고 커피향도 적당히 나서 강추입니다💕 잘먹고가요♥️ 오랜만에 가족들과",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDJfMjc3/MDAxNzg1NjU1MzMyMTcz.tnTB6MIX8F6SFx9UiVpQC3YJwbxH4CQaFuhV4WJ4-4Ug.hQJsj7OalwXEDQSZZjp2gKu3Pm7ERXlo6NTFVn7pTKIg.JPEG/8C8BEDDA-B396-42E0-9620-11E6CC002954.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDJfMTEy/MDAxNzg1NjU1MzMxNzUx.NTJxDluv4xvhVHWkyOwn8TMofTIQKD508NAU6txVRvEg.e7g3KOFkc0sgwxG0Mzq0edf9aO1Y5qZv4M2vk5BTNZcg.JPEG/40A19941-72C4-45AE-9663-693EDCA1A1A3.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDJfMjEg/MDAxNzg1NjU1MzMxOTY4.zGsaFbV9kJaaJ6DzyFSjmHTjjiPeXpBnTBdwyMosiJsg.l4ODih6GIvLbnNz9fOfhPDBUs5qxw-0_YOj-dy_i-zYg.JPEG/6DE60EDB-6CE7-4918-932F-936450BB18EA.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "pearlymj"
+      },
+      {
+        "body": "초코의 풍미가 고급스럽고 단맛이 은은하고 입안에 사르륵 퍼지며 커피맛이 살짝 치고 나와요.\n주택가 내 소담한 아기자기한 곳♡\n우연히 들렸는데 가족과 와보고 싶어요.\n달콤함이 기분좋은 하루를 선사해주네요.\n인테리어도 이쁘고 음료도 맛있어서 자주 오고 싶어요",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MThfMzQg/MDAxNzg0MzQ0MjQxMjUx.wA6xsTqlVVQSYSQJAI-iuV-D7Y-i_mu8Txk64nRzSyIg.2NxZWi7YODpuYVU-_Wa4JIyp5VTx46EmGaCZzJB4nxkg.JPEG/20260718_120427.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MThfMTQy/MDAxNzg0MzQ0MjQxNjQy.x_6LdA2Dtz3vrBdTCjrl5HLsrGTBmsRIYBM_XHKZUC4g._N1gkqqUWvvtvZsR9KwvI_r9wtuUx0IUU16SxFqhnMQg.JPEG/20260718_120210.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MThfMTQz/MDAxNzg0MzQ0MjQxNTU0.lj5I9SBFLOMNoDXuBDBZ0yV4aQyHM_lOIftNzVqtVeMg.76BYz3ilI1TXmno9C9sG_a6GApFnTDcYyujD6Ayt75Ug.JPEG/20260718_120206.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "사랑한단다75"
+      },
+      {
+        "body": "소문 듣고 온 디저트 맛집\n초콜릿 맛집\n재방문 의사 100%\n친절하고 예쁘고 맛있어요~~\n선물포장도 최고👍\n사장님 더 번창하세요",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDZfMjA3/MDAxNzg4NjYwMDcxMzY4.wUvOEwRbVdp-6LsKYpA1BvkPWFwW6wHy8xetYUKX0asg.c8AyDMty0ZW6e2M7AXl7RsWREY2zmw7ouQdTkuOf3pUg.JPEG/20260906_105312.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDZfMjIy/MDAxNzg4NjYwMDcxMjI5.WiCLqMrS67slgliqKHtdARgTKsmqYHax8jtlN1jNxY4g.Mgo2xFR5ZPTz-5X5VKUeG3Zm-2IsNNrejJN2aHq0WbMg.JPEG/20260906_105317.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDZfNzgg/MDAxNzg4NjYwMDcxMjU2.Kg1fWOUBU1lQmdbB1_48vaDlDjzulRCxfdeIvgVkKd8g.mScS2pW1iKr4jAh8ZrajigKGN2pjjvuEUthq-qKK5LUg.JPEG/20260906_105828.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "0527white"
+      },
+      {
+        "body": "츄러스가 엄청 바삭하고 부드러워요! 초코와 생크림 같이 찍어먹으니깐 너무 맛있네요! 초코크림라떼랑 허니 자몽 얼그레이티도 너무 맛있어요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDZfODMg/MDAxNzg4NjczMDk5ODkw.PpcQDehA41uQ7elWF2Mk1jkB40Un1o_1Ft0LoUwnTcwg.NUAOrIpU9bMCj9jdAd3IVmSfd8VLg6lSOZtj_akXM9Mg.JPEG/4F79A6A0-B235-49AE-8099-4DD0C0634FE2.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDZfNDkg/MDAxNzg4NjczMTAxMjQy.hBhxWNtUI2Te8f3LytW1morQMn6HHmmqO92XG--ahpog.ot5Yi47z6IYxI_pb9hk-pM0i2lJgcqA6swwYsyoRMC4g.JPEG/50A04E20-DC9D-48DE-88F1-1EF4439EA951.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "Yongiron"
+      }
+    ],
+    "folderName": "카페 빵집"
+  },
+  {
+    "id": "1728377187",
+    "name": "마리솔",
+    "address": "부산 기장군 일광로 290",
+    "roadAddress": "부산 기장군 일광읍 일광로 290 카페 마리솔",
+    "region": "부산",
+    "district": "기장군",
+    "subRegion": "기장",
+    "lat": 35.2722316,
+    "lng": 129.2487908,
+    "category": "베이커리",
+    "mcid": "CAFE",
+    "naverCategory": "베이커리",
+    "phone": "",
+    "virtualPhone": "",
+    "hours": "09:30에 영업 시작",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20201225_15/1608835014406xgJo3_JPEG/AZg_G2TSuLgGL8WYH4qt0Z7e.jpg",
+      "https://ldb-phinf.pstatic.net/20210111_56/1610322117622jzEXP_JPEG/3_lcCRPNZoiQQwpAl51cSp1T.jpg",
+      "https://ldb-phinf.pstatic.net/20241104_272/1730688803412KlS6H_JPEG/24.09.23.jpg",
+      "https://ldb-phinf.pstatic.net/20211101_13/16357403217475gJo5_JPEG/n5Fneb5c4i6aVjN5NfMtPss-.jpg",
+      "https://ldb-phinf.pstatic.net/20221030_207/1667095998449NpgQB_JPEG/KakaoTalk_20221030_111052811.jpg",
+      "https://ldb-phinf.pstatic.net/20221030_268/1667095998489ps8t9_JPEG/KakaoTalk_20221030_111237722.jpg",
+      "https://ldb-phinf.pstatic.net/20221030_266/1667095998943b2Pdi_JPEG/KakaoTalk_20221030_111237722_01.jpg",
+      "https://ldb-phinf.pstatic.net/20220531_293/1653925838908p29cR_PNG/0D9A0368_p_cut_1080_menu.png",
+      "https://ldb-phinf.pstatic.net/20220531_75/1653925833847J0jLM_PNG/0D9A0370_p_cut_1080_menu.png",
+      "https://ldb-phinf.pstatic.net/20220531_8/1653925828747R0pND_PNG/0D9A0365_p_cut_1080_menu.png",
+      "https://ldb-phinf.pstatic.net/20220531_234/1653926121858HVh3b_PNG/0D9A0106_p_cut_1080_menu.png",
+      "https://ldb-phinf.pstatic.net/20220531_83/1653926117065bPoVp_PNG/0D9A0136_p_cut_1080_menu.png",
+      "https://ldb-phinf.pstatic.net/20220531_136/1653926111615L4IJF_PNG/0D9A0140_p_cut_1080_menu.png",
+      "https://ldb-phinf.pstatic.net/20220531_5/1653926580123i8alG_PNG/0D9A0253_p_cut_1080_menu.png",
+      "https://ldb-phinf.pstatic.net/20260501_181/1777563203127Q31re_JPEG/KakaoTalk_20260427_154643695_01.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20201225_15/1608835014406xgJo3_JPEG/AZg_G2TSuLgGL8WYH4qt0Z7e.jpg",
+    "reviews": "방문자 리뷰 4,190",
+    "naverPlaceUrl": "https://m.place.naver.com/place/1728377187",
+    "instagramUrl": "https://www.instagram.com/cafe_marysol",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "베이커리",
+        "price": "",
+        "image": "https://ldb-phinf.pstatic.net/20221030_38/1667096012977SITsr_JPEG/KakaoTalk_20221030_111052811_01.jpg"
+      },
+      {
+        "name": "마리솔 브런치",
+        "price": "16000",
+        "image": "https://ldb-phinf.pstatic.net/20230630_48/1688135929805RAjCc_JPEG/KakaoTalk_20230630_231656659.jpg"
+      },
+      {
+        "name": "아메리카노",
+        "price": "6000",
+        "image": "https://ldb-phinf.pstatic.net/20220530_246/1653899165174qITAn_PNG/0D9A0350_p_cut_3000_menu.png"
+      },
+      {
+        "name": "날치알 새우 로제 파스타",
+        "price": "17000",
+        "image": "https://ldb-phinf.pstatic.net/20221030_169/1667099671484aDYP1_JPEG/%B3%AF%C4%A1%BE%CB%BB%F5%BF%EC%B7%CE%C1%A6%C6%C4%BD%BA%C5%B8.jpg"
+      },
+      {
+        "name": "깻잎페스토오일파스타",
+        "price": "16000",
+        "image": "https://ldb-phinf.pstatic.net/20230630_261/1688136374385yisw4_JPEG/KakaoTalk_20230630_234515931_01.jpg"
+      },
+      {
+        "name": "씨푸드토마토파스타",
+        "price": "16000",
+        "image": "https://ldb-phinf.pstatic.net/20221030_14/1667099659497KyPaH_JPEG/%BE%BE%C7%AA%B5%E5%C5%E4%B8%B6%C5%E4%C6%C4%BD%BA%C5%B8.jpg"
+      },
+      {
+        "name": "볼로네제파스타",
+        "price": "17000",
+        "image": "https://ldb-phinf.pstatic.net/20230630_263/1688136426066ONuJp_JPEG/KakaoTalk_20230630_230837323_03.jpg"
+      },
+      {
+        "name": "새우토마토피자",
+        "price": "16000",
+        "image": "https://ldb-phinf.pstatic.net/20230630_249/16881363389261rxf4_JPEG/KakaoTalk_20230630_234515931.jpg"
+      },
+      {
+        "name": "카페라떼",
+        "price": "6500",
+        "image": "https://ldb-phinf.pstatic.net/20220531_298/1653924235952qLdvL_PNG/0D9A0148_p_cut_1800_menu.png"
+      },
+      {
+        "name": "레몬차, 자몽차, 오미자차",
+        "price": "7500",
+        "image": "https://ldb-phinf.pstatic.net/20220531_222/1653925844726iSMtT_PNG/0D9A0371__p_cut_1080_menu.png"
+      }
+    ],
+    "microReview": "단체 모임하기 좋은 넓고 쾌적한 카페",
+    "conveniences": [
+      "단체 이용 가능",
+      "무선 인터넷",
+      "포장",
+      "남/녀 화장실 구분",
+      "유아의자",
+      "주차"
+    ],
+    "roadGuide": "1. 자가용으로 오실 경우\n- 네비게이션에 '부산 일광로 290' , '마리솔 기장' 검색 하고 오시면 됩니다. 기장일광 카페거리 초입 우측 첫번째 카페 '마리솔'\n  (넓은 주차장을 보유하고 있어 주차하기 편하세요~)\n\n2. 지하철로 오실 경우\n - 동해남부선 이용시 일광역 하차, 일광역 1번 출구로 나오셔서\n '더스타마트' 맞은편 버스정류장(동해선일광역)에서 버스탑승.\n (버스로 오시는 길 참고)\n\n3. 버스로 오실 경우\n- 일광역 1번출구 쪽 '동해선일광역' 버스정류장에서 [8-1번], [188번] 승차.\n  '이동 방파제' 정류소에서 하차(13분 소요).\n  버스 가는 방향으로 도보 3~5분 올라오시면 마리솔카페가 보입니다.",
+    "nearestSubway": null,
+    "seatInfo": [
+      {
+        "name": "루프탑",
+        "description": ""
+      }
+    ],
+    "blogReviews": [
+      {
+        "title": "기장 마리솔카페, 일광해수욕장 앞에서 즐기는 바다뷰 카페 다녀왔어요",
+        "url": "https://m.blog.naver.com/kbc1220kk/224374138080",
+        "name": "부동산이야기"
+      },
+      {
+        "title": "[부산 일광 카페] 무더위 완벽 탈출! 오션뷰가 환상적인 마리솔(Marysol) 카페 다녀온 후기",
+        "url": "https://m.blog.naver.com/kbc1220kk/224357653653",
+        "name": "부동산이야기"
+      },
+      {
+        "title": "부산 기장 오션뷰 카페 추천, 마리솔(Marysol)에서 즐기는 힐링 시간",
+        "url": "https://m.blog.naver.com/kbc1220kk/224349602754",
+        "name": "부동산이야기"
+      }
+    ],
+    "reviewTotal": 4190,
+    "imageReviewCount": 924,
+    "reviewThemes": [
+      "만족도",
+      "맛",
+      "전망",
+      "분위기",
+      "주차"
+    ],
+    "visitorReviews": [
+      {
+        "body": "울산 간절곶 리틀방콕 식당을 갔다가 바다쪽 구름을 잘 보고 싶어서 들른 카페입니다.\n일광쪽 카페중에는 바다뷰가 제일 괜찮은곳 같네요.\n커피맛은 쏘쏘지만 뷰맛집으로 가기 좋은곳 입니다. \n매장도 넓고 주차장도 커서 가족단위로 방문하기에도 좋을것 같네요.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MzBfNTUg/MDAxNzg4MDY0NjM1OTIz.qOm8yEJpWa4cicUv1FClB00RrDMjV8wdJrHYxfnRByYg.U3HLkolEjUddDiEOoss7SXUbgXjmXVYwjcO-3GoFN2Ag.JPEG/20260830_125442.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MzBfMjI5/MDAxNzg4MDY0NjM1ODIx.mcxZDEq4IKaUY6MCWGIV1l2UsjhALeCRr0E2ioek8bcg.rjeMCjdHRUh-SvkBTE_dVTLXxJGnzE588Ocd4cB9juEg.JPEG/20260830_125531.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MzBfMjg0/MDAxNzg4MDY0NjM1OTMx.KS4DHJNqmVxIl_LC7TOoSnAsc3Tf6CEw23llI1IkLwEg.KTI8Y2h3o-IxB-uriIaWN6krUaXrDRlHQC-0TSCAXeUg.JPEG/20260830_125748.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "yka135"
+      },
+      {
+        "body": "기장끝집일광점에서 전복죽먹은후 바로앞에 위치하여서  자연스럽게 찾아간곳입니다. 세로로 주욱 뻗은 실내가 시원스러웠고 또 그 창들에서 보이는 바다뷰가 너무도 아름다웠습니다\n커피도  맛있고 요거트도 아인슈페너도 맛이있었어요  올리브듬뿍올린 치아바타도\n담백짭잘하니 괜찮았어요  빵들의 가격이 관광지임에도 가성비가 좋았답니다   뷰도좋고\n쾌적해서 무난한 카페였어요~",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDdfMjU3/MDAxNzg2MDI4NzY5OTQ3.W75Y3iYDtoptcU_C_4LdaGv9uMeWggC1Wpbm4zjjWhIg.pJDrwS10OTnt7kCQ_kD_eILpOxvdxhkCtSKrXevbQLwg.JPEG/20260803_114438.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDdfMjMx/MDAxNzg2MDI4NzY5OTMz.veNP3VP1ZwnKZ1zOzjJo730MJ-EjsCJ5_hwuD1Tp8tog.nLSAGYlqGFJbg2kHjE-JzYieS13yAt6DBmQRkZ2kV8Eg.JPEG/20260803_114443.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MDdfMzMg/MDAxNzg2MDI4NzY5OTAx.lpnrelK7A4kcibKlaitXSx2JzK1vJC24i7fd4VNstTwg.0prnW8oZrLR7_Yz_EL1LSSctN9M6jbYLoGMJT5VsEPkg.JPEG/20260803_114944.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "달빛600"
+      },
+      {
+        "body": "마리솔 이용했어용💕 내부가 넓고 분위기도 안락한게 머물기 좋아요☺️ 기장 바다뷰도 당연 최고👍🏻 커피도 빵도 맛있어요👍🏻👍🏻",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MjFfMTU5/MDAxNzg0NTk5ODE5OTIz.ercL7NCBq0QlzsXPoPa5JAEaw1WJiFS10qNeohAKDaog.qNWOa1XrBa3CAy9DqRs9YhRfN1oW9_MR8GmpmydBeJcg.JPEG/9A6E4896-23C5-49DB-A750-7FDEDB1A7039.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MjFfMTM3/MDAxNzg0NTk5ODE4OTg4._XT9aAapAsiNkf0Pld668S3Le8XtAeK3awRwzlJyeBog.yw6bejPuC_EKreYhLKkhf1B4fJnB7Yujw8wcxLhQIWog.JPEG/202290E9-90DA-4FD4-982D-8CB266D82C52.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MjFfNSAg/MDAxNzg0NTk5ODE5MzU2.N9-aGbRzDL16kD08zL1Y7EoGflKa4tt2-IfSX5vijyAg.M9X-3QLT7S1k-MMGvQUxbogKZNabuqn5LYEoh63kzA4g.JPEG/8862E12A-B5CE-416C-B230-9E4494EDB0A8.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "밍키코코S2"
+      },
+      {
+        "body": "오션뷰 맛집입니다.\n매장도 넓고 탁트인 느낌입니다.\n빵은 종류별로 정말 많아서 고르기가 힘들어요.\n저 개인적으로 디카페인은 별로여요. 맛이 내리다 만느낌이랄까 많이 아쉬웠네요 ㅜㅜㅜ 싼 가격은 아닌데 ....",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MTFfMjkx/MDAxNzgzNzU1ODA1Mjg0.DPuFrT2V9LPnj5uffRvPp9C7s25d1LI0tpA_N49j9bEg.vuM7iQXoaQBz5Cb93uQNKaRShQrHkBP90zKTnwvYu0Ig.JPEG/20260711_163820.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MTFfMTk3/MDAxNzgzNzU1ODA1NDM4.kfkXkxyUvjfGQ1h3XGYETArmaiN0Mke6Mm9f0Zq_oa0g.YTCqB3SlZpqrnshm_x0hkhQqrjuj-IJkeOB9UNzfnvkg.JPEG/20260711_163847.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "그냥6388"
+      },
+      {
+        "body": "오픈 시간이라 그런지 직원분들이 분주하셨어여~\n그래서인지 뭔가 불청객이 된 느낌??😅😅\n\n그래도 멋진 뷰 보면서 따뜻한 커피한잔에 기분 좋게 먹고 갑니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MDhfMTE5/MDAxNzgzNDcwMzY4NzUx.G2Z_oXtRBvShfSRIXLQlxpS_PixZARkK6nnmL7tYI-8g.FcdNtAt5YbVUOAiiNYXGGuXGQKqikc8LhWQutMqFSBUg.JPEG/20260706_103754.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MDhfODgg/MDAxNzgzNDcwMzY4NzQw.EV4N8lP_5CrZxxiFE-iQ39aqDZC8_MtyJF-XF7cJEK0g.0izHAUVGqox6FUsHA0sAdpdG5CxuPFLR7RWbjjVmXwwg.JPEG/20260706_103958.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "로루맘0117"
+      }
+    ],
+    "folderName": "카페 빵집"
+  },
+  {
+    "id": "1987641609",
+    "name": "망미팥",
+    "address": "부산 수영구 망미번영로60번길 16",
+    "roadAddress": "부산 수영구 망미번영로60번길 16 1층",
+    "region": "부산",
+    "district": "수영구",
+    "subRegion": "수영",
+    "lat": 35.1720062,
+    "lng": 129.1104227,
+    "category": "디저트",
+    "mcid": "CAFE",
+    "naverCategory": "카페,디저트",
+    "phone": "",
+    "virtualPhone": "",
+    "hours": "11:30에 영업 시작",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20230927_222/1695775224587Vm9X0_JPEG/1000014510.jpg",
+      "https://ldb-phinf.pstatic.net/20240906_91/1725610099107x86yf_JPEG/1693974775934.jpg",
+      "https://ldb-phinf.pstatic.net/20250721_25/1753057377268tQuo9_JPEG/1000069341.jpg",
+      "https://ldb-phinf.pstatic.net/20250721_249/1753057345973AvIUU_JPEG/1000069338.jpg",
+      "https://ldb-phinf.pstatic.net/20230726_30/16903644296767cgJh_JPEG/20230726_170326.jpg",
+      "https://ldb-phinf.pstatic.net/20230907_51/1694056186924xQqjf_JPEG/1000014515.jpg",
+      "https://ldb-phinf.pstatic.net/20230907_40/1694056382675WbJs3_JPEG/1000014499.jpg",
+      "https://ldb-phinf.pstatic.net/20250913_245/1757737710498PXqFs_JPEG/KakaoTalk_20250913_132747790.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20230927_222/1695775224587Vm9X0_JPEG/1000014510.jpg",
+    "reviews": "방문자 리뷰 58",
+    "naverPlaceUrl": "https://m.place.naver.com/place/1987641609",
+    "instagramUrl": "https://www.instagram.com/redbean_ice_mm",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "수제팥빙수(국산팥)",
+        "price": "6000",
+        "image": "https://ldb-phinf.pstatic.net/20230907_224/1694056138742XquuY_JPEG/1000014510.jpg"
+      },
+      {
+        "name": "수제팥빙수(포장)",
+        "price": "6000",
+        "image": "https://ldb-phinf.pstatic.net/20240711_280/1720688704173kgDBt_JPEG/1693974775862.jpg"
+      },
+      {
+        "name": "국산팥100% 수수부꾸미(2p)",
+        "price": "7000",
+        "image": "https://ldb-phinf.pstatic.net/20240906_202/1725609720620IAAnf_JPEG/1693974775934.jpg"
+      },
+      {
+        "name": "단팥죽",
+        "price": "7000",
+        "image": "https://ldb-phinf.pstatic.net/20251108_69/1762569026374kW0c5_JPEG/1693974775782.jpg"
+      },
+      {
+        "name": "수제요쿠르트(블루베리콩포트)",
+        "price": "6000",
+        "image": "https://ldb-phinf.pstatic.net/20250721_196/1753057669122dSNi1_JPEG/1000069338.jpg"
+      },
+      {
+        "name": "수제요쿠르트(패션후르츠망고)",
+        "price": "6000",
+        "image": "https://ldb-phinf.pstatic.net/20250721_31/1753057714917Qyn5A_JPEG/1000069339.jpg"
+      },
+      {
+        "name": "수제레몬청에이드",
+        "price": "6000",
+        "image": "https://ldb-phinf.pstatic.net/20230907_82/1694056186935FTXe7_JPEG/1000014514.jpg"
+      },
+      {
+        "name": "코코넛발효건빵",
+        "price": "3000",
+        "image": ""
+      },
+      {
+        "name": "호두파이",
+        "price": "3000",
+        "image": "https://ldb-phinf.pstatic.net/20230907_42/1694056382456Tkb3B_JPEG/1000014498.jpg"
+      },
+      {
+        "name": "한우곰탕",
+        "price": "8000",
+        "image": "https://ldb-phinf.pstatic.net/20240906_47/1725609918407hQj8t_JPEG/20240826_165808.jpg"
+      }
+    ],
+    "microReview": "시나몬 향 가득한 수수부꾸미의 매력",
+    "conveniences": [
+      "포장",
+      "단체 이용 가능"
+    ],
+    "roadGuide": "���페제이크 옆\n약선예찬 글자 밑 빨간문으로 들어오세요",
+    "nearestSubway": {
+      "name": "망미역",
+      "exit": "2",
+      "walkTime": 2
+    },
+    "seatInfo": [],
+    "blogReviews": [
+      {
+        "title": "망미동 망미팥",
+        "url": "https://m.blog.naver.com/wilsonyummy/223991877930",
+        "name": "윌슨의 식생활"
+      },
+      {
+        "title": "팥빙수 (망미팥)",
+        "url": "https://m.cafe.naver.com/towngtx1/267073?query=%EC%84%9C%EC%A7%91%EB%8B%AC%20-%20%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%20NO.1%20%EB%8F%84%EC%8B%9C%EA%B3%84%ED%9A%8D%20%EC%8A%A4%ED%84%B0%EB%94%94%EC%B9%B4%ED%8E%98%20(%ED%88%AC%EC%9E%90%2C%EB%82%B4%EC%A7%91%EB%A7%88%EB%A0%A8)",
+        "name": "서집달 - 대한민국 NO.1 도시계획 스터디카페 (투자,내집마련)"
+      },
+      {
+        "title": "[부산 수영구 망미동] 팥빙수",
+        "url": "https://m.blog.naver.com/q1996p/224362302668",
+        "name": ":: -"
+      }
+    ],
+    "reviewTotal": 58,
+    "imageReviewCount": 30,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "서비스",
+      "분위기",
+      "가격"
+    ],
+    "visitorReviews": [
+      {
+        "body": "웬만하면 넘어가려고 했는데\n기분 너무 상해서 리뷰 적네요.\n불친절하고 양이 일정하지 않아서 돈 아깝네요.\n시장 장사도 그렇게는 안하네요.\n혼자 일하는게 힘들면 직원을 구하세요.\n망리단길이 망한 이유를 생각하게 되는 부분.\n다시는 안 갈 것 같네요.",
+        "images": [],
+        "author": "lhjyhyss"
+      },
+      {
+        "body": "망미팥 팥빙수도 정말 맛있어용",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjRfMjYz/MDAxNzUzMzM5MTg0Mzkw.5J7hvxk71_IlEqKM8KNQjM2oSn7lKXTMd5wg06ztCM8g.MaonY8Yep9zKxZU11TG2TSSHQHCnaYUcQuzp7pkl5O8g.JPEG/IMG_0111.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjRfODcg/MDAxNzUzMzM5MTgzOTQz.V8heBlvU0nJ3g-cp7Q2gK88bSgCy6cQKyuoyO0ZqCBgg.ofRl_ht3sTpmFe4M5a8XIq3L5R4NANvZraPgMVPBkFkg.JPEG/IMG_0107.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MjRfNTgg/MDAxNzUzMzM5MTg0MzM5.kJcqy8f-XET6pUT2yQ_U9c85QZItj-FkibZPm8h6jgog.6J0RLj8rIZ6TJoo8pXHKm4ueY920vx3eSaO8fM40NtIg.JPEG/IMG_0112.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "진리와탱자"
+      },
+      {
+        "body": "팥빙수 수수부꾸미 최고 예욧",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTBfOTIg/MDAxNzUyMTIzNTI3MzIx.Q_l_mjFF0YWOtNqQeMFwyUwhhQcKmBnMO8calERiE9wg.KDgBHq1my0Jo5QoK8A-d5LKHpgpg9lpL2b2E59pqCo4g.JPEG/IMG_9671.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTBfMTkx/MDAxNzUyMTIzNTI4Mzg5.J3duw_3n0-MXJYeJ90InrJQvk-QZGpT_KjQPpQCpOS0g.EMTdibaV4WJavs27VcMSUL3tWWVxMGqjXLFU8Q6NJUkg.JPEG/IMG_9655.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA3MTBfOSAg/MDAxNzUyMTIzNTI3MDgz.YSJASKmMr-gZ_lPf0qHXvTYQvjOHOeKF2tw_IDNxmdIg.lDdamNNbnqrpDOYaoqjrIb_-h5hKzuEQhAxD85nUXhgg.JPEG/IMG_9670.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "진리와탱자"
+      },
+      {
+        "body": "국산팥빙수 맛있네요\n연유의 인의적인 맛이 아닌 팥의 고소함과 우유의 은은한 달달함~\n수수부꾸미는 시나몬 향과 맛이 많이 나는데 계피향과 맛 좋아하시면 추천\n몸에 부담되지않은 건강한 맛이예요ㅎㅎ\n잘 즐기다가 갑니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjVfMTMy/MDAxNzQ1NTY1MDY2Njc2.ZBgtqTSWuslr2LpNF4wcQpZ1P0UOMXspZxgVe_FGMrcg.kFYNTcV8CQGKA_I3yggOXmWF6M4ezIfhpw2UYxIMT9og.JPEG/20250425_153916.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjVfMzkg/MDAxNzQ1NTY1MDY2ODg1.us6_kmquo23MjMHb3tHelR1s8TlPMGrjDhkLuG7Cd1og.EceSqTWHnq0A3Y-iTk7JFsUOUE9tyJow8AtxPfg-KiUg.JPEG/20250425_154330.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA0MjVfMjM4/MDAxNzQ1NTY1MDY2ODcw.YqxrklmZcbv6aixewPGl4FfHnCLJ9h4mHO-qm6P3Dckg.A6b-xz920rdTT5W4PAcQeiMXodD-aOhMYfygCqGcjUwg.JPEG/20250425_153923.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "dms****"
+      },
+      {
+        "body": "처음으로 왔어요 아늑하니 분위기 좋네요 팥빙수 맛있어요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTRfNDgg/MDAxNzQ5ODcyNjg4MjMx.3O6rq9n9TdPd57jMe4ZNWtaZsy7lXIP_5UfmtlIWXbwg.zji5icdJTJNR3GR0oNP5NHpvASPuCbugDpR10McnR84g.JPEG/25116E3D-4528-4903-B807-C3C96907AB02.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTRfMjIg/MDAxNzQ5ODcyNjg3Mzkw.XzQfFcfQrGNWbe3l8iqIXDwae289ies6M1Ss6Jrm7kYg.iWCJTvUIZ-vr3QOUboaL6kYHs0VWEPFeQZTkyDXCa38g.JPEG/B20A62C9-6073-440A-8DC8-F16EF5A6D9F7.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA2MTRfMTU1/MDAxNzQ5ODcyNjg3NzA0.26CyaqX7N-hvujU690QToPKMz8dVqWAyR-l1MtWAj0Ag.uH5n4IC4W5AovBSinQXIaSWPRUZIEckOwFFotvbLvFgg.JPEG/5B22C9DA-0B05-4A21-9974-68C5D2EC1FBD.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "러둥"
+      }
+    ],
+    "folderName": "카페 빵집"
+  },
+  {
+    "id": "2076388216",
+    "name": "페르커피",
+    "address": "부산 부산진구 서전로46번길 30",
+    "roadAddress": "부산 부산진구 서전로46번길 30 1층",
+    "region": "부산",
+    "district": "부산진구",
+    "subRegion": "전포",
+    "lat": 35.1564198,
+    "lng": 129.0647188,
+    "category": "디저트",
+    "mcid": "CAFE",
+    "naverCategory": "카페,디저트",
+    "phone": "",
+    "virtualPhone": "0507-1455-9699",
+    "hours": "10:00에 영업 시작",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20260831_108/1788169097961AViP0_JPEG/KakaoTalk_20260831_135451090.jpg",
+      "https://ldb-phinf.pstatic.net/20260831_69/17881691162337V46U_JPEG/KakaoTalk_20260831_140732308_03.jpg",
+      "https://ldb-phinf.pstatic.net/20260831_139/1788169124348sCOEW_JPEG/KakaoTalk_20260829_191617062.jpg",
+      "https://ldb-phinf.pstatic.net/20260831_228/1788169139583QXbOu_JPEG/KakaoTalk_20260830_202802864.jpg",
+      "https://ldb-phinf.pstatic.net/20260829_273/1787998119511Bm9sC_JPEG/Black_and_Grey_ribbon_Illustrative_Wedding_Menu.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20260831_108/1788169097961AViP0_JPEG/KakaoTalk_20260831_135451090.jpg",
+    "reviews": "방문자 리뷰 30",
+    "naverPlaceUrl": "https://m.place.naver.com/place/2076388216",
+    "instagramUrl": "https://www.instagram.com/fa.re_coffee",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "카페라떼",
+        "price": "6000",
+        "image": "https://ldb-phinf.pstatic.net/20260829_263/1787998596209L9DbQ_JPEG/KakaoTalk_20260829_191617062.jpg"
+      },
+      {
+        "name": "<Season> 무화과&잠봉 토스트",
+        "price": "8400",
+        "image": "https://ldb-phinf.pstatic.net/20260829_5/1787998185708vYY48_JPEG/KakaoTalk_20260829_153033754_03.jpg"
+      },
+      {
+        "name": "딸기잼&크림치즈 토스트",
+        "price": "5400",
+        "image": "https://ldb-phinf.pstatic.net/20260829_112/1787998466513gC4BG_JPEG/KakaoTalk_20260829_191405221.jpg"
+      },
+      {
+        "name": "아보카도&계란 토스트",
+        "price": "9800",
+        "image": "https://ldb-phinf.pstatic.net/20260829_137/1787998349427cYpVt_JPEG/KakaoTalk_20260829_153033754_02.jpg"
+      },
+      {
+        "name": "아메리카노",
+        "price": "5000",
+        "image": ""
+      },
+      {
+        "name": "플랫화이트",
+        "price": "5500",
+        "image": ""
+      },
+      {
+        "name": "Crème caramel Tea",
+        "price": "6500",
+        "image": ""
+      },
+      {
+        "name": "Earl Grey Tea",
+        "price": "6500",
+        "image": ""
+      },
+      {
+        "name": "Granding wedding Tea",
+        "price": "6500",
+        "image": ""
+      }
+    ],
+    "microReview": "",
+    "conveniences": [
+      "무선 인터넷",
+      "포장",
+      "간편결제"
+    ],
+    "roadGuide": "",
+    "nearestSubway": {
+      "name": "전포역",
+      "exit": "7",
+      "walkTime": 4
+    },
+    "seatInfo": [
+      {
+        "name": "카운터석",
+        "description": ""
+      },
+      {
+        "name": "바테이블",
+        "description": ""
+      },
+      {
+        "name": "연인석",
+        "description": ""
+      },
+      {
+        "name": "테라스",
+        "description": ""
+      }
+    ],
+    "blogReviews": [
+      {
+        "title": "부산 전포동 카페, 페르커피.",
+        "url": "https://m.blog.naver.com/reddotskirt/224396965088",
+        "name": "days and days"
+      },
+      {
+        "title": "서면 전포 신상 카페 페르커피",
+        "url": "https://m.blog.naver.com/hye_eeee/224404318739",
+        "name": "당신의 걸음걸이마다 함께 걸을게요"
+      },
+      {
+        "title": "부산 전포 신상카페 &#39;페르커피&#39; 외부 디저트 반입 가능",
+        "url": "https://m.blog.naver.com/hong-owo-si/224403947291",
+        "name": "동그라미"
+      }
+    ],
+    "reviewTotal": 30,
+    "imageReviewCount": 30,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "분위기",
+      "서비스",
+      "위치"
+    ],
+    "visitorReviews": [
+      {
+        "body": "인스타에서 전포에 새로운 카페 생겼다고 해서 와봤는데 라떼 맛집 맞네요 ㅎㅎ 라떼 우유가 뭔가 다른 느낌이였어요!! 훨씬 고소하고 단 느낌?!?!\n같이 온 남자친구는 논커피 중에 오렌지주스 추천해주셔서 먹었는데 직접 눈 앞에서 착즙해주시더라구요!!\n그리고 무화과토스트 꼭 드세용! 상큼하고 커피랑 잘 어울려요🤤💓",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDNfNCAg/MDAxNzg4NDA4MzMxNTky.KcQHiNMNk8tDiSYIxo8Ph8fdc4VOUfxPp9p-73Yo00Eg.A7gLpETPNVyModTkHleHO01zhu0M5g-1tE7RkyKxeqIg.JPEG/1BC6169B-95E6-4FBB-9109-2C68BFA19ABD.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDNfNzEg/MDAxNzg4NDA4MzMxNDI0.ZXUW1d3fjMV_M-wSeQcbGynt9MWfnVGCMEPz0_P2fsMg.MBxaubJxZtirY4sBoBY2qUDLkdpVw0wr_vml5z-JczMg.JPEG/91BFBD31-D912-4234-B6F7-DA5F22ECC063.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDNfODIg/MDAxNzg4NDA4MzMyNTgw.AeKUR7NWxGoyiEBJl9yKd77Nh4KLF3h9meZ35Snu3lkg.jRO3vGcFtSF5JO-rhUhwmN62m8L9ViYnYvhpEv8kAuIg.JPEG/BA21C191-B990-4EB3-9FED-2BE74DDB9AB6.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "서진dinmi"
+      },
+      {
+        "body": "지나가다가 마주친 운명 같은 카페에요 ㅠㅠ 너무 더워서 들어왔는데 사장님도 너무 친절하시고 분위기도 너무 ��아서 친구랑 한참동안 있다가 갔어요 😍 단골 한자리를 차지해야겠는데요? 여쭈어보니 생긴지 얼마 안됐다는데 이제 여기만 와야겠어요 ㅠㅠ 잘 쉬다 갑니다 화이팅 ❤️❤️",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDZfODkg/MDAxNzg4NjcxMjI5MTI0.wQqrCYSv4XUEgmdysjGR6_U0c8bbGy-g-MnJl1vXaNYg.pNCCy3rqpTy7J3agRa1eXSrnojfx28hDDtiR6JKIolUg.JPEG/F252E69A-3A31-4094-A072-EDF928A40583.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDZfMzUg/MDAxNzg4NjcxMjI4Nzk5.GsjjeStUZoWS1apWwcaIvHE_jClX4wqoOOjLOwsD-T4g.OVDWWxbAJmfa2gbKg8_u2Bn7qTdyV89B7t0mwazga0Ag.JPEG/8AFD6379-70D5-427F-AC7A-86C4D64B6CD2.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "dnf****"
+      },
+      {
+        "body": "아늑하고 귀여운 소품들\n그리고 잔잔하니 분위기를 밝혀주는 노래소리\n\n맛있는 제철 무화과를 사용한 샌드위치,\n딸기 크림치즈 샌드위치는 커피와 즐기기 좋았던\n디저트 들이였어요\n\n남편이랑 도란도란 이야기 나누며 힐링했습니다🫶🏻",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDFfMTgw/MDAxNzg4MjM3MjgwNTA5.BWmkC20Y-xXwgRhDXp0T08K8cawwn9-Di1xJ0-YKer8g.coU5agAzckrskE-eutE3U5iwSScmrBY1CcrFwEeP370g.JPEG/2A020217-85CC-4B78-AE9F-A8FF45A02E38.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDFfMjgy/MDAxNzg4MjM3Mjc5NzYw.3NsKeqne41J6GIh0L6ivpbRtveK08t_r9fFyj9kZlGwg.we10LFl3hPAYUPgkaNjXdt-bCewTFjPa7K6pG8ECu9Eg.JPEG/9C94F8E3-DAF5-4DAD-A909-1E72AC703532.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDFfNzUg/MDAxNzg4MjM3MjgxNDMx.jPFS2eNSTMG44p4K8ZZYT1qNT5bIiEUwOZkn9wcL8esg.9PYYWDmFE2eBprGzFbMumdhYAFL6nJbO1aHJfj4Rf-wg.JPEG/1008D060-1706-435A-9F60-9C857F466E51.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "opl****"
+      },
+      {
+        "body": "전포 1티어 새로생긴 라떼맛집 .. !! ♥ \n인테리어도 트렌디하고 예뻐서 사진 건지기도 좋고, 커피 마시는 동안 그냥 기분 좋아지는 곳이에요 !!!!\n디저트랑 커피 다 맛있어요 전포에 이런 카페 생겨서 넘 좋아요 사장님 두분 다 너무 친절하세용 🪽🪽",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MzBfMTUg/MDAxNzg4MDcwMTE4MDA5.Zv4Uh9OjQHSxFBqGN-2FkktxV9ghL4p2xC0XcvCA6Msg.LISC4pW0Zojf5nc2_X-HC1Ge8GFZXQ2ZrqoxTDLpbSUg.JPEG/5DB79BE4-7F0D-42EA-AA16-DCB301DB2F8A.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MzBfMTU0/MDAxNzg4MDcwMTE3OTgz.vCB0bHA0sHQ-Bj0FI5gKarLBzkDQ_pohXoHGCNqJKsMg.SZm1-LcYr9mAVa_eqtK8egXya2xrTwVL1TfebD_5fckg.JPEG/67B8B485-EA85-42D6-8CE5-DDA597808B6F.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "이아영5186"
+      },
+      {
+        "body": "카페 분위기도 넘 좋구 무화과 토스트 넘 맛있었어요...!!! 사장님께서 라떼가 농축된 우유?를 사용하신다구 설명을 해주셨는데 설명 듣고 마셔서 그런가 뭔가 진짜로 우유맛이 달고 진하게 느껴졌어요 ㅋㅋㅋㅋㅋ 전포에서 라떼 먹고 싶으면 여기 오려구요! 사장님들께서도 친절하시고 다시 가고 싶은 카페였습니다😻",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MzFfODQg/MDAxNzg4MTQ2NDM3MzI0.ADeIiTIPTW5LQUUn-yEkG77JrXHOrRoHauRBIDeT4jcg.GB9-jLCXsvOni6B3Wo7SeTU3sKatnX9YJjko_xih6AYg.JPEG/A58E4DF8-B4E6-4843-9482-DBB1B8FC2B7D.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MzFfNiAg/MDAxNzg4MTQ2NDM2OTgz.lWYOLZmCl8bb171X7whd3P7BcukBL6N9Bbfp6Lj1OUAg.sASGb9gJLusiks_nyx281pZyZ1BjkiUEELvxTXm0xaog.JPEG/D3CB250F-3B36-44BF-A856-6301F99B73FB.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "gim****"
+      }
+    ],
+    "folderName": "카페 빵집"
+  },
+  {
+    "id": "1716524256",
+    "name": "수월경화",
+    "address": "부산 해운대구 송정중앙로6번길 188",
+    "roadAddress": "부산 해운대구 송정중앙로6번길 188 4층",
+    "region": "부산",
+    "district": "해운대구",
+    "subRegion": "해운대",
+    "lat": 35.17611,
+    "lng": 129.19657,
+    "category": "디저트",
+    "mcid": "CAFE",
+    "naverCategory": "카페,디저트",
+    "phone": "",
+    "virtualPhone": "0507-1327-8450",
+    "hours": "11:00에 영업 시작",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20260629_229/17827375235326tuo2_JPEG/%BC%F6%BF%F9%B0%E6%C8%AD_%C6%F7%BD%BA%C5%CD.jpg",
+      "https://ldb-phinf.pstatic.net/20260629_113/1782737273879gjftg_JPEG/%B9%E3%B8%B6%BD%C7_%C6%F7%BD%BA%C5%CD1.jpg",
+      "https://ldb-phinf.pstatic.net/20260105_174/1767609392489UhwHq_JPEG/KakaoTalk_20260105_190812831.jpg",
+      "https://ldb-phinf.pstatic.net/20241202_62/1733125380690z5gmp_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-12-02_160836.png",
+      "https://ldb-phinf.pstatic.net/20260430_78/1777529000092Y4QRp_JPEG/KakaoTalk_20260430_150047917.jpg",
+      "https://ldb-phinf.pstatic.net/20260430_236/1777529033321TyKnt_JPEG/KakaoTalk_20260430_150047917_03.jpg",
+      "https://ldb-phinf.pstatic.net/20260430_240/17775290428914Kaby_JPEG/KakaoTalk_20260430_150047917_04.jpg",
+      "https://ldb-phinf.pstatic.net/20260430_229/1777529054093XdqRQ_JPEG/KakaoTalk_20260430_150047917_05.jpg",
+      "https://ldb-phinf.pstatic.net/20260430_225/1777529063494UJwIv_JPEG/KakaoTalk_20260430_150047917_06.jpg",
+      "https://ldb-phinf.pstatic.net/20260716_121/1784187276452xUDEO_JPEG/%C0%FC%C5%EB%C2%F7_%BC%F6%C1%A4%BA%BB.jpg",
+      "https://ldb-phinf.pstatic.net/20260430_238/1777529099111fYvK1_JPEG/KakaoTalk_20260430_150047917_08.jpg",
+      "https://ldb-phinf.pstatic.net/20260430_123/177752915292252TgE_JPEG/KakaoTalk_20260430_150047917_10.jpg",
+      "https://ldb-phinf.pstatic.net/20260430_7/1777529165289u0Ef9_JPEG/KakaoTalk_20260430_150047917_11.jpg",
+      "https://ldb-phinf.pstatic.net/20260716_144/1784186777137Q6SE0_JPEG/%B9%E3%B8%B6%BD%C7.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20260629_229/17827375235326tuo2_JPEG/%BC%F6%BF%F9%B0%E6%C8%AD_%C6%F7%BD%BA%C5%CD.jpg",
+    "reviews": "방문자 리뷰 20,097",
+    "naverPlaceUrl": "https://m.place.naver.com/place/1716524256",
+    "instagramUrl": "https://www.instagram.com/swgh_official",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "달보드레 상자",
+        "price": "13000",
+        "image": "https://ldb-phinf.pstatic.net/20240207_126/1707293661619VRAkL_JPEG/DSC06193-5.jpg"
+      },
+      {
+        "name": "쌍화차",
+        "price": "11000",
+        "image": "https://ldb-phinf.pstatic.net/20240207_114/170729390552278gCe_JPEG/DSC06434-2.jpg"
+      },
+      {
+        "name": "봄물결",
+        "price": "8500",
+        "image": "https://ldb-phinf.pstatic.net/20260903_251/17884255059116AQSr_JPEG/%B4%BA_%BA%BD%B9%B0%B0%E1.jpg"
+      },
+      {
+        "name": "멜롱망스",
+        "price": "8500",
+        "image": "https://ldb-phinf.pstatic.net/20260903_238/1788425516464yGEiD_JPEG/%B4%BA_%B8%E1%B7%D5.jpg"
+      },
+      {
+        "name": "홍유생",
+        "price": "8500",
+        "image": "https://ldb-phinf.pstatic.net/20260903_21/1788425532935qaoIq_JPEG/%B4%BA_%C8%AB%C0%AF.jpg"
+      },
+      {
+        "name": "현월호지",
+        "price": "8500",
+        "image": "https://ldb-phinf.pstatic.net/20260903_226/1788425552424XAtpB_JPEG/%B4%BA_%C7%F6%BF%F9.jpg"
+      },
+      {
+        "name": "레몬석양",
+        "price": "8500",
+        "image": "https://ldb-phinf.pstatic.net/20260903_169/1788425563187o3Whc_JPEG/%B4%BA_%B7%B9%B8%F3.jpg"
+      },
+      {
+        "name": "루이월주",
+        "price": "8500",
+        "image": "https://ldb-phinf.pstatic.net/20260903_158/1788425582249bPtBn_JPEG/%B4%BA_%BF%F9%C1%D6.jpg"
+      },
+      {
+        "name": "캐모엘릭서",
+        "price": "8500",
+        "image": "https://ldb-phinf.pstatic.net/20260903_255/1788425598302GSGqa_JPEG/%B4%BA_%C4%B3%B8%F0.jpg"
+      },
+      {
+        "name": "제주브리즈",
+        "price": "8500",
+        "image": "https://ldb-phinf.pstatic.net/20260903_34/1788425610857mW3LS_JPEG/%B4%BA_%C1%A6%C1%D6.jpg"
+      }
+    ],
+    "microReview": "송정 여행의 필수 방문지",
+    "conveniences": [
+      "단체 이용 가능",
+      "예약",
+      "무선 인터넷",
+      "포장",
+      "남/녀 화장실 구분",
+      "유아의자",
+      "간편결제",
+      "주차"
+    ],
+    "roadGuide": "송정 구덕포 굴다리 맞은편(송정집 뒷편 빨간벽돌 건물)\n\n[차량 이용 시]\n1층 필로티 주차장 이용가능(이중주차), 주차장 만차 시 근처 유료주차장 이용(지원X)\n\n[대중교통 이용 시]\n버스 이용 시, 'KT송정타워' 정류장 도보 1분, '송정해수욕장 입구' 정류장 도보 10분\n전철 이용 시, 동해선 '송정역' 하차 후, '185번' 버스 환승하여 'KT송정타워' 하차\n부산해변열차 이용 시, '송정정거장' 하차하여 도보 8분",
+    "nearestSubway": null,
+    "seatInfo": [
+      {
+        "name": "단체석",
+        "description": "최소 4명 ~ 최대 8명"
+      },
+      {
+        "name": "바테이블",
+        "description": ""
+      },
+      {
+        "name": "좌식",
+        "description": ""
+      },
+      {
+        "name": "입식",
+        "description": ""
+      },
+      {
+        "name": "1인석",
+        "description": ""
+      },
+      {
+        "name": "연인석",
+        "description": ""
+      }
+    ],
+    "blogReviews": [
+      {
+        "title": "부산 송정해수욕장 카페 | 오션뷰와 한국적 정취의 향연, 수월경화(水月鏡花) 솔직 후기",
+        "url": "https://m.blog.naver.com/dnation09/224399985009",
+        "name": "오늘"
+      },
+      {
+        "title": "부산 송정 블루리본 맛집 송정 해수욕장 오션뷰 카페 수월경화",
+        "url": "https://m.blog.naver.com/occkei/224402925157",
+        "name": "감성녀의 MBTI탐구생활"
+      },
+      {
+        "title": "송정맛집카페 수월경화 밤마실에서 고즈넉한 여름 밤의 정취를 느끼다",
+        "url": "https://m.blog.naver.com/bin25016/224398866275",
+        "name": "라이프건축가 엄마 이야기"
+      }
+    ],
+    "reviewTotal": 20097,
+    "imageReviewCount": 15253,
+    "reviewThemes": [
+      "만족도",
+      "맛",
+      "분위기",
+      "전망",
+      "서비스"
+    ],
+    "visitorReviews": [
+      {
+        "body": "송정해수욕장 블루리본 카페 수월경화~ 특색있는 디저트와 차가 맛있어요. 낮에 방문해도 좋지만 밤늦게 까지 영업해서 10시넘어 방문했는데 bar분위기도 나고 해변 야경 뷰도 멋지고 음악도 좋았어요~~",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MzBfMjQx/MDAxNzg4MDk2MTk4NDAy.cKVUjHKiuzEK93JpxsVLfsC23TC5HulI-FvHk32XhIYg.KaQW24uYwPIKFT8aI2SAxIP53wjk4TeZonSx3eEsr2og.JPEG/1000198650.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MzBfMTQx/MDAxNzg4MDk2MTk4MDYy.jjD_xmZLlcQ-flP6E1HZSANo6gLfckXNy3c7roeh5VMg.9BhRt4pXVkQ14CSYO2sjujEzCjcwoKxUfVERxY14J-Eg.JPEG/1000198658.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MzBfMTcz/MDAxNzg4MDk2MTk4NjM3.Besl6KwX911RR_YqbfKbhXnVY1coXr2Ph3QlihQtjb0g.aC9P6j4DXYDoUBNQIqkTqNOV9FPguviLPbo0tLEH61Ig.JPEG/1000198657.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "angssen"
+      },
+      {
+        "body": "대추차랑 홍도라지차를 주문했는데 시판 제품이랑은 확실히 다른, 직접 정성껏 만든 듯한 깊은 맛이 느껴졌어요 ☕️🤎\n대추차는 진하고 은은하게 달아서 좋았고, 홍도라지차도 향이 부담스럽지 않고 깔끔해서 맛있게 마셨습니다 🌿\n\n무엇보다 자리 앞쪽으로 바다가 보여서 차 마시면서 경치 구경하기 정말 좋았어요 🌊✨\n따뜻한 차 한 잔 마시면서 여유롭게 쉬어가기 좋",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDVfMjYg/MDAxNzg4NTgyNzk2NTA5.0tnOBWeaJmwWPnDGEM8H5DBf1NYGSsikTBqykYfNvBUg.z_e63PXb4sKhkr4KyvNDVekQiwS2CvbILFMXYV2T-7og.JPEG/1000027620.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDVfMjMy/MDAxNzg4NTgyODAwNjk4.wCgU5HTDj58w6fWCy6GGcfCzC8ZtA-EbFWWOOCWp_iQg.5g3syAYCF7Gz2RolZUG5dOtrZE226ufR1IeekJKUSd8g.JPEG/1000027622.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDVfMiAg/MDAxNzg4NTgyNzk2MDkz.xfXufaeWpIeQVaxKfdOAp8HLW8DiHRpNBNG05ygF5fIg.C-fClDGiPvyUAmGHG9BUFeKsbC0hp2xpqG1RIKWeBXkg.JPEG/1000027625.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "by smiler70"
+      },
+      {
+        "body": "송정 바다가 한눈에 담기는 탁 트인 오션뷰와 고급스러운 전통 한옥 감성이 어우러져 정말 고즈넉하고 인상적인 곳입니다. 이번에 방문해서 화요일, 수요일 세트와 모나카를 주문했는데, 비주얼부터 정갈하고 디저트의 달콤함과 차의 풍미가 잘 어우러져 대접받는 기분이었어요. 직원분들도 차 마시는 방법까지 친절하게 설명해 주셔서 계절감을 느끼며 편안하게 쉬어갈 수 있었",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDNfOTcg/MDAxNzg4NDM1MzUyMjAy.0ZmKyrVOVEDoTkyI4Qbzo97eqnIOUNOMf4H4MUFUDIsg.SrCDGfnNOHuZb_sSaQ0TPrZsiAxp6djoyMxMgw3AUiYg.JPEG/37911.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDNfMjk4/MDAxNzg4NDM1MzYxODI0.xYpDROb_Nv6l4GCKjMhYFeEBKZMd2JM4ZiaIXP0R8HMg.5_qXuNEWVKjmd877G0KEQ0SG9CHVJHSyMc7Ib-ryEkUg.JPEG/37899.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDNfMjk5/MDAxNzg4NDM1MzYxOTE1.XfLqEiNEyYYfYpVemXYK8r885lW4QLfPBEA1Mfh06Fcg.Be4BxEVRrYdXpiTZ51n9XeQ70ogvHy8VH5vByEy1xVkg.JPEG/37888.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "로건3"
+      },
+      {
+        "body": "송정 바다가 한눈에 들어오는 수월경화에 다녀왔어요. 전통적인 분위기와 바다 풍경이 어우러져 들어서는 순간부터 분위기가 참 좋더라고요.\n\n이번에는 달보드레상자, 현월호지, 아이스아메리카노를 주문했는데요. 달보드레상자는 여러 가지 전통 디저트를 조금씩 맛볼 수 있어서 보는 재미도 있고, 차와 함께 먹기에도 좋았습니다. 현월호지는 은은하면서도 부담스럽지 않은 맛",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDNfMjk5/MDAxNzg4NDE3Mzk3Mjkw.BE0IJ_XxvqVubHnPDHojnNAQ3z6NKYcscXe3zAdHEogg.QuOz1gPGeQ1XfchFEUfGvslAzbdwZ8DUb6Qrj4thw0Ag.JPEG/7FF71750-4B3C-49CA-B707-4539096F0CC6.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDNfMjQz/MDAxNzg4NDE3Mzk4ODQw.3XojqacX5WiOuws5nMhzl16aUGCTVC9olOabNwttiSAg.wciJnFLuyek2rLHiLaofvxO7JG5BO1qFKoMwVylJSWAg.JPEG/4D561CA7-3F41-4EA7-9357-E0E2FBC19F64.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDNfMjU1/MDAxNzg4NDE3Mzk4MDEx.HSZm8XN3MIn575i9lW0cWp33oqoH4_T2S3Lw7h98oHEg.CPH0bQwsmQkAW3Qjw2PHBZY2vTI6vYuHLsu36TWsU94g.JPEG/A8210724-1107-4E2C-AC14-88C3256B57E3.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "캡틴845"
+      },
+      {
+        "body": "특별한 티를 맛볼 수 있는 오션뷰 맛집🩷 어디서도 맛보지 못했던 음료와 다과, 정말 맛있어요! 인테리어도 예쁘고~ 소품하나하나 맘에 들었던곳ㅋ  차한잔하면서 여유있게 즐기기 좋은 공간🌿 좌석도 널널해서 가족들과 함께해도 좋아용🫶 난중에 송정오면 또 들려보렵니다😚",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTVfMjg5/MDAxNzg2NzgyMjEyMDcy.DAs_Fym-AFP3_vUZOQ624cwW0pxYNt9x2NzER2F2vbIg.Rt2CiFnzBAvI28Pp6OIR6U-ZhhtPE9jUmIaHbmq0NPQg.JPEG/20260815_164159.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTVfMTM3/MDAxNzg2NzgyMjEyMjkx._0VYd6tc4Oz167eGvQsBv8tB7ZEO1BvQUbSOtFB-70Qg.Pg3PQjK_KDIPuP4Xrot75xDjfINeSdbOxlzVKrWl9yYg.JPEG/20260815_164246.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTVfNTgg/MDAxNzg2NzgyMjE0ODgz.G7-wqRgmFnS_CiBo-qo26RxA42AZyMbfhfpv784KXAUg.x7l_uPwOQAX0c429idFWREJpZTUBTNY5E18hvXtxpbog.JPEG/20260815_165105.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "lov****"
+      }
+    ],
+    "folderName": "카페 빵집"
+  },
+  {
+    "id": "2068980090",
+    "name": "오션더레코드",
+    "address": "부산 해운대구 송정광어골로 71",
+    "roadAddress": "부산 해운대구 송정광어골로 71 7층",
+    "region": "부산",
+    "district": "해운대구",
+    "subRegion": "해운대",
+    "lat": 35.17515,
+    "lng": 129.19648,
+    "category": "카페",
+    "mcid": "CAFE",
+    "naverCategory": "카페",
+    "phone": "",
+    "virtualPhone": "0507-1370-8183",
+    "hours": "매주 화요일 휴무",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20260723_118/1784816261960Ibs55_JPEG/%C1%A4%B8%E9%C3%A2_%BB%E7%C1%F8_260723.jpg",
+      "https://ldb-phinf.pstatic.net/20260723_96/17848162762231BXXO_JPEG/%C1%A4%B8%E9%C3%A2_%BB%E7%BC%B1_%BB%E7%C1%F8_260723.jpg",
+      "https://ldb-phinf.pstatic.net/20260726_123/1785065893560yqJ8x_JPEG/KakaoTalk_20260726_192555756.jpg",
+      "https://ldb-phinf.pstatic.net/20260726_129/17850652821228McNe_JPEG/KakaoTalk_20260726_202654501.jpg",
+      "https://ldb-phinf.pstatic.net/20260726_187/1785063054613EAOt6_JPEG/%BF%C0%BC%C7_%B4%F5_%B7%B9%C4%DA%B5%E5_%B8%DE%B4%BA%C6%C7_260723.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20260723_118/1784816261960Ibs55_JPEG/%C1%A4%B8%E9%C3%A2_%BB%E7%C1%F8_260723.jpg",
+    "reviews": "방문자 리뷰 83",
+    "naverPlaceUrl": "https://m.place.naver.com/place/2068980090",
+    "instagramUrl": "",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "LP 청음권 + 서비스 음료 1잔",
+        "price": "17900",
+        "image": "https://ldb-phinf.pstatic.net/20260726_24/1785063163492p6NVq_JPEG/%BF%C0%BC%C7_%B4%F5_%B7%B9%C4%DA%B5%E5_%B7%CE%B0%ED.jpg"
+      },
+      {
+        "name": "LP 청음권 + 서비스 주류 1잔",
+        "price": "19900",
+        "image": "https://ldb-phinf.pstatic.net/20260805_232/1785936672081brLVI_JPEG/%BF%C0%BC%C7_%B4%F5_%B7%B9%C4%DA%B5%E5_%B7%CE%B0%ED.jpg"
+      },
+      {
+        "name": "아메리카노 (핫/아이스)",
+        "price": "4000",
+        "image": ""
+      },
+      {
+        "name": "아이스티 (복숭아)",
+        "price": "4000",
+        "image": ""
+      },
+      {
+        "name": "오미자차 (핫/아이스)",
+        "price": "4000",
+        "image": ""
+      },
+      {
+        "name": "레모네이드",
+        "price": "4000",
+        "image": ""
+      },
+      {
+        "name": "초코라떼 (핫/아이스)",
+        "price": "4000",
+        "image": ""
+      },
+      {
+        "name": "루이보스 티 (핫/아이스)",
+        "price": "4000",
+        "image": ""
+      },
+      {
+        "name": "캐모마일 티 (핫/아이스)",
+        "price": "4000",
+        "image": ""
+      },
+      {
+        "name": "얼그레이 하이볼",
+        "price": "10000",
+        "image": ""
+      }
+    ],
+    "microReview": "바다와 음악이 어우러진 휴식처",
+    "conveniences": [
+      "남/녀 화장실 구분",
+      "무선 인터넷",
+      "주차",
+      "노키즈존"
+    ],
+    "roadGuide": "송정해수욕장 인근 버스 정류장 [광어골(KT송정타워방면)]\n하차 후\n내리막길 따라 90m(도보1분)\n내려오셔서\n장득춘샤브칼국수 건물 7층으로 올라오시면 됩니다.",
+    "nearestSubway": null,
+    "seatInfo": [
+      {
+        "name": "좌식",
+        "description": ""
+      },
+      {
+        "name": "연인석",
+        "description": ""
+      },
+      {
+        "name": "1인석",
+        "description": ""
+      }
+    ],
+    "blogReviews": [
+      {
+        "title": "송정 오션뷰 LP바 오션더레코드",
+        "url": "https://m.blog.naver.com/capzzang70/224397461425",
+        "name": "그 여자가 사는 법"
+      },
+      {
+        "title": "송정 뷰좋은 카페 , 부산 오션더레코드 내돈내산 방문후기",
+        "url": "https://m.blog.naver.com/thgusdl2016/224390736868",
+        "name": "밍밍의 Food & Life 그어딘가 :)"
+      },
+      {
+        "title": "부산 송정 LP바(카페) 오션더레코드 주말 저녁 웨이팅 및 야경감상",
+        "url": "https://m.blog.naver.com/hi-gang/224390588384",
+        "name": "kyungah world"
+      }
+    ],
+    "reviewTotal": 83,
+    "imageReviewCount": 76,
+    "reviewThemes": [
+      "만족도",
+      "전망",
+      "분위기",
+      "서비스",
+      "맛"
+    ],
+    "visitorReviews": [
+      {
+        "body": "혼자 급 여행 떠나온 송정에서 정말 가고 싶던 카페인데 힐링 제대로 하고 갑니다 ㅎㅎ\n뷰도 탁 트여 있어서 속이 뻥 뚫리구요!\n1인석이 있어 너무너무x100 좋아요\nLP종류도 진짜 많구...,,, 음료도 맛있어 좋습니다\n좌석도 리클라이너 좌석이라 리클라이너 무새로서 대만족입니다❤️",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDVfMjc4/MDAxNzg4NTk2NzUzNDE2.TfPxARGFkWyCKesVYC-2vepAnnfBVGbmihCBBblsR4Yg.cVS1iVKFGLDllZspWv9h35X4A5ZblWq7e-1Awo_JFEQg.JPEG/9905EA58-D269-43AE-8B65-1F7BB92DD3D2.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDVfMjQ4/MDAxNzg4NTk2NzUzMjgy.yWCvg0KJV_g0HlBKvH33_HKDTlJR2gL_RYjUcrQP2NUg.hTk_BIf3NzV-p4chbVJw7jYIz4g8Djh_j2H15b71YPUg.JPEG/B41AFFC4-4944-4D06-A2C6-F7CDDAC1B166.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDVfMTY0/MDAxNzg4NTk2NzU0NTYx.v6f-PHBbnbuXhzX7TVcP-CA0XgyHb6l48MgKgjhPIOQg.JxABpdt6iJzp2whS_xwaOLoNNo7y0q5ZyDOfw7GEeRIg.JPEG/5BAB7AB8-33F6-46C6-837D-2357B9003765.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "유빈64"
+      },
+      {
+        "body": "LP바가 생겼다는 소식이 들리면 찾아가곤 한다. \n송정에 오션뷰 LP바가 오픈했다기에 다녀왔다. \n편안한 의자, 내가 좋아하는 송정 바다,\n혼자 음악을 들으며 푹 쉬었다. \n조금 보왐되었으면 하는 부분도 있지만, 좋은 시간이었다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MjRfNjIg/MDAxNzg3NTcxNjUzMTU1.xl4IbRsc4lhseh7dGdXPH37KmeMT2e-8oebMnOq7ny8g.Kw-nOrghAVKFO6mNuU6uq5pHl24PTB_QzsGMnFmjWoIg.JPEG/244C21A0-6538-487A-A2CA-5886177C1622.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MjRfMjcy/MDAxNzg3NTcxNjUyODMx.Z2aFJYbu5MnLsjl8GhN7EWsO2ov3-IuhMnmm8GVT9x8g.lLO3T3ed7NV192tmNySpOJGwW6TETLFBs9f-cjZgewMg.JPEG/BA0639EE-2CF5-4DE1-AA83-7394D31C17D6.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MjRfNjkg/MDAxNzg3NTcxNjU0NDYw.YW_pGblAM1WSd8MJFH4BODHH15umr9BVULsDK9xy3iYg.ZsMNwVEuMrp1O91HPvkTaJgcVJ0rvRoczoJvRAu0EZMg.JPEG/7C8ADDE1-8CB2-49EE-B7DC-88994771D5FD.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "맛집카페투어"
+      },
+      {
+        "body": "송정에 이런 분위기의 카페가 생겼네요! 🌊🎶\n바다 바로 앞이라 뷰가 정말 좋고, LP로 음악을 들을 수 있어서 분위기가 너무 좋았어요.\n\n통창으로 보이는 송정 바다 보면서 음악 듣고 있으니 시간 가는 줄 모르겠더라고요. 일반 카페랑은 또 다른 감성이 있어서 좋았어요.\n여유롭게 바다 보면서 음악 듣고 싶은 날 다시 방문하고 싶은 곳이에요 🤍\n\n송정에서 ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDVfNTgg/MDAxNzg4NTk4NjYzMjk1.jAchRapZV2EHa-LVEsZ8mXOoJRV24KuIeMkogLtkLYMg.YcUu0umq9t24nn7TcvYoMLPHqZiNy8tKCN9SWSLaoNEg.JPEG/386AF961-A808-445C-9556-A8AC5594AC97.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDVfMTUg/MDAxNzg4NTk4NjYyMDI5.uckk9ZWYFjJs7N5OJkvamhQyUW4BRC51tuR_DjnWbFog.zowNQU7KstrR88C82bSjYQNdz6uWsdR8HveG-XIvF4Eg.JPEG/C7972257-13BB-41D3-A426-D341D0C2206A.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDVfMjIz/MDAxNzg4NTk4NjY1MzA2.gHSITL0qDt2kbaNtuy4VhW-w-WH18vHGImRDKjBSK44g.P2n7jJqzdfJbdb_2OO7q0_h2_wModjvQDBytJshWCxIg.JPEG/5981B814-2FE8-4B6F-9B82-EBF029B8324C.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "kim****"
+      },
+      {
+        "body": "송정에서 바다보면서 시간보내기 좋은 청음 공간을 찾아서 너무 뿌듯해요:) 광안리나 해운대랑 다르게 송정 바다만의 매력이 넘치는데 특히 해질녘에 노을 보면서 편안한 리클라이너 좌석 앉아서 좋아하는 레코드 음악감상 할 수 있는거 너무 매력적이라 저만 알고싶어유ㅜ 여름 휴가 피서지 멀리가지말고 송정 바다 좋아하시는 분들 꼭 추천하고싶어요👍",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MjBfNDUg/MDAxNzg3MjE3OTIyMTkz.Dx33Jzpe4qC5xf3v0N2fptuUjsKTTTl3xlblnSaAXa8g.enVQ4rR4rP-0ZvTCASzIAOIrF2hMHITeKQDMPoXrf5kg.JPEG/2B19E840-437B-465C-B915-DAE2CEA44434.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MjBfMTU1/MDAxNzg3MjE3OTIyODYz.LhaTPUfRKNfB_JpgJ007j2Gk-1LiV68P7wZCoAC0LGQg.UAfsn6s3EfVxZCSc0oZSkwDfo9z5GB0MecG3CtA-Z3Yg.JPEG/EF23700C-5F2F-440E-B929-8CCBD294F4B1.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MjBfMTgw/MDAxNzg3MjE3OTIzODM2.8QVyde9IVcdDO79DYoUDPgs9W6WhkqlP74toRPglRH8g.3mYPqIgyX2j12Wl5pboc-o8s78DbmbYR4MjdMWik6zQg.JPEG/84969C3D-DCE9-4414-9112-6C6183122E80.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "bororo78"
+      },
+      {
+        "body": "이번 부산 여행 중, 가장 힐링한 시간은 오션더레코드에서였습니다. 혼자 방문했는데 운좋게 1인좌석 한자리만 남아있어 대기없이 바로입장했어요 ㅎㅎ 송정해수욕장이 한눈에 보이는 시원한 뷰에 좋아하는 음악을 마음껏 취향껏 들을 수 있어요. 몸도 마음도 평온하고 물멍 음악멍 실컨 때리고 행복에너지 충전했습니다☺️🤍 다음에 꼭 남편이랑 같이 와야겠어요!!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MjBfMTMx/MDAxNzg3MjEzODkxMjM2.PspyeQ8B2QQTRLdAgUxsnm4AGlRUfiYpSj4A-J3OQ34g.uYLnHzwvHGu56slX-LPtLs8oj3xuMjLK1-QNA865j58g.JPEG/0BD872FD-16A6-4268-AFF3-F6691EBCC581.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MjBfNSAg/MDAxNzg3MjEzODkzNTE1.UdKV1gsn71M4iEVUIsBervnGXCORnHy7he_p2vUsxhMg.VbTh2glc9SM74x5bnj7Av7sDyAq0sr_Mu6kELtaPFeog.JPEG/2DE4AB4B-E77B-494E-959D-2731338CCBC9.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MjBfMTg2/MDAxNzg3MjEzODk0Nzc4.KQdoA40oekOYplWvvVcKtI9Roh1L4ifpZHcVApUisiAg.YPt4gmQ7USJAFU8ohBskym_HG1pG6AM2R4PwMHBFM9og.JPEG/C2E45F07-F70B-459E-8A03-3B11A0507775.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "최고성자"
+      }
+    ],
+    "folderName": "카페 빵집"
+  },
+  {
+    "id": "1571556173",
+    "name": "디비에이",
+    "address": "부산 해운대구 송정광어골로 86",
+    "roadAddress": "부산 해운대구 송정광어골로 86 1~2층",
+    "region": "부산",
+    "district": "해운대구",
+    "subRegion": "해운대",
+    "lat": 35.17388,
+    "lng": 129.19629,
+    "category": "디저트",
+    "mcid": "CAFE",
+    "naverCategory": "카페,디저트",
+    "phone": "",
+    "virtualPhone": "0507-1315-1230",
+    "hours": "09:00에 영업 시작",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20250906_50/1757151172935woiJg_JPEG/IMG_9593.jpeg",
+      "https://ldb-phinf.pstatic.net/20260525_54/1779708278906cJ9E2_JPEG/KakaoTalk_Photo_2026-05-25-20-23-25.jpg",
+      "https://ldb-phinf.pstatic.net/20260526_194/17797768034456Dnt9_JPEG/KakaoTalk_Photo_2026-05-26-15-26-33.jpg",
+      "https://ldb-phinf.pstatic.net/20240721_136/1721565658147KqBk5_JPEG/KakaoTalk_20240721_153701105.jpg",
+      "https://ldb-phinf.pstatic.net/20231105_231/1699179326001OWBv1_JPEG/KakaoTalk_20231105_182338875.jpg",
+      "https://ldb-phinf.pstatic.net/20231105_248/16991793662808t6ns_JPEG/KakaoTalk_20231102_194545094.jpg",
+      "https://ldb-phinf.pstatic.net/20231003_52/1696319216433a3XlV_JPEG/2353245345345345.jpg",
+      "https://ldb-phinf.pstatic.net/20231105_37/1699178482430U2UcC_JPEG/444444444444444444234_-_%BA%B9%BB%E7%BA%BB.jpg",
+      "https://ldb-phinf.pstatic.net/20240722_98/1721632283149jbInx_PNG/%BA%B9%BC%FE%BE%C6%BD%BA%B9%AB%B5%F0.png",
+      "https://ldb-phinf.pstatic.net/20240425_276/1714049302203fsvFf_JPEG/1701859249711.jpg",
+      "https://ldb-phinf.pstatic.net/20231105_77/1699179333720zmFPh_JPEG/KakaoTalk_20230621_150859926.jpg",
+      "https://ldb-phinf.pstatic.net/20231105_288/1699179312787ECKkM_JPEG/KakaoTalk_20231105_170351581_17.jpg",
+      "https://ldb-phinf.pstatic.net/20231105_197/1699179350932yrgw1_JPEG/KakaoTalk_20231102_191659882_08.jpg",
+      "https://ldb-phinf.pstatic.net/20240510_267/1715317982399vpqWQ_JPEG/KakaoTalk_20240510_141228601.jpg",
+      "https://ldb-phinf.pstatic.net/20240516_180/17158434399113tOFJ_JPEG/1.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20250906_50/1757151172935woiJg_JPEG/IMG_9593.jpeg",
+    "reviews": "방문자 리뷰 549",
+    "naverPlaceUrl": "https://m.place.naver.com/place/1571556173",
+    "instagramUrl": "https://www.instagram.com/dba_coffee_",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [
+      {
+        "name": "블루베리 소금빵",
+        "price": "5500",
+        "image": "https://ldb-phinf.pstatic.net/20260824_221/1787552048784o43Gt_JPEG/1000022017.jpg"
+      },
+      {
+        "name": "초코칩소금빵",
+        "price": "5500",
+        "image": "https://ldb-phinf.pstatic.net/20260410_2/1775794278889mGih4_PNG/%C3%CA%C4%DA%C4%A8%BC%D2%B1%DD%BB%A4%A4%B7.png"
+      },
+      {
+        "name": "소보로 소금빵",
+        "price": "4000",
+        "image": "https://ldb-phinf.pstatic.net/20251103_149/176214189243628deq_PNG/asdawq.png"
+      },
+      {
+        "name": "버터 소금빵",
+        "price": "3200",
+        "image": "https://ldb-phinf.pstatic.net/20240722_117/1721631887245yaoqw_PNG/%B9%F6%C5%CD%BC%D2%B1%DD%BB%A4%A4%B7.png"
+      },
+      {
+        "name": "글레이즈 소금빵",
+        "price": "4000",
+        "image": "https://ldb-phinf.pstatic.net/20251103_293/1762141916009tK5aM_PNG/%B1%DB%B7%B9%C0%CC%C1%EE.png"
+      },
+      {
+        "name": "앙버터 소금빵",
+        "price": "6000",
+        "image": "https://ldb-phinf.pstatic.net/20240723_291/1721726951263TPUvB_PNG/%BE%D3%B9%F6%C5%CD_%C3%D6%C1%BE.png"
+      },
+      {
+        "name": "트러플 먹물 소금빵",
+        "price": "4000",
+        "image": "https://ldb-phinf.pstatic.net/20240722_213/1721631896295vLEa8_PNG/%C6%AE.png"
+      },
+      {
+        "name": "갈릭 소금빵",
+        "price": "4800",
+        "image": "https://ldb-phinf.pstatic.net/20250626_70/1750939874872hKwF9_PNG/%B0%A5%B8%AF%BC%D2%B1%DD%BB%A7.png"
+      },
+      {
+        "name": "바닐라크림 소금빵",
+        "price": "5500",
+        "image": "https://ldb-phinf.pstatic.net/20250626_100/17509328467277WEUC_PNG/%C4%BF%BD%BA%C5%B8%B5%E5%C5%A9%B8%B2_%BC%D2%B1%DD%BB%A7.png"
+      },
+      {
+        "name": "버터 소금빵 아이스크림",
+        "price": "6500",
+        "image": "https://ldb-phinf.pstatic.net/20240722_65/17216358835987SRBB_PNG/%BC%D2%B1%DD%BB%A7%BE%C6%C0%CC%BD%BA%C5%A9%B8%B2.png"
+      }
+    ],
+    "microReview": "한상진 배우가 인정한 소금빵 맛집",
+    "conveniences": [
+      "포장",
+      "무선 인터넷",
+      "반려동물 동반",
+      "남/녀 화장실 구분",
+      "배달",
+      "단체 이용 가능",
+      "예약",
+      "주차"
+    ],
+    "roadGuide": "매장위치는 송정 투썸플레이스 맞은편이며, 가로등이 보이는 예쁜 무채색카페입니다.\n유명식당 어밤부,길조,튼튼식당,303화덕 근처에 있습니다\n\n주차는 가게 앞 공간 사용 중 입니다.\n언제든 편하게 전화주시면 자리 안내해드리겠습니다 !",
+    "nearestSubway": null,
+    "seatInfo": [],
+    "blogReviews": [
+      {
+        "title": "부산 송정 카페 추천 디비에이, 배우 한상진도 인정한 소금빵 맛집",
+        "url": "https://m.blog.naver.com/oosos1004/224297948540",
+        "name": "Our haru, Our mood"
+      },
+      {
+        "title": "촘촘히 준비하면 설렘이 두려움을 압도한다 / 2025년 10월 일상",
+        "url": "https://m.blog.naver.com/sincerelyny/224402634185",
+        "name": "something about us"
+      },
+      {
+        "title": "송정에서 발견한 소금빵 맛집커피까지 맛있었던 디비에이",
+        "url": "https://m.blog.naver.com/hsh6848/224399978999",
+        "name": "VASTT FITNESS 센텀점"
+      }
+    ],
+    "reviewTotal": 549,
+    "imageReviewCount": 416,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "분위기",
+      "서비스",
+      "메뉴"
+    ],
+    "visitorReviews": [
+      {
+        "body": "부산 소금빵 원탑 “𝐃𝐁𝐀\"\n\n버터소금빵은 바삭 깔끔했다.\n\n소보로소금빵은 바삭했으며 소보로맛을 은은하게 나게 하신거 같았고 빵맛을 헤치지 않는 선에서 만드신거 같았다. 짠단의 맛이다.\n\n바닐라크림은 바닐라빈이 콕콕 박혀있었고 묵직했다.\n\n소금커피는 단쓴의 조화가 어울렸다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTdfMTE3/MDAxNzg2OTU5Njk1MzQw.F76a-5hkLbFWlZEpmJtLV3wEC6WYIfaC6_EjHimnyccg.eOERiW9fiy9Ol_ykt6bNtMcwCfGLUnaVQpXEYdQJiLsg.JPEG/C5FDADB6-F8EF-47E4-8D05-EA22135C90C6.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTdfMjgy/MDAxNzg2OTU5Njk0ODE4.yi756f1l7Oev5U1eoa1wB2PdGAXp03Gtl710h3xgTmUg.wj6IhTvrgLMyGIqnYk3MV2_EFZV_1R-6_rEsqMJ-TDsg.JPEG/FDE79728-BAA8-4246-8D13-DE6B62266E3D.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MTdfMTUw/MDAxNzg2OTU5Njk2NzU3.wEOE5YipFzMmf8AtHUJRfiVZky7LZ4Mqkymm3R1qE0Eg.aaQbaKlNkUUWd9p4kRnlPoJ4UXQq48rYbJubHVcAY8cg.JPEG/493A4CEA-5988-4A8A-86A2-13EB79AD7CDA.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "Lucid Stella"
+      },
+      {
+        "body": "소금커피 국내에선 처음마셔보는데 이집 진짜 맛도리예요. 기본 커피 자체가 맛있는집인듯해요. 깊고 찐합니다. 다음엔 아메리카노 마시러가겠음.\n소금빵도 진짜 제대로 만들어서 버터향과 풍미가 고급스럽게 입안을 맴돌아요. 소금빵에 커피까지 디저트로 완벽한 카페👍 아 소보로소금빵 안먹었으면 평생 후회할뻔!! 재료 안아끼고 듬뿍 쌓아주는 집",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MzFfOTEg/MDAxNzg4MTQwMDQyMzg2.9wfdb9_8DF63k5PWg5qHF7o0auMfjMo_3jyrLMd4F-Ug.6HcdpliQxr0T5lNvxUbyE2JgnqChR64UtngydKGdudYg.JPEG/6990495F-65D6-4F41-B7EB-8059CE70DF02.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MzFfMTcx/MDAxNzg4MTQwMDQyMzk1.AdgFZkjx29mG-S3jzIS-3gA6x9MATQDkrg7md4-oHfsg.VvIBG4SkfgZaGwn9QTBIXXbv_cj8vHTgNQ10YXa0s-cg.JPEG/89FF0A28-54FC-4AEB-BF78-F0DF2B91F853.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA4MzFfMTQ1/MDAxNzg4MTQwMDQzMjQ1.abJ69wDvAxOSjo9hhz-IiuY-88Ln_nfSCIGT3v2RQKwg.c8ik-VA31fCx5FK5Let9Tm4fCyKNHGKpAyLe4mHqA6Eg.JPEG/16C367D9-DD79-486A-8498-2E8832D59CFB.jpeg"
+        ],
+        "author": "행복일상만땅쓰"
+      },
+      {
+        "body": "배우님 추천으로 오게된 소금빵맛집!!\n송정바다도 잘 보이고, \n매장도 넓고 분위기도 너무 좋네요💛\n소보로소금빵. 오리지널소금빵 진짜 맛있네요!! \n아메리카노도 너무 맛있고\n소금커피도 넘 맛있어요\n자주 올게요!!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MjNfMTQ4/MDAxNzg0Nzc0MDEzNTc3.58YFngw8OXQtQAQhWvTwSuaUPivB6__T0Mi4QlUHFicg.B9boJt3Is579_vGxfe02wLR0nJnIxj8OVsEBa5f3-aEg.JPEG/IMG_1550.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA3MjNfMjcz/MDAxNzg0Nzc0MjIzMjIw.DkIjOT5Z_f4YCwCyfQojKL113KZTIT7OfzFn83RPghEg.aSjDC0DtVrE6b-SEqg7B0tDsPGDcCQ74fVxRWuYjd_cg.JPEG/IMG_1559.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "쿠키1759"
+      },
+      {
+        "body": "짭조름하고 부드러운 단짠 크림이 아메리카노와 어우러져 깊은 풍미를 남깁니다. 첫 입엔 크림의 고소함이, 끝맛엔 쌉싸름한 커피향이 깔끔하게 퍼지네요. 섞지 않고 잔을 기울여 마셔야 진짜 매력을 느낄 수 있습니다. 매일 먹는 라떼가 지겨울 때 색다른 디저트 커피로 완전 추천해요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDZfMTIx/MDAxNzg4NjgzNTc1Nzcw.v5tQBcjhN3ReJQbj4aVM1zji494hDaSYG_8k500ILS0g.8jwa90hkNeW0U0_YZTb0zUnSBMnF-JBZNxJmX5aKH-4g.JPEG/20118.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "wnrhd1357"
+      },
+      {
+        "body": "독특한 메뉴는 물론 뷰도 좋고 내부 공간이 감각적이에요!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDVfMTYw/MDAxNzg4NTg3Nzk1NTgw.o9fdMuiXkJntEc9Kzm5E44ER4thDyHLLUcfisRohVS0g.fmy-ddT4bAfkCrubUTmGc_vFSM918R59vIp_0mqTmX8g.JPEG/7DA6C3D6-5C19-4EC8-A1B5-6DF3AD88499E.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDVfMTYw/MDAxNzg4NTg3Nzk0Mjg4.FbMUSh5uxKRYdUeTEL8cxq5KLr7aLM0n2xVzY2q42Kwg.tILCNfUZ_Jrxd98HBY0EN-w1VtpXdkQ6jNH65v0SJJEg.JPEG/1AB947B4-D119-4513-9368-09F7E3899B1D.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "mimiminA"
+      }
+    ],
+    "folderName": "카페 빵집"
   }
 ]
