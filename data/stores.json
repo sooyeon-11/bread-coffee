@@ -81331,5 +81331,267 @@
       }
     ],
     "folderName": "카페 빵집"
+  },
+  {
+    "id": "1977960188",
+    "name": "더 성산 로스터리",
+    "address": "경남 창원시 성산구 삼귀로 407",
+    "roadAddress": "경남 창원시 성산구 삼귀로 407",
+    "region": "경남",
+    "district": "창원시",
+    "subRegion": "창원시",
+    "lat": 35.16314,
+    "lng": 128.61133,
+    "category": "디저트",
+    "mcid": "CAFE",
+    "naverCategory": "카페,디저트",
+    "phone": "",
+    "virtualPhone": "",
+    "hours": "",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20260205_289/1770283363436zBCLg_JPEG/132446.jpg",
+      "https://ldb-phinf.pstatic.net/20231121_48/17005427081481qt7J_JPEG/66140E18-3E45-432E-A897-D96391172403.jpeg",
+      "https://ldb-phinf.pstatic.net/20231121_236/1700542849022QsNUa_PNG/IMG_6278.png",
+      "https://ldb-phinf.pstatic.net/20260730_97/1785395962134R7LoT_JPEG/135901.jpg",
+      "https://ldb-phinf.pstatic.net/20260730_151/1785395962540rXc7u_JPEG/136050.jpg",
+      "https://ldb-phinf.pstatic.net/20250905_155/1757050715664XkUH8_JPEG/%C1%A6%B8%F1%C0%BB_%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4._%281%29.jpeg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20260205_289/1770283363436zBCLg_JPEG/132446.jpg",
+    "reviews": "",
+    "naverPlaceUrl": "https://m.place.naver.com/place/1977960188",
+    "instagramUrl": "",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [],
+    "microReview": "친절한 설명과 함께하는 커피 여행",
+    "conveniences": [
+      "단체 이용 가능",
+      "포장",
+      "대기공간",
+      "남/녀 화장실 구분",
+      "무선 인터넷",
+      "예약",
+      "유아의자",
+      "주차"
+    ],
+    "roadGuide": "맑은내일 플레이스 3층/4층 위치해 있습니다.",
+    "nearestSubway": null,
+    "seatInfo": [
+      {
+        "name": "단체석",
+        "description": "최소 1명 ~ 최대 10명"
+      },
+      {
+        "name": "룸",
+        "description": "최소 1명 ~ 최대 4명"
+      },
+      {
+        "name": "테라스",
+        "description": ""
+      },
+      {
+        "name": "입식",
+        "description": ""
+      },
+      {
+        "name": "1인석",
+        "description": ""
+      },
+      {
+        "name": "연인석",
+        "description": ""
+      }
+    ],
+    "blogReviews": [
+      {
+        "title": "[창원/귀산] 귀산 포엠커피웍스 / 귀산 커피맛집",
+        "url": "https://m.blog.naver.com/yooniverse____/224331054535",
+        "name": "Yooniverse"
+      },
+      {
+        "title": "창원 가로수길 카페 포엠커피웍스",
+        "url": "https://m.blog.naver.com/yosu0633/223730179505",
+        "name": "withulog"
+      },
+      {
+        "title": "창원 가로수길 카페 핸드드립 스페셜티 포엠커피웍스",
+        "url": "https://m.blog.naver.com/fjqjwprzl/223746797725",
+        "name": "지니팍지,세상을담다"
+      }
+    ],
+    "reviewTotal": 114,
+    "imageReviewCount": 77,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "분위기",
+      "서비스",
+      "목적"
+    ],
+    "visitorReviews": [
+      {
+        "body": "바닷가에 있어서 뷰가 좋고 커피가 맛있습니다. 다만 일반 카페보다 20퍼센트 비싸요. 원두 선택 비용이 2천원 따로 있는데 설명 안해주셔서 깜짝 놀랐습니다. 메뉴판 사진이 왜 없는지 알겠어요. 메뉴판 사진이 있다면 안왔을겁니다. 라떼 만원에 마셨어요. ㅠㅠ 아래층 식당에서 식사하면 20퍼센트 싸게 해준다는데 식사 안한 손님에겐 좀 납득 안되는 가격입니다. ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MjRfMTc1/MDAxNzkwMjM4MDQzNzUw.EIaux-fYpwbk8Hs42o20bu6NvYLkLAsqLv_sXBQk82sg.E2ImkthfQRJGhBa6aPWLUxyfr5sH_r5C65YBegxtijUg.JPEG/20260924_171720.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MjRfMjQx/MDAxNzkwMjM4MDQzNjUw.OjXthiBCx_RYyprXx10Uu6zjo5SO_4GRGYNxjZB7um4g.-F6mLKn-s8aITwSAscfdnqvFn_15TWbQ7YqucGtKo90g.JPEG/20260924_171755.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "박카스0514"
+      },
+      {
+        "body": "스페셜커피가 있어 더욱 커피가 특별해지는 공간이예요~\n 또온집 입니다.\n생두를 직접 볶아서💯 제일 맛있을때 나오는 커피라서 귀산올때 마다 들르는 곳이예요~\n맑은내일  건물 4층에 있어서 찾기도 쉬워요~🤗\n지하 일품전골이나 성산옥에서 밥먹고 20%할인되요! 꿀팁 챙겨가시길요~😉\n식후 커피타임은 필수!^^😆",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjAxMzFfMjQ3/MDAxNzY5ODMxNDcyMjU2.VyT6eyDDn8vCrMQi-RWsjDytrDJwve3zIUJS_bXne-0g._EpqljkYh4r4L7YXsnvPA-KKwcEaP6tvMcDwxHzNPKEg.JPEG/20260131_124237.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjAxMzFfMTYw/MDAxNzY5ODMxNDczMDkx.F7Pb62nPDDctCrl15gJCcalHfYxzkcQzLGAH_6eaFK0g.IEFZqpCAlwfyOVH3dje6AvvcAERAB3lxtcln2KOPqQgg.JPEG/20260131_123825.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "도레미EAT"
+      },
+      {
+        "body": "사장님이 너무 친절하시고 커피도 하나씩 설명해 주셔서 감사했어요! 카푸치노도 부드럽고 맛있어요!! 호주식 카푸치노는 처음 접해보는데 신선하고 특별했어요! 재방문 하고 싶은 카페:)",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjAyMjBfMTkz/MDAxNzcxNTc3Mjg4NjAx.t1MS1D9BeJ3k5kzYOZpuMFrs5XfhZfBl5-V3bc6XIagg.EXhXeOxHznXubAjmPSqsEb1KrMReXNlU0g65rQSH1xMg.JPEG/FBCB50F3-39D0-42C4-917A-284A50491991.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjAyMjBfMTAw/MDAxNzcxNTc3Mjg5MDE1.vYmQhFA16VMS9_0QCDQTrXeGO2H06-h0PKPMRwohBTgg.oX377eOA1vYdqC97P0WvtuEilG2LfuguYNPr4f4JsqMg.JPEG/AA8082E8-8F5F-42DE-998E-D988CF79368F.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjAyMjBfMTcz/MDAxNzcxNTc3Mjg4OTUw._6gftirXUNWIGU7anEwGeT3WrIQol3vYfX6-POso_mEg.NbLznSwG3D4luBb_H_SU97lkDn_8WewAVeT1UEcjUG0g.JPEG/3919CE61-ED04-4344-92B7-894113849D53.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "nic****"
+      },
+      {
+        "body": "페루 게이샤를 브루잉으로 마셨는데\n섬세하게 잘 추출해주신것 같습니다.\n서비스도 매끄러웠구요.\n\n통창 때문인지 전망은 아주 좋지만 소음 흡음이 잘 안되는 아쉬운점은 있어요",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjAyMTRfMTU1/MDAxNzcxMDUzMDUxNDQ2.KOFJhwS4YvvPyOWXQwh9CVGChOIPDQn2CdNI2Sg1hekg.vKW6w6Ue7LjvYPbL2pFysaJPrT8Z11f9c-Gf1b2EzH4g.JPEG/17710530373181120039104931052714.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjAyMTRfMTM5/MDAxNzcxMDUzMDY3NTg4.obRzxxwZfUCA2ImVB0PHnjXbjuJL6UKsctll5vftupkg.dMIsSvMNktYP8oW8zSlxAUHMRMU903xffwwbeGe8MnMg.JPEG/17710530551847271791111803126878.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "silentvoid"
+      },
+      {
+        "body": "커피, 디저트 모두 맛있습니다. 매장이 크지 않고, 조용한 곳입니다. 성산옥에서 식사하고 영수증 가져가면 카페 10% 할인해주네요😃 재방문의사 있습니다!",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjAyMTJfMTg2/MDAxNzcwODk1NzYxMjc2.Z5Sh_AjbQZA4pBtpwWxQm27xdkzN76e4zdKLd7cr-qwg.gsuKHQhU8H_TgM96Bge5A8geq42Umbu4O6ugF-wRaE0g.JPEG/20260208_170505.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjAyMTJfMTA0/MDAxNzcwODk1NzYxMjMw.KjQgB_Efbl9R-HhROtpfukPjFkU8Op71fz9I6TTEodIg.ufs9NsO9R66IJ0pnjnIAVYrK_fKeAyvtCwCtBu1zK8sg.JPEG/20260208_165921.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjAyMTJfMTQy/MDAxNzcwODk1NzYxMjg0.0L_3NR53QBW2bXbD57j4x4IQr9WlMV2Re-A6VCDXFYgg.80z_gAdkwEn-PvLzH2GqwvB4I1IZmBLxEEjsgamyzBEg.JPEG/20260208_170521.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "파도공주"
+      }
+    ],
+    "folderName": "카페 빵집"
+  },
+  {
+    "id": "2099447903",
+    "name": "모노디트리",
+    "address": "부산 금정구 장전로12번길 17",
+    "roadAddress": "부산 금정구 장전로12번길 17",
+    "region": "부산",
+    "district": "금정구",
+    "subRegion": "금정구",
+    "lat": 35.2286169,
+    "lng": 129.0876759,
+    "category": "베이커리",
+    "mcid": "CAFE",
+    "naverCategory": "베이커리",
+    "phone": "",
+    "virtualPhone": "",
+    "hours": "",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20260625_149/1782371745822l95dq_JPEG/1000021866.jpg",
+      "https://ldb-phinf.pstatic.net/20260625_114/1782371790639l2Mdk_JPEG/1000021867.jpg",
+      "https://ldb-phinf.pstatic.net/20260905_139/1788538935295aoBiG_JPEG/IMG_3874.jpg",
+      "https://ldb-phinf.pstatic.net/20260830_47/178806661703425nPJ_JPEG/IMG_3839.jpg",
+      "https://ldb-phinf.pstatic.net/20260915_76/1789432471528sHEwJ_JPEG/3DFE9F40-4D2A-42B3-A9AE-D9F629D81B3D.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20260625_149/1782371745822l95dq_JPEG/1000021866.jpg",
+    "reviews": "",
+    "naverPlaceUrl": "https://m.place.naver.com/place/2099447903",
+    "instagramUrl": "https://www.instagram.com/monoditri.busan",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [],
+    "microReview": "다양한 디저트와 함께하는 커피 타임",
+    "conveniences": [
+      "단체 이용 가능",
+      "포장",
+      "남/녀 화장실 구분",
+      "유아의자",
+      "간편결제"
+    ],
+    "roadGuide": "부산대역 1번 출구 나와서 해쉬커피 사거리 좌회전 후 포멘티코 맞은편 도보 3분\n래미안장전 북문에서 부산대 카페 거리 방향 100m",
+    "nearestSubway": {
+      "name": "부산대역",
+      "exit": "1",
+      "walkTime": 3
+    },
+    "seatInfo": [],
+    "blogReviews": [
+      {
+        "title": "260911 부산대 카페 모노디트리 - 넛티 허니 바나나 주스",
+        "url": "https://m.blog.naver.com/sesirlis/224415286622",
+        "name": "먹고 마시고 보고 쓰고"
+      },
+      {
+        "title": "부산대 카페 모노디트리 공간도 디저트도 취향저격",
+        "url": "https://m.blog.naver.com/sujin9848/224410970515",
+        "name": "러블리수지니의 달달한 하루"
+      },
+      {
+        "title": "부산대 신상 카페 모노디트리 복숭아컵케이크가 넘 이뻐",
+        "url": "https://m.cafe.naver.com/reviewclick/236?query=%EC%97%AC%EB%A7%9B%EC%88%98%EB%8B%A4",
+        "name": "여맛수다"
+      }
+    ],
+    "reviewTotal": 442,
+    "imageReviewCount": 389,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "분위기",
+      "서비스",
+      "메뉴"
+    ],
+    "visitorReviews": [
+      {
+        "body": "케이크가 먹고 싶어서 카페 찾아다니다가 준비중이던 곳이 오픈했길래 얼른 와봤어요.\n2층에도 좌석이  있고, 1.2층 모두 테라스 좌석이 있어서 선선해지는 저녁에 굉장히 좋을 것 같더라구요.\n커피도 케잌이랑 먹기 딱 적당한 산미에, 음..케이크는 무조건 먹어야만👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻\n무조건 케이크 먹어야해요.다들 꼭요🍰",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjEwMDVfMjU3/MDAxNzkxMTc0NTA5Mjg0.RjAh8mWF-emOHips1Umhv2CBng-R5_KWnzxw5zKd5aAg.AQiBR2VHF-trucDrIR7Vzx5UH4i_diZkp4qPL7esfQog.JPEG/1000412661.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjEwMDVfMTA5/MDAxNzkxMTc0NTA5MjA5.boBvEUQwhECVpqsb3cdWB3xeAauOFQOSBlmiDI052B0g.6ULOso4hZatpM7p9Iimano2c7GJmTi6k_BpOiI5cmi8g.JPEG/1000412648.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjEwMDVfMiAg/MDAxNzkxMTc0NTEyMDQ3.iidWSauMN2avzGRn-ssexviDO-usD5yXjP-rlIv9FCwg.pIPL7LcKPTL_JsWjJspx2EqsNB-5V6IeTcOie2k9QYsg.JPEG/1000412639.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "노말캣"
+      },
+      {
+        "body": "부산대 골목 안쪽을 거닐다 화이트톤의 탁트여진 카페가 보여서 들렀는데 특이한 조명과 소품 깔끔한 인테리어가\n넘 이뻤는데 와우 음료도 맛있고 커피가 엄청 맛난데\n케이크까지 완벽했어요^^이쁘게 한참 쉬었다 머물다 왔어요^^*",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MTBfMTk2/MDAxNzg5MDI2MzM1NzM0.FCyVCURPmei_rLmq_uW0-sfEr9T8z4ukaxzg0VWZX8Eg.MpZmKN9_RO0kHWs26B4b9h_fRdzRMV_gApRKmouuJoog.JPEG/1789018304645.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MTBfMTM0/MDAxNzg5MDI2MzM1NDMw.ksv2d4O071kb5VdnYW7AH_7qaM-UuUANrOdBWp9Bq3wg.IC4nTJmryPpyU0dDgq57SXxdT0oTYrXwYwsPjfIS3O0g.JPEG/1789018293118.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MTBfMTE2/MDAxNzg5MDI2MzM0ODM2.h3etsc2uUBcvtUMb0SaHm1TcJRrmBFm484yREj5dmeMg.vHLSZutL04y5vT5HxhheRiahRE9QDMSC6u0ZegSo8pEg.JPEG/1789018298397.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "파밀리아42"
+      },
+      {
+        "body": "모노디트리 치아바타도 너무 맛있었어요\n왕 사이즈라 든든한데 올리브치아비타 빵이 두틈한게 아니라 내용물이 많이 들어서 즣은데요.\n이 치즈 뭐죠? 페타치즈 느낌이 토마토랑 소스랑 잘어울리고 맛있어요!!\n바닐라빈라떼 최고.\n방문할 때마다 맛있고 만족합니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MjJfMjA2/MDAxNzkwMDQxMDU3NTUx.a6CwyYBuwo5WFm-ogH4fUzcWLCjTPdWqJ5MhairCehcg.cgZB4fGZPA0SDjO1aqK2YG39gCYk_Biu0VMwQNdJOq4g.JPEG/20260922_102607.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MjJfMTYg/MDAxNzkwMDQxMDU3NDcz.bCCUaPVBKofqBEq7gD_zkzVInnTh7q02eAWmRyoiPQEg.pAPdRcmzEPyoWCUcT-DK9Qp3ioX24hIOCNxLQ_v4eRcg.JPEG/20260922_102640.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MjJfMjkx/MDAxNzkwMDQxMDU3NDQ0.MmotJlf4vdILsyk2_wRBQHLFVD1nLXmzkR1M72bVo5gg.5yB8wruws8IEaz4mwxY4DO8v8BCC2XV03fIB49rccb8g.JPEG/20260922_101405.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "새콤달콤9971"
+      },
+      {
+        "body": "지나가다가 디저트가 너무 맛있어보여서 고민하다가 들어와봤는데 분위기도 너무 예쁘고 사진을 어떻게 찍든 예쁘게 나오더라구요🫶🏻💗 디저트들도 은은하게 달달하고 커피랑 너무 잘 어울려서 부산대 올때 한번씩 들릴까싶어요❤️✨ 부산대에 이렇게 예쁜 카페가 있었는 줄 몰랐는데 너무 좋네요☺️💖",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MjBfMTU5/MDAxNzg5ODc5MDEzOTQy.1d7jyJdiV8B48Mo1MLqg5Z6B3vFv2cV2qoZpMwTqbUMg.a_ys4wpocmP8cMYdc31fnYSCR9vhvud6BGxVNFEWVUog.JPEG/0DA937E2-D690-4D1E-9B7E-870AD880097F.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MjBfMTY5/MDAxNzg5ODc5MDE1MDU2.HZWA2Et_P-o1wpr6m3QMx7GEJu_UeebzNA5hFM7SrZsg.HIc4bViWBw9MvY8QN0m6SP0mn5G-vNx09cKcT_T83BAg.JPEG/F2E81876-2590-4729-A38C-83A74182EFB9.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MjBfMTM1/MDAxNzg5ODc5MDE1OTA5.UTgptE3zC0MALmyEF59muZXyfHADUuhHZz9DUirRCPEg.0CJremfbJI4pPiHPpW-lyfAHO8DhV7FTFT9RnWYjOIog.JPEG/774057B0-55A0-48D7-991C-61BE1E3988C1.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "Imyejin"
+      },
+      {
+        "body": "모노 우드톤 인테리어로 분위기가 차분하고 너무\n좋네요 집중도 잘됨 쉬기도 좋고 대화하기도 좋고\n자기 할거하기 참 좋은공간인거 같아요\n테라스도 잘되어있고 레몬파운드 아주 조금만 \n달아서 넘넘맛있었어요 커피두요!!!🍋🍋☕️☕️\n맛있어보이는 디저트가 많아서 또 올거같아요🌳🌳",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MTVfNTYg/MDAxNzg5NDU4NzM1Mzcw.3ZJyGwvloExRk4gxO9gz2NGTdJwGIT7hk6-KpF3ucuAg.rFm2Y034dGbo07jnt97N2yWyfQMut7MRYDdlnP2rVfog.JPEG/20260915_143110.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MTVfMjMg/MDAxNzg5NDU4NzM1MzEz.6_xdwHf0SaXPY3S6lctv3gqlyUDQHsyD_pbE4Saj8F4g.5m93DTtpxj75O7eLRiedlleE7gKZljo6rywFZA6QxT0g.JPEG/20260915_163800.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MTVfMTM4/MDAxNzg5NDU4NzM1MzYw.5Oj-UCtDvnHa_14vDp0SeSxzKG5m3VTmlrVm9p3Jaf8g.cxWb84eonS2yFlKoFELixSPNhiIdJeuvDLUhJGjodCMg.JPEG/20260915_154842.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "양파단호박토마토감자"
+      }
+    ],
+    "folderName": "카페 빵집"
   }
 ]
