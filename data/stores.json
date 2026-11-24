@@ -80288,60 +80288,6 @@
     "folderName": "카페 빵집"
   },
   {
-    "id": "1271792976",
-    "name": "신카",
-    "address": "부산 남구 신선로 420",
-    "roadAddress": "부산 남구 신선로 420",
-    "region": "부산",
-    "district": "남구",
-    "subRegion": "남구",
-    "lat": 35.1222037,
-    "lng": 129.0994926,
-    "category": "카페",
-    "mcid": "GENERAL",
-    "naverCategory": "소프트웨어개발",
-    "phone": "",
-    "virtualPhone": "",
-    "hours": "",
-    "images": [
-      "https://ldb-phinf.pstatic.net/20260320_270/1773982147799ME6Hc_PNG/IMG_1118.png",
-      "https://ldb-phinf.pstatic.net/20230926_146/1695697251183PUG30_PNG/%BD%C5%C4%AB%B7%CE%B0%ED%B0%ED.png"
-    ],
-    "thumbnail": "https://ldb-phinf.pstatic.net/20260320_270/1773982147799ME6Hc_PNG/IMG_1118.png",
-    "reviews": "",
-    "naverPlaceUrl": "https://m.place.naver.com/place/1271792976",
-    "instagramUrl": "https://www.instagram.com/sincar_no.1",
-    "blogUrl": "",
-    "homepageUrl": "",
-    "menus": [],
-    "microReview": "",
-    "conveniences": [
-      "남/녀 화장실 구분",
-      "주차"
-    ],
-    "roadGuide": "샤브올데이 맞은편",
-    "nearestSubway": null,
-    "seatInfo": [],
-    "blogReviews": [
-      {
-        "title": "부산 중고차 매장 자동차 수출기업 신카 오토 갤러리 OPEN",
-        "url": "https://m.blog.naver.com/prettysusui/224227393065",
-        "name": "러브히포"
-      }
-    ],
-    "reviewTotal": 1,
-    "imageReviewCount": 0,
-    "reviewThemes": [],
-    "visitorReviews": [
-      {
-        "body": "상담도 친절하게 잘해주시고\n차 저렴하게 잘 구매 했읍니다",
-        "images": [],
-        "author": "tn****"
-      }
-    ],
-    "folderName": "카페 빵집"
-  },
-  {
     "id": "1977960188",
     "name": "더 성산 로스터리",
     "address": "경남 창원시 성산구 삼귀로 407",
@@ -83528,6 +83474,394 @@
           "https://pup-review-phinf.pstatic.net/MjAyNjA5MjJfNzgg/MDAxNzkwMDYxMDUxNzMz.E_Gnjy97TJL-fenQjZYecjqRjcssFyWjVSBfevThRdsg.5tEKNXAXw68tKRO2Te-uJj6EeawL3fRFuYvuOoRR00Ug.JPEG/CB7686F8-E91D-4C7D-9098-A4A56D45140F.jpeg?type=w1500_60_sharpen"
         ],
         "author": "ckddnjsi"
+      }
+    ],
+    "folderName": "카페 빵집"
+  },
+  {
+    "id": "38232927",
+    "name": "블랙업커피 해운대��",
+    "address": "부산 해운대구 중동2로 16",
+    "roadAddress": "부산 해운대구 중동2로 16 해운대온천센터",
+    "region": "부산",
+    "district": "해운대구",
+    "subRegion": "해운대",
+    "lat": 35.16334,
+    "lng": 129.16435,
+    "category": "디저트",
+    "mcid": "CAFE",
+    "naverCategory": "카페,디저트",
+    "phone": "",
+    "virtualPhone": "",
+    "hours": "19:00에 영업 종료",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20231219_88/17029533344013t5Wg_JPEG/DSC05840.JPG",
+      "https://ldb-phinf.pstatic.net/20231219_48/170295333440180xXk_JPEG/DSC05846.JPG",
+      "https://ldb-phinf.pstatic.net/20231219_300/1702953334320o3fjk_JPEG/DSC05855.JPG",
+      "https://ldb-phinf.pstatic.net/20231219_262/1702953334293P5q9H_JPEG/DSC05862.JPG",
+      "https://ldb-phinf.pstatic.net/20221230_219/1672391824182NsxpV_JPEG/%BA%ED%B7%A2%BE%F7%C4%BF%C7%C7.jpeg",
+      "https://ldb-phinf.pstatic.net/20221230_246/1672391887533lVPhI_JPEG/%BA%ED%B7%A2%BE%F7%C4%BF%C7%C7.jpeg",
+      "https://ldb-phinf.pstatic.net/20221230_257/1672391876609vvGut_JPEG/%BA%ED%B7%A2%BE%F7%C4%BF%C7%C7.jpeg",
+      "https://ldb-phinf.pstatic.net/20221230_98/1672391864919kQBrF_JPEG/%BA%ED%B7%A2%BE%F7%C4%BF%C7%C7.jpeg",
+      "https://ldb-phinf.pstatic.net/20221230_276/16723918543489TzPd_JPEG/%BA%ED%B7%A2%BE%F7%C4%BF%C7%C7.jpeg",
+      "https://ldb-phinf.pstatic.net/20221230_65/16723918421271F9mI_JPEG/%BA%ED%B7%A2%BE%F7%C4%BF%C7%C7.jpeg",
+      "https://ldb-phinf.pstatic.net/20260428_152/1777339395988EAdtI_JPEG/%B3%D7%C0%CC%B9%F6%C7%C3%B7%B9%C0%CC%BD%BA_%B8%DE%B4%BA_%B7%CE%B0%ED.jpeg",
+      "https://ldb-phinf.pstatic.net/20221230_124/16723918077034uAeU_JPEG/%BA%ED%B7%A2%BE%F7%C4%BF%C7%C7.jpeg",
+      "https://ldb-phinf.pstatic.net/20250905_47/1757062603659Cnyod_JPEG/%BD%E6%B3%D7%C0%CF_%BD%BA%B8%B6%C6%AE%C7%C3%B7%B9%C0%CC%BD%BA_%B8%DE%B4%BA.jpeg",
+      "https://ldb-phinf.pstatic.net/20260105_23/1767574899529LbKzG_JPEG/%BA%ED%B7%A2%BE%F7%C4%BF%C7%C7_logo.jpeg",
+      "https://ldb-phinf.pstatic.net/20260105_232/1767574928596BIGzq_JPEG/%BA%ED%B7%A2%BE%F7%C4%BF%C7%C7_logo.jpeg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20231219_88/17029533344013t5Wg_JPEG/DSC05840.JPG",
+    "reviews": "방문자 리뷰 1,729",
+    "naverPlaceUrl": "https://m.place.naver.com/place/38232927",
+    "instagramUrl": "",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [],
+    "microReview": "",
+    "conveniences": [
+      "주차",
+      "포장",
+      "무선 인터넷",
+      "남/녀 화장실 구분"
+    ],
+    "roadGuide": "",
+    "nearestSubway": {
+      "name": "해운대역",
+      "exit": "1",
+      "walkTime": 8
+    },
+    "seatInfo": [],
+    "blogReviews": [
+      {
+        "title": "이사한거 아니야?? 부산 해운대 목욕탕 추천 해운대온천센터 천연 해수온천 주차 가격 1층 베이커리 후기",
+        "url": "https://m.blog.naver.com/tabelee/224487139626",
+        "name": "[시련속에 피어나는 성공]님의 블로그"
+      },
+      {
+        "title": "부산여행 해운대 카페 추천 블랙업커피_해수염 커피 후기, 핸드드립 맛집",
+        "url": "https://m.blog.naver.com/le_mong98/224487115735",
+        "name": "Be Yourself(너 자신이 되어라)"
+      },
+      {
+        "title": "부산 해운대 카페 블랙업커피 핸드드립 맛집",
+        "url": "https://m.blog.naver.com/punch_ioi/224476943585",
+        "name": "독고���초's blog"
+      }
+    ],
+    "reviewTotal": 1729,
+    "imageReviewCount": 382,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "서비스",
+      "분위기",
+      "메뉴"
+    ],
+    "visitorReviews": [
+      {
+        "body": "할매탕에서 땀 좀 빼고, 때 좀 휘릭 밀고 나서\n1층으로 와 꼭 들려줘야 하는 블랙업커피.\n멋진 우드 인테리어에 넓고 안락한 공간감.\n그 공간을 가르는 재즈의 선율, 기💩찹니다.\n아아, 복숭아자두아이스, 라즈베리 버터즈.\n기본적으로 커피가 제대로 맛있습니다.\n전문점이기 때문에 언제 기회가 된다면\n내려서 뽑은? 커피 음미해보고 싶은 맘.\n아이스티도 일반 가",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjEwMDhfNzcg/MDAxNzkxNDM5MDUyNzc0.dLVYFUnC099QfV4Z19jlR5tDe0movFkvPh5355cvnf4g.eQMZNh31vdqogZkylACY6xBbgQYxRj-4YQHdMdAgLqUg.JPEG/20261006_115628.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjEwMDhfMjE4/MDAxNzkxNDM5MDUzMDE5.3RsGDVUmDq7aP_lLxVhyY2NW5OLUDL9tByC9GmlBrHQg.Qtl60j_Td6uz4W3qNyta4vWl0Oa0yTu0abqYWbBt4lIg.JPEG/20261006_115939.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjEwMDhfMTIx/MDAxNzkxNDM5MDUyODIz.V2M_7XFsymWkALgmEAbbQIaSYKTj0FQhCT2fmaCQcuQg.FWubERi1ekQ1vo1CP_M55kUshzbFAQMjua_SSi15lh0g.JPEG/20261006_115409.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "가마솥식지로"
+      },
+      {
+        "body": "그 유명하다는 해수염커피를 드디어 마셔봤어요. 흔한 크림커피 정도로 생각했는데 한입 마셔보니 생각이 달라졌습니다.\n\n부드러운 크림에 은은한 짠맛과 단맛이 잘 어우러져 밸런스가 정말 좋았어요. 필터커피를 찾는 손님도 많아 커피에 진심인 곳이라는 느낌이 들었습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MjhfMzMg/MDAxNzkwNTQ4ODQ1ODMy.hi1LGcKevC1lB-pyY694lubPMHP__3ySzitxOKiCve8g.RDO5922DhFtQUJ9Rjiup7-zIgOo9JtRtR4ZAwlW91v8g.JPEG/DA3A95AD-1FE2-48EB-A8AD-BF3584A96016.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MjhfMTc3/MDAxNzkwNTQ4ODQ1OTQz.ZFLtfNhy1AA3HEtAQHubvIvANa_IUkPUIKPAUdwlDPsg.iJKoUvifqirJvQKH6uvkDJd1wiEy0ZPGgmo9nVmgVegg.JPEG/D4F9B978-B2C9-4F12-8E25-8FBF34BF1036.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MjhfMTA5/MDAxNzkwNTQ4ODQ2NTAy.ptUwZkY1c9kNkpGV9csZYATAgQXsdgrcwlriDXa3dIcg.KUtKE_RObwEfqEQBQxbs4i_PPUceHuLRQ52y_8SIAtMg.JPEG/5153C106-2FED-4907-9EB6-536B3079AEB6.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "어반스코프"
+      },
+      {
+        "body": "해운대 블랙업커피에서 파나마 핀카 후루퉁고 게이샤 내추럴을 선택했다. 화사한 향과 잘 익은 과실의 단맛이 풍성하게 이어지면서도 피니시는 깔끔했다. 어제 서면점에서 근무하셨다던 세니님을 해운대점에서 다시 만났는데, 감사하게도 먼저 알아봐 주시고 바나나머핀까지 서비스로 챙겨주셔서 의도하지 않았던 페어링까지 즐길 수 있었다. 어제와 오늘 부산의 여러 카페를 경험",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDRfMTU0/MDAxNzg4NDk1MTA2MTk4.RmPnHbTG-4wcqlO4-w576RQ15bjUY_qkDFnA7i_ZRTgg.l31QC0yNRKuy_f_pNXlQ7ETDho6V9WOvEErZwi9bDt8g.JPEG/42B0CE98-27CB-4A3E-B974-C59BD7BE3000.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDRfNTIg/MDAxNzg4NDk1MTA1ODMz.nz7BLq4roaZkZupzDC6_pAKo6L2sTZqySeeHWbzfvSUg.NR5qWC1YBmWgFdbp-hbjCv0SsBEKK8MujWOpBh7yKhUg.JPEG/07EDA154-BA0A-4B09-A07C-B98CF7729F4D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDRfMTQ0/MDAxNzg4NDk1MTEwMDYx.n7LUKxII5-ctjA5VQvmPwEQKrqjg-02F6_ZSnN1FFWsg.XKnghtirJUZJ8pRs7ZKYkjROB67_QDR7Og6kXhJYvXkg.JPEG/247744FF-2AAD-45B0-8641-0AC662E4D46D.jpeg"
+        ],
+        "author": "르쇼콜라"
+      },
+      {
+        "body": "지난번 부산여행  왔을때 너무 맛있었던\n블랙업커피  해,수염\n이번에도 역시 너무 맛있음.\n토요일 오후 5시대 방문함\n무화과 크림치즈. 바질치즈스콘이  \n특히 맛있었음. 바질치즈스콘 추가 포장함\n실온에서 4일까지는 보관해서 먹어도 된다고 해서 다행임. 근처 블루라인파크 가기 위해 방문했음\n부산올때마다 생각나는 해,수염",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjRfMjk1/MDAxNzc5NTg0MzAyMzI5.4HUaZzu6Qxp3ixI7BtBSW4fND5QXXFFAO3WSP945Pwsg.3I3hULJXaofdTWQv0gXNCxaiSgRgck8cHdBUYduYL5Eg.JPEG/1779543204168.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjRfNyAg/MDAxNzc5NTg0MzAyMzQw.WJjFC4KdAAgr2W-UhPlT6ZNnPPbJuEbUz1dIlE48u1wg.ce5v4NTCSDd0-DMZ29wRtL8CoSZn_irDT_VZFBFmdgcg.JPEG/1779543217918.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA1MjRfNDAg/MDAxNzc5NTg0MzAyMzI1.Qg7q273-QDQ_Eif6I6iMPBexiNXOSogCe94RjigNl84g._aQkRsX1HgYV3UfQ5W8HOtPozCSHcWx9q-FIKEEfyjYg.JPEG/1779543217945.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "비기29"
+      },
+      {
+        "body": "여윽시 해수염!\n단짠쓰의 완벽한 조합ㅎㅎ",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MjZfMjMw/MDAxNzkwMzk5NTMxNzM2.FfE6u3nC6NkxKg2nCsLWrQCPEwMMkt_oTuSoU7bCtHog.JhiqjDEMN9u7ziy6pVeoyoid4QXT2_GrokuSnF6CjLEg.JPEG/20260924_153816.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "맛집이미래다"
+      }
+    ],
+    "folderName": "카페 빵집"
+  },
+  {
+    "id": "2044718137",
+    "name": "파리앤케이크",
+    "address": "부산 해운대구 해운대해변로298번길 9",
+    "roadAddress": "부산 해운대구 해운대해변로298번길 9 2층",
+    "region": "부산",
+    "district": "해운대구",
+    "subRegion": "해운대",
+    "lat": 35.16093,
+    "lng": 129.16469,
+    "category": "디저트",
+    "mcid": "CAFE",
+    "naverCategory": "카페,디저트",
+    "phone": "",
+    "virtualPhone": "0507-1382-4883",
+    "hours": "20:30에 라스트오더",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20261122_289/1795354262658b9R1g_JPEG/IMG_9617.jpg",
+      "https://ldb-phinf.pstatic.net/20261122_1/1795354147547Uwd3m_JPEG/IMG_2866.jpg",
+      "https://ldb-phinf.pstatic.net/20260730_34/1785410555590rfRhQ_JPEG/GRP_5878-HDR.jpg",
+      "https://ldb-phinf.pstatic.net/20260730_225/1785410561957LOxVu_JPEG/GRP_5310-HDR.jpg",
+      "https://ldb-phinf.pstatic.net/20261121_46/1795232790527Ac0Yj_JPEG/IMG_2827.jpg",
+      "https://ldb-phinf.pstatic.net/20261120_277/17951535122560Ss2B_JPEG/IMG_2782.jpg",
+      "https://ldb-phinf.pstatic.net/20260624_85/1782299402522HE9bJ_JPEG/IMG_8043.jpg",
+      "https://ldb-phinf.pstatic.net/20251019_33/1760845811254tLoM9_JPEG/4350E072-0267-41B4-AEB6-DD2876527BF9.jpeg",
+      "https://ldb-phinf.pstatic.net/20251215_100/17657686957286wRUT_JPEG/IMG_3390.jpeg",
+      "https://ldb-phinf.pstatic.net/20260709_184/1783577780872P2UC8_JPEG/IMG_8484.jpg",
+      "https://ldb-phinf.pstatic.net/20260925_137/1790316291479pyAny_JPEG/IMG_9413.jpg",
+      "https://ldb-phinf.pstatic.net/20260327_161/1774576127952OgXBP_JPEG/IMG_4965.jpg",
+      "https://ldb-phinf.pstatic.net/20250720_241/1752991972375bYeLo_JPEG/IMG_0051.jpeg",
+      "https://ldb-phinf.pstatic.net/20260925_25/1790313469224frgq8_JPEG/IMG_9383.jpg",
+      "https://ldb-phinf.pstatic.net/20260618_109/1781779574092EsQb3_JPEG/IMG_7777.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20261122_289/1795354262658b9R1g_JPEG/IMG_9617.jpg",
+    "reviews": "방문자 리뷰 2,147",
+    "naverPlaceUrl": "https://m.place.naver.com/place/2044718137",
+    "instagramUrl": "https://www.instagram.com/parisandcake",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [],
+    "microReview": "맛있는 디저트와 커피의 완벽한 조화",
+    "conveniences": [
+      "포장",
+      "남/녀 화장실 구분",
+      "단체 이용 가능",
+      "무선 인터넷",
+      "간편결제",
+      "주차"
+    ],
+    "roadGuide": "국가유공자, 경찰관, 소방관 분들께 10%할인 혜택이 제공됩니다.",
+    "nearestSubway": {
+      "name": "해운대역",
+      "exit": "1",
+      "walkTime": 11
+    },
+    "seatInfo": [],
+    "blogReviews": [
+      {
+        "title": "-해운대 파리앤케이크 Paris and Cake",
+        "url": "https://m.blog.naver.com/chchmin/224475996693",
+        "name": "즐거운 배롱나무"
+      },
+      {
+        "title": "해운대 카페 파리앤케이크 케이크 전메뉴 뿌시고 온 솔직후기 내돈내산",
+        "url": "https://m.blog.naver.com/shinoh912/224479606704",
+        "name": "Acorn Archive"
+      },
+      {
+        "title": "부산 모찌케이크 해운대 파리앤케이크 블루베리·초코 쫀득 모찌 후기",
+        "url": "https://m.blog.naver.com/ganzzajang/224485807527",
+        "name": "찐최적블로거의 맛집 소개"
+      }
+    ],
+    "reviewTotal": 2148,
+    "imageReviewCount": 1839,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "분위기",
+      "서비스",
+      "메뉴"
+    ],
+    "visitorReviews": [
+      {
+        "body": "아그작 케이크 롯데 팝업때도 맛있게 먹어서 오늘 해운대 파리앤케이크에 직접 티랑 디저트들 먹으러 왔어요. \n언제나 먹기 아까울 정도로 예쁘고 맛있는거 같아요. \n조만간 해운대 방문할때 또 들르겠습니다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjExMTlfMjAy/MDAxNzk1MDc4Mzk0NzY0.nOC0hCGfZ5p2y3ZY4qAM9GvYz8B9wojgWUL8umebbrYg.vC2qU5O3Dv6PhreJCkzEeqnnG9AAQw3V7ITbcU96EQkg.JPEG/3DA6872D-0D02-46DC-B37A-4DA5E9F98C1D.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjExMTlfMjI1/MDAxNzk1MDc4Mzk0Nzgz.4Po-5A4ITE6CeLICR8-PBU8MsPdt4LPMntiNV2tzcR4g.jCh-6g-0I02tHEHR42BVHhzH1fKmJ2k44O_Dg-37G-Qg.JPEG/4510E34F-6B7C-4D95-9274-0C68839DF3FE.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjExMTlfNTUg/MDAxNzk1MDc4Mzk2MTc2.RklfReqL8zhW222AmGcWsTXphOeSva0HSjN4CKAEImIg.4hVs6YEflIRmWz7SVVISSg3ndpHXbrIN0LnPy4hp8A0g.JPEG/C44BF4CC-B70E-4F32-BFB4-0A981690C50C.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "독고다이소덕후"
+      },
+      {
+        "body": "분위기가 좋아보여서 들어왔는데 기대한것보다 더 좋아서 가게에 들어 서자마자 감탄했어요. 메뉴들은 비싼 편이지만 맛있어요! 코코넛을 안좋아하는데 왜 코코넛 음료를 골랐는지 모르는데 정작 먹어보니 코코넛 특유의 맛은 안나면서 맛있네요. 케이크들도 다 맛있어요. 너무 심하게 단것도 아니구 좋아요",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjExMjFfMjIw/MDAxNzk1MjMzMjI0MzUy.IYvTcm-VhqFoSL3Y651M_BWcbM6n8TnxAo65sYGJGU0g.sqVI0n5Tjk4oBC4Xl-h1yLtNcrAYckZpCcKynr7U7csg.JPEG/1000038927.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjExMjFfODgg/MDAxNzk1MjMzMjI0NzIw.NYQRr4DtM8h2rN39JeESyD2EsyqD_MPqDJZWLVsDhDEg.Q90XZjFS9FFq9xlQRoslToBztf_-4POSEHwEVF4ExJMg.JPEG/1000038926.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjExMjFfOTQg/MDAxNzk1MjMzMjI1MDg0.qJEAo0heVDM0G5juzve-PKb2Qg31F2vLTaVUQcyhAUog.Bp5OOOaZLHCHhJq-HoBkgc9HiuGqN3b_4nKNeJknWIwg.JPEG/1000038925.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "테비00"
+      },
+      {
+        "body": "부산 여행을 하면서 카페를 유독 많이 찾았는데, 우연히 발견한 파리앤케이크! 그냥 지나쳤으면 후회할 뻔했어요.\n\n무화과 파르페는 무화과의 은은한 달콤함과 색색의 아이스크림이 조화롭게 어우러져요. 처음 맛보는 색다른 맛들이 하나하나 즐거웠어요. 와그작 ��이크도 독특한 모양만큼 맛도 인상적이었고요.\n\n비 오는 날이라 따뜻한 루이보스차를 주문했는데 달콤한 디저",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjExMTRfMTQ3/MDAxNzk0NjMyNjMwODQw.A99HjglBv0vQvHOk2M_hdWxhbQ3IMiaP3N38suIGay8g.YuB6FvTJcetdtVqeG1tBBhwvsikdj4UhnDls7qbgeu8g.JPEG/20261114_134604.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjExMTRfMTQz/MDAxNzk0NjMyNjMwNTE4.DdLYYNl_Ekq03tyEE80tfyEMK6INB_mTCyUezm3rOzYg.mfZJTbpWVCJ-7k1q-11mkzKjhoLL00adW_1zdrr6G_kg.JPEG/20261114_134114.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjExMTRfMTI1/MDAxNzk0NjMyNjMwOTYx.uppya6EpuhMC9IAL_JqXHuR7S-rG-xYsznmWEA_8mcIg.99yhsum0kOj0_Xen7O36ADVRE3sSQM0gTdHOJbK40Okg.JPEG/20261114_134101.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "그림책3030"
+      },
+      {
+        "body": "부산여행에서 빵도 좋긴하지만 빵보다는 구움과자 등을 좋아하고 여기 디저트가 맛있어보여 선택!\n\n대구탕을 먹고난 후라 상큼한게 땡겨서 아메리카노와 아그작 산딸기, 그리고 바닐라 플랑 먹음. \n\n둘다 맛있었다 🍓 🍰 특히 산딸기 아그작이 중간에 잼이 상콤함 : ) \n\n매장도 깔끔하고 대화하기 좋은 분위기였다.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjExMTZfMjg3/MDAxNzk0Nzg2NzMyNDcz.E9FJ4CLeCC8KsHSWOIT8lpS9-Wsr9qAFurg4h2VtwWEg.Uxr4p4USvsCBwl9_rUNBVDKf7bfewUtk_HcpKNJTqlsg.JPEG/85A45B87-9932-4232-A202-BC3759B11FE2.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjExMTZfMjk0/MDAxNzk0Nzg2NzMyNzAz.IZ8_3vCLJUTmJj9-VHL9tQ_WGtuzMCHrahoRyDXTogcg.U3fPFklqZzHKC7W-i7k4T7my1bq9Jt59ZyATCB3vVxIg.JPEG/A8F570F5-FF9C-42EC-ACCA-4598F706F1C7.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjExMTZfNzUg/MDAxNzk0Nzg2NzM0MTk3.xHGQ-mwcUIQI0IiIpzh8kIRS1wDgi9qJTOmkf3yA640g.a7Vjp4TVSVPxWiQHI93vQGoA_tbfGiWF14oqajv4x3wg.JPEG/F9E46EB6-5DCA-4AE7-BE9D-0C7E906F0144.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "챠챠006"
+      },
+      {
+        "body": "해운대 올 때마다 방문하는 파리앤케이크🍰\n\n디저트 때문에 일부러 찾아오게 되는 곳이에요. 디저트 하나하나가 너무 예쁘고 맛있어요. 많이 달지도 않으면서 풍미가 너무 좋더라구요.\n특히 시트러스 샌드🍋 왼전 원픽이에요💛\n\n차도 맛있어서 항상 2인용 티로 시켜서 마시는데 티팟과 찻잔이 정말 너무 고급스러워서 좋더라구요. 사진 남기기에도 너무 좋아요☕️\n\n시",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjExMDlfMTcy/MDAxNzk0MTkwNzI2NDg4.Y13r2p8eiOlbv4YVoyzX6nfWUmAOlEGBE7UZpz-s398g.gbRULa3fC1aM2mb9smLEISQLBe3TYSC2jfF3oZ5drDQg.JPEG/20261109_102535.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjExMDlfMjIw/MDAxNzk0MTkwNzI2NDY1.pgMfdzWGT2Am3st8eX43biwOSmRCDPZRHq_Q6XYN1hYg.NVpmlG4rL2XVgdDN8rASCs25e9hu6rX5WR5qTnh-c5Mg.JPEG/20261109_095938.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjExMDlfMjMx/MDAxNzk0MTkwNzYzMDI2.-7-siTKMXP3LAXLPkfYevZ5H0eTsZQhOWQ7tP0O-L9kg.ARBUWVxV2MBGouPBEEMFpoLTxokIDtqsQTCKc8iPAvsg.JPEG/1794190746836.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "mmmyyo1"
+      }
+    ],
+    "folderName": "카페 빵집"
+  },
+  {
+    "id": "1056800445",
+    "name": "보노베리 해운대점",
+    "address": "부산 해운대구 중동1로 25-2",
+    "roadAddress": "부산 해운대구 중동1로 25-2 1층",
+    "region": "부산",
+    "district": "해운대구",
+    "subRegion": "해운대",
+    "lat": 35.1629395,
+    "lng": 129.162544,
+    "category": "디저트",
+    "mcid": "CAFE",
+    "naverCategory": "카페,디저트",
+    "phone": "",
+    "virtualPhone": "0507-1371-1422",
+    "hours": "20:30에 라스트오더",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20240603_133/1717399292398RpFVJ_JPEG/1714102582508.jpg",
+      "https://ldb-phinf.pstatic.net/20261019_18/1792388585506ooYkF_JPEG/1699385320100.jpg",
+      "https://ldb-phinf.pstatic.net/20240504_196/1714769339219bm6AO_JPEG/1708921966964.jpg",
+      "https://ldb-phinf.pstatic.net/20240504_173/1714769338971zzFhh_JPEG/1688722995922.jpg",
+      "https://ldb-phinf.pstatic.net/20240412_273/1712886791306pnAyt_JPEG/%BE%F3%B1%D7%C5%B8%B8%A3.jpg",
+      "https://ldb-phinf.pstatic.net/20240412_70/17128864789622UFT2_JPEG/%B0%ED%B1%B8%B8%B6.jpg",
+      "https://ldb-phinf.pstatic.net/20231130_137/1701345858562S8tlC_JPEG/KakaoTalk_20231117_003005459.jpg",
+      "https://ldb-phinf.pstatic.net/20231130_170/1701345877231MH9Bx_JPEG/KakaoTalk_20231117_004521747.jpg",
+      "https://ldb-phinf.pstatic.net/20240412_124/1712886670213cCqJG_JPEG/%B5%FE%B1%E2%C6%BC%B6%F3%28%BD%C5%29.jpg",
+      "https://ldb-phinf.pstatic.net/20231130_95/1701345985709NVSRz_JPEG/KZ_-us6zGUPOfBxt4ZO3JQjk9XCo9jeVQDQ7epdXWpQ%3D.jpg",
+      "https://ldb-phinf.pstatic.net/20231130_43/1701346024177bPINU_JPEG/80ILcRs3CKUeKLLINA_DRK-Z_ysnbdfTNm9mu4Smo6xH-3sElfY1j2mTHp6-HFOwsiJlnhgwxM4VQm8E.jpg",
+      "https://ldb-phinf.pstatic.net/20231130_9/17013459283786bi4l_JPEG/KakaoTalk_20231117_004523077.jpg",
+      "https://ldb-phinf.pstatic.net/20231130_79/1701346004898pjeKp_JPEG/KakaoTalk_20231117_004523729.jpg",
+      "https://ldb-phinf.pstatic.net/20231130_44/1701346049136jjNpJ_JPEG/WUJDGvslr9feibIOnruuXo8tn1BhtUKBt1bUHm54Ba8%3D.jpg",
+      "https://ldb-phinf.pstatic.net/20231130_51/17013460862436DDnF_JPEG/fy7xqvqMBO8Sp7smHmIwJHK-229_KGENbChsyW7Yijs%3D.jpg"
+    ],
+    "thumbnail": "https://ldb-phinf.pstatic.net/20240603_133/1717399292398RpFVJ_JPEG/1714102582508.jpg",
+    "reviews": "방문자 리뷰 2,173",
+    "naverPlaceUrl": "https://m.place.naver.com/place/1056800445",
+    "instagramUrl": "https://www.instagram.com/bonoberry2016",
+    "blogUrl": "",
+    "homepageUrl": "",
+    "menus": [],
+    "microReview": "딸기 생크림케익 타르트 신선한 조합",
+    "conveniences": [
+      "포장",
+      "예약",
+      "무선 인터넷",
+      "단체 이용 가능",
+      "배달",
+      "주차"
+    ],
+    "roadGuide": "해운대 지하철역 1번 출구에서 해운대 구청방향 쪽으로 걸어서 351m 해운대 구청 후문 10m 부근에 있습니다.\n@건물우측 골목안 무료주차장운영 ,만차시 타주차장 이용,지원불가@",
+    "nearestSubway": {
+      "name": "해운대역",
+      "exit": "1",
+      "walkTime": 5
+    },
+    "seatInfo": [],
+    "blogReviews": [
+      {
+        "title": "(여행/부산) 과일 타르트 맛집 [보노베리 해운대점]",
+        "url": "https://m.blog.naver.com/s_uhyon/224460033591",
+        "name": "효니로그 HYONYLOG"
+      },
+      {
+        "title": "하반기의 시작, 7월 ☁-2편",
+        "url": "https://m.blog.naver.com/yomiee__/224479074711",
+        "name": "ghkwls295님의 블로그"
+      },
+      {
+        "title": "부산 해운대 디저트 맛집 보노베리 | 수제케이크와 빵이 맛있는 곳. 느좋카페 방문후기",
+        "url": "https://m.blog.naver.com/bommivlog/224447160193",
+        "name": "좋아하는 것들로 채워가는 삶"
+      }
+    ],
+    "reviewTotal": 2173,
+    "imageReviewCount": 1561,
+    "reviewThemes": [
+      "맛",
+      "만족도",
+      "분위기",
+      "서비스",
+      "메뉴"
+    ],
+    "visitorReviews": [
+      {
+        "body": "결기 기념으로 가족여행왔는데 신랑이랑 아이들은 돼지국밥 먹으러가고 전 혼자 보노베리 와서 무화과 타르트랑 카페라떼 마시며 힐링중이에요.\n부산은 비가 어제부터 종일 내리는데 운치있고 좋네요♡",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjEwMjVfMjc3/MDAxNzkyODkyNDk1OTcz.-aQF2jahmJfXkFyg2fjX64GXG-3eVbqFjdRBIuCM2Xsg.vG5bYyMi4jxkKKYdTzeguqF0sI_xJYcx2uP6IZwUhiAg.JPEG/20261025_102744.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjEwMjVfMjUz/MDAxNzkyODkyNDk1NTg4.aO3p2AZIxJh7Cfjey5D8eivq47dK0KYGj9um12ysN7cg.EooDm1ifSKhll1wGZDR6rqfH21cKKb0RD57fGnBnvpcg.JPEG/20261025_102737.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjEwMjVfODcg/MDAxNzkyODkyNDk1ODYx.6tD9PJBC5PpaVYDNoty6fCOMHYNo1lIzfxBNcwOjx-Ug.7dK1DH8xlld3fJL6Q-0k8b3mTI8lg-ElbnZN_tBrP9Eg.JPEG/20261025_102226.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "커리어브런치"
+      },
+      {
+        "body": "해운대 여행간다니까 친구가 아묻따 여기 꼭 가라고\n체리타르트 꼭먹으라고 해서 왔는데\n체리타르트가 문제가 아니고 샌드위치도 맛있어보이고.. 마들렌 헬로키티 실화입니까? \n체리타르트 요거트 크림에 라즈베리라 맛잘알\n먹고 갈 수도 있으니 강력추천해요",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjExMTdfMjMx/MDAxNzk0ODk2OTYxNjgy.41pI22dGwSyDx9bYWOeAAeG-3g1l0_O10r8QwvHAXzgg.sKqS4JVH7q9gZ8Z5CysceVqX8Rl5fArewJXx-HQLrOUg.JPEG/92699.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjExMTdfMjM3/MDAxNzk0ODk2OTYxNjQ2.m9C6VU6_bqnYbAAdxsbs1y9Xmd7YBzb9Jzs7gNn3nyEg.fhTTFv2ewW7AxcX3PgwSl7UZvM4vtGv5GJIEZQOg2D4g.JPEG/92698.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "쥬뗌12"
+      },
+      {
+        "body": "위스키바 같은 외관이 멋있어 들려봤어요. 음악도 재즈음악. 베이커리만 종류는 많이 없어요. 케이크 맛집입니다. 통밤빵우 찹쌀떡 안에 밤필링으로 버터떡 느낌입니다. 조용해서 좋아요. 커피는 고소합니다",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MjZfMTc4/MDAxNzkwMzk5MTg1OTcy.kz04mgHCYCbz0l5YpdneC3yhJmrDgWbsA5dqQ0MlJSQg.72TdeVZQLhM9J0Ao8OTeqnYiw2YgpezS-GukpkdMZWsg.JPEG/20260926_135241.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MjZfMjY0/MDAxNzkwMzk5MTg2MDY5.CS4tSPR6eqLbET3nQ3DQIIHsswXtBj1AYeF4vWBxjVwg.sGbj3nYhIs0TveFzU2zEf4tINhzjCHop5qwSavvDL-Eg.JPEG/20260926_135300.jpg.jpg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MjZfMjAg/MDAxNzkwMzk5MTg1OTEy.DVyMt5IRMo-0paBcr_pu8fYq7ozD6rFwPoP4fAT7tf0g.wZqYyRDADZaqqI_qkDp8V6klVE3_cXibpHU2voMjkjIg.JPEG/20260926_135840.jpg.jpg?type=w1500_60_sharpen"
+        ],
+        "author": "monariza"
+      },
+      {
+        "body": "해운대먹자골목끝자락 웨이팅없이 조용히 빵사기좋음. 케이크외에 다른빵종류는 많이 없는듯",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjExMTVfMTk2/MDAxNzk0NzIzMzIyNTkz.iAXzA4i8Luq9oOuiEYPpHnOsg7vNPiyTkxylDB4Az5cg.oejsq79fgubeT8o6UXZd_wn4ORYEvz8dBlzELyjj_Asg.JPEG/IMG_5095.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjExMTVfMTQ5/MDAxNzk0NzIzMzIyNjcx.y0iRchBI--gCOHKDqpqXh7bte0R7lDYAw3Rxj2Nt5f8g.zqzfrBAx7lnEdb1VP2JakEy80PxCcQVKSo1Dcgd8OW4g.JPEG/IMG_5096.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjExMTVfMTk4/MDAxNzk0NzIzMzIyNTI0.w-MXDLB_wjtxlZBXPx7nex3o9jx4ed7BDpKnJx42Mw4g.ghyzq4bBhuvCnPc426bcG5PKhjACPBvvMFkZvEn8bnIg.JPEG/IMG_5097.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "thanklovepeace"
+      },
+      {
+        "body": "얼마 전 보노베리 광복점에 다녀왔는데 분위기가 달라요. \n광복점은 모던 심플이라면, 해운대점은 로맨틱 공주풍이예요.\n해운대점이 타르트가 더 다양해요.\n공간이 넓고 인테리어가 워낙 예뻐 보노베리에만 들르면 인생의 여유를 만끽하는 기분이예요.",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDhfMjM3/MDAxNzg4ODY2MTA3MTA1.rtDMXlOrPW42LA8-6u0VjkProJGWwoIyEhmPux9aNm0g.UIlCICwpRHeO27wmPJtlze5YnCwquJg42ksrfoKzwlEg.JPEG/EE94AAAB-53B6-4809-A6B6-495C423A8B7D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDhfMTEw/MDAxNzg4ODY2MTA3MTE2._En4J6PkAEr_BXo6YUGoy4WuyY3rS7wAmWFx-VT-c60g.QSFzatOWCirj9mK77QXOp4CQi4F41Og1yGFtI6CeUSUg.JPEG/3681E4F8-288F-41F7-90DD-7E661ADD6526.jpeg?type=w1500_60_sharpen",
+          "https://pup-review-phinf.pstatic.net/MjAyNjA5MDhfNDYg/MDAxNzg4ODY2MTExNjI4._GHLge8YlYCDzyUQ7cBSnbIIIREP_cvl52IvtS6ydw8g.HKX9ScSuhk_CrNfArGRjFzVbqtirSHUvnE0eaRcdp_Yg.JPEG/9207B76B-FF9B-4E00-B29E-30C0BA0B3DDC.jpeg?type=w1500_60_sharpen"
+        ],
+        "author": "ㄱㄱㄴㄷㄹㅁㅂ"
       }
     ],
     "folderName": "카페 빵집"
